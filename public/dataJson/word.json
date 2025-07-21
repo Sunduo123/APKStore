@@ -1,0 +1,3222 @@
+[
+  {
+    "id": "12969",
+    "name": "Braindom 2",
+    "category": "Word",
+    "rating": "4.8",
+    "downloads": "570M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "Matchingham Games",
+    "version": "1.1.6",
+    "update_date": "2025.03.07",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.braindom2riddle.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/gCjm_pBXM1AMSk-aMMrk3UHqvqTZ4w_m3U9MAbBEZonot-Z4MMGgB-4SsiR51H2JdA",
+      "https://play-lh.googleusercontent.com/CqL-HMNbMOo_ZdQ4skOTcZ87hlD73O5syoMsRMzuQtGzWJ73B8-ftS-q3vBKXQXD388",
+      "https://play-lh.googleusercontent.com/U7c31ziFq9Kmxdh1iSAmfvUUgwOj8taYUMchjyU9Dwekl8-2a8ub2dOUrbOsPWfaxR4",
+      "https://play-lh.googleusercontent.com/NLG2HEsaQn_UBD5504Jmmg5L43yWdzkDi4xhrFsq1Cc_q1sMJHzG4PrU021IkzluOpY",
+      "https://play-lh.googleusercontent.com/pXuD4yhJsALtfOcnKG1TP4bVlTnDK6nICUNuiVXde2lfNXlShwXWQX665WobUsELqms",
+      "https://play-lh.googleusercontent.com/wZzKpvBMbR_PHdizRtVsetYYmpXfyGD73Com_6moUpePgbhpe3uE73YQUF2zjgV73Xc",
+      "https://play-lh.googleusercontent.com/Lk3rROKtRncPEWbpvapYPFEw-uvuJ7OGa9K-csXVJZ3xQcfZ7gjxW0crmTUhel4UPio",
+      "https://play-lh.googleusercontent.com/1XYPSxSX5pdRS2pS9M92lmHh6PmI_HToK2VWqznBo-OTnzTj552H-bFayXyaf8Otgw",
+      "https://play-lh.googleusercontent.com/ZsearIUmquvQ_ALkUziT8nN8QsM29aZTdJDfSffoFJQ1yEj4glJpKkdkxmM89PA5QiGW",
+      "https://play-lh.googleusercontent.com/XM9_Ozgw7EeceQ50yVEZzVpThVuLZgB3tbb1riE0odpdYyxQE7q2GZZ3ifCh3Kg02g",
+      "https://play-lh.googleusercontent.com/00JZ7LsC85qiA-mhECFRqoB7Uq54y0Ii7yCFFsxaRVHNw_DtvSOG5nOUo66Xnl3wWg",
+      "https://play-lh.googleusercontent.com/842RXLGnuRiDybJ8aetQHntaqqREARj4jLchejou75XRClLTArvpME1_9kyLRjlBXBxO",
+      "https://play-lh.googleusercontent.com/M3KFN_F0U1mgsDMl6jc-slmp0bteySLrEQKsFQFj3QEFkg-0rZ1kyCA5cCXPGU48CEI",
+      "https://play-lh.googleusercontent.com/xC6YJIO577gM8JWdZkna-vardSXke0qdqcDBj77KGX9y8FauyBFtHbI0mykDkek6Saw",
+      "https://play-lh.googleusercontent.com/EFb3RY0REe3A-rC0BEREJ6AwDfPzCbYUJgQ0b7ocsPms6yETNIqpI1hnzZ00wTTmRxg",
+      "https://play-lh.googleusercontent.com/aE0M94KTU_7SFiNDfGncqnw6Ir9vqzLFe9GjioGhsoLDJDznNek7FCzaXyba7eWRALwZ",
+      "https://play-lh.googleusercontent.com/aHL47ajcPuUks9sGYHFExfDnnEs7T2Z0N91R0pEjmcYtmebl02ONwmS8B5M7eukKwNKB",
+      "https://play-lh.googleusercontent.com/hk9ZVmQkTLUhJYsLmfpHd8im9AmVl0DlOsuzA4ZewBs21HmQIZz2Y3KB3YImNbMeX4M",
+      "https://play-lh.googleusercontent.com/-Hq945orBkSzLwoAGITpkz-nN_QM-aAbbuk-h7wwZX_msIPN7Vcy_jrZc_3WMUGxerrQ",
+      "https://play-lh.googleusercontent.com/A3NajRLyBfay1tQ8cVeTQkUAUauaeIWoJ6mN7QlTcKapwJHV6c_-hoqWBhjiESHujV6V",
+      "https://play-lh.googleusercontent.com/ptxMuRLc9HjLS9yaWQDF3Hh2Yq39H-uRB2F9wNlkqJLwv91BmGZwDQxaDuD5Eklm79s",
+      "https://play-lh.googleusercontent.com/cdh7DcOeqylmEAcjjRxmiL7fW0eP60_SKNSs8gVwCtn5XE5cxT62gdkzcd4IcZjQcz8",
+      "https://play-lh.googleusercontent.com/nXT1lZwYEMCYANlcrbbmtbBjI-iwrZ-0vgVUS7UXCOkXdu-ep89YiHaRhJWIlBD-htSZ",
+      "https://play-lh.googleusercontent.com/lYBJWkw1NWnWfmfv8wIAshu_32i9ZE08-50TOmVgJEquvW4fItCx14RHJ5_uSUW_LO5p"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Diverse Puzzles",
+            "description": "Braindom 2 offers a wide variety of puzzles, ranging from logic and strategy to riddles and brain teasers, keeping users engaged and challenged."
+          },
+          {
+            "title": "Interactive Gameplay",
+            "description": "The game features interactive elements that require players to tap, swipe, and manipulate on-screen objects to solve puzzles, making the experience immersive."
+          },
+          {
+            "title": "Unique Storylines",
+            "description": "Each puzzle integrates unique storylines that enhance the overall experience, providing context and motivation for players as they progress through the levels."
+          },
+          {
+            "title": "Hints and Help",
+            "description": "If players get stuck, Braindom 2 offers hints and assistance to help them along without giving away the solution, maintaining the challenge."
+          },
+          {
+            "title": "Daily Challenges",
+            "description": "Players can participate in daily challenges that not only offer rewards but also add a competitive edge to the gameplay, encouraging regular engagement."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Engaging and Fun",
+            "description": "The game is designed to be both entertaining and intellectually stimulating, making it perfect for users who love brain games."
+          },
+          {
+            "title": "Variety of Levels",
+            "description": "With numerous levels that increase in difficulty, there’s always something new to solve, catering to both casual and hardcore puzzle enthusiasts."
+          },
+          {
+            "title": "User-Friendly Interface",
+            "description": "Braindom 2 features a clean, intuitive interface that enhances usability, allowing players to focus on puzzle-solving rather than navigation."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Some Puzzles Can Be Frustrating",
+            "description": "A few users may find certain puzzles overly challenging, which might lead to frustration rather than enjoyment."
+          },
+          {
+            "title": "In-App Purchases",
+            "description": "While the game is free to play, certain features and hints may require in-app purchases, which could be a drawback for players looking for a completely free experience."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "Braindom 2 is available for free with access to numerous puzzles and gameplay features."
+          },
+          {
+            "title": "In-App Purchases",
+            "description": "Additional hints and premium content are available through in-app purchases, enhancing the gaming experience for users who wish to progress faster."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.braindom2riddle?version=latest",
+    "slug": "braindom-2"
+  },
+  {
+    "id": "12964",
+    "name": "Word Trip",
+    "category": "Word",
+    "rating": "4.7",
+    "downloads": "410M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "PlaySimple Games",
+    "version": "1.456.0",
+    "update_date": "2025.03.05",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/in.playsimple.wordtrip.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/qv7NtF1HTpKThm6ZYdPdFvov0agUFS1QKxeCnyktrIKUqTKWoDKlrN60E2QOk9aiCQ",
+      "https://play-lh.googleusercontent.com/jrd61CGvL9p8gAw1XgPO2pbPm3pcqtB5rW02a36vNuh10xd73E6cpXb6eSMs4oS6W1I",
+      "https://play-lh.googleusercontent.com/QOdfZbbMEFLvEjZdGoQnBIs-gEzefAI0OGIu4U_n3uZpvcEGoZjW_oMDy-7kCJTWYro",
+      "https://play-lh.googleusercontent.com/cC7R2V2hjnw75bilsFxbNSpr9r6r-mJyPbYvTdJb3NVk92uVGyb9NCqoe3R8DThC_Q",
+      "https://play-lh.googleusercontent.com/FAmwv18yAf7kjEC0x98JjjvIkgtEW1xUjgdYseX9hQehMvw-5Dlu7t-MTUe6-hCB6w",
+      "https://play-lh.googleusercontent.com/jXHnM4PbVBWL002SZuPx9T7otaFHTjweAD8vc1NNl-6VPaB84hGFjxTjH-ZIKT6wEJo",
+      "https://play-lh.googleusercontent.com/vGN-VXUWNNnJtbp6l_cnNpMIrwQIL_iDLxeX5goeGDlo5eDS4SXM_rMmeZU1aVpltA",
+      "https://play-lh.googleusercontent.com/WbpaKf2vJtE1zsu9BugUxfcariDaMPa6GwUQJIve30hKZssu676So8hvQtMlcDfJ",
+      "https://play-lh.googleusercontent.com/qrZJ86uljwhjrCuUGQy3em_72dSm6EDR0dUI0RB1NGX2dbWG8K3i8t7OkHwL5hKwKoo",
+      "https://play-lh.googleusercontent.com/LWrUAuwB4tjtUEqSlOocgDhgTngguAsdlMKVFl67VLYx2OSWDeYPixdI1Jmd6oBysw",
+      "https://play-lh.googleusercontent.com/Wr4ULmptRiuo-BLyNKiYkf2Z9obVco7ZYU3PCGPc4wg1xIL632-Fxf_tjfDdwLHdQQ",
+      "https://play-lh.googleusercontent.com/WduP2wgxBE5P9DX2xmVnkZzz6Ddon1QYbWX3W9ngV8rC1gQPGtNk0iW4urxfQpT2BQ",
+      "https://play-lh.googleusercontent.com/qLcpeod-nxwpO-ug1edZMDnOfTJugz6jPVm04JouaxFSFrRrLKfPCXnCyLyMYp9xIzs",
+      "https://play-lh.googleusercontent.com/2hwOtPhzk14aD5T7K1vtrUsX1mf0HfG0qegi4EDZsrZVT5p22PtjdZR6z0s0vlm6Wg",
+      "https://play-lh.googleusercontent.com/doGWQ6_Hs4g5sT3Spk4dV2WLVgKc8wifEs0qb5eDg4mwSoaC_PiBOjQinSJP4qW--NE",
+      "https://play-lh.googleusercontent.com/NGugB-P829j0E4sc49CfZc8kehjLtrtE1n3RcbNB1IvqsDbtoRzBZjEH7CztMCaxag",
+      "https://play-lh.googleusercontent.com/K-teIWAsCUm7XXhLNGlcBoDfrAeLrCf5Ikq3JiLuqSG7N4BESFkH5M2wfvJX-2Phmro",
+      "https://play-lh.googleusercontent.com/g6hpIl-61Z5f5U7eR4Onc2mczw7VZMDlRB1NqjZo2YBr1dfznQeJH2_m1lIs3uXduA",
+      "https://play-lh.googleusercontent.com/F0V5Ci3lNcOFwyEmapFUtDGc91r1XSaTjKOfh0PrxQdqTwoqwUxO5ftQ5dymYeFRB53k",
+      "https://play-lh.googleusercontent.com/MxdZF1Aqaxenp3MY4Jq5AXsrhPMY_5ZKjLiUnOknJ5PY5ZHpBv8b5bot_QsfdIWFfX4",
+      "https://play-lh.googleusercontent.com/Lr99wRLsZ9IRcVAFmQBjwqywep51_t6yZlKBz3cLpIlKaCUwUTkcXG82WFkWm0stEN_t"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Challenging Word Puzzles",
+            "description": "Word Trip offers a vast array of challenging word puzzles that push your vocabulary and spelling skills to the limit. Players travel through different countries, solving word challenges to unlock new levels and locations, making it an engaging experience."
+          },
+          {
+            "title": "Multilingual Support",
+            "description": "This game caters to a global audience with support for multiple languages. Players can choose their preferred language, enhancing accessibility and allowing users to learn new words in different languages while enjoying the game."
+          },
+          {
+            "title": "Daily Rewards and Events",
+            "description": "Word Trip keeps the excitement alive with daily rewards, events, and special challenges. Players can log in every day to receive free gifts, adding an element of anticipation that keeps them returning to the game regularly."
+          },
+          {
+            "title": "Interactive Word Games",
+            "description": "In addition to traditional word puzzles, the app features various interactive games and mini-games that keep gameplay fresh and entertaining. Players can enjoy a mix of formats that break the monotony and enhance the overall experience."
+          },
+          {
+            "title": "Social Features",
+            "description": "Players can connect with friends and compete in word challenges. This social aspect encourages friendly competition and motivates users to improve their word skills while enjoying a shared gaming experience."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Engaging Gameplay",
+            "description": "The combination of travel-themed levels and word puzzles creates an engaging gameplay experience that appeals to word enthusiasts and casual gamers alike."
+          },
+          {
+            "title": "User-Friendly Interface",
+            "description": "Word Trip features an intuitive user interface that makes navigation and gameplay seamless, allowing players of all ages to dive right in without any steep learning curve."
+          },
+          {
+            "title": "Educational Value",
+            "description": "As players learn new words and improve spelling, Word Trip acts as an enjoyable educational tool, helping users expand their vocabulary in a relaxed and fun way."
+          },
+          {
+            "title": "Frequent Updates",
+            "description": "The developers regularly provide updates that introduce new levels and features, ensuring that the game remains exciting and that players have new challenges to conquer."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "In-app Purchases",
+            "description": "While Word Trip is free to play, some features and hints require in-app purchases, which might limit full game access for users unwilling to spend money."
+          },
+          {
+            "title": "Ads in Free Version",
+            "description": "The free version is supported by ads, which can interrupt gameplay and detract from the user experience, especially for those who prefer uninterrupted play."
+          },
+          {
+            "title": "Limited Challenge Difficulty",
+            "description": "Advanced players might find some levels lacking in difficulty after mastering the basics, potentially leading to boredom in the long term."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "Word Trip is available for free, offering access to the majority of its content, ads included, giving users a chance to enjoy the game without any initial commitment."
+          },
+          {
+            "title": "Premium Subscription",
+            "description": "The premium version offers an ad-free experience and additional features for a monthly subscription fee, enhancing gameplay without interruptions."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.net/b/APK/in.playsimple.wordtrip?versionCode=554&nc=arm64-v8a%2Carmeabi-v7a&sv=23",
+    "slug": "word-trip"
+  },
+  {
+    "id": "12958",
+    "name": "Word Search Explorer",
+    "category": "Word",
+    "rating": "4.9",
+    "downloads": "80M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "PlaySimple Games",
+    "version": "1.142.0",
+    "update_date": "2025.03.07",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/in.playsimple.wordsearch.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/qCpF0XvnWFdDwpAAmmZL5kjZ-jUO9glSaAUPDAHiCSJh7DA314SIbsuhMopF-eb6ftEt",
+      "https://play-lh.googleusercontent.com/oqZmhsm3u00tLBoKqm_aEA_uU5zfnOjMdYqnhFFPmdGjXd3RKgO9oJR0WKPHFTDxdZs",
+      "https://play-lh.googleusercontent.com/K6HStb5Lf-8oKVNHJUGPkEitphUXk2Y3wjJSPNOAilzoNOsrWjfqbeRlyGzSEXE9k1c",
+      "https://play-lh.googleusercontent.com/JPlsHBDv9sk0n7MPHo5C2i8D2Emykas3iQOEFPSb55HxhyG2b0Ur0cbSwL6lgjXuFUA",
+      "https://play-lh.googleusercontent.com/H6AnG4kGzlMFs_v8mwj0TbjUw-V7N-LF7xYEVti88ba6aMFRYZZAzaVxU-ky6CQlfsRz",
+      "https://play-lh.googleusercontent.com/1qBj72eQ2IizFwoMF-469BZ-gj_enavqocUkOzJtSjmgchHMMgy0hlh3-3KeBILYHR0",
+      "https://play-lh.googleusercontent.com/I4EgA2Q5tLONphJ41OwUALKbW08gprMRsFTU8mOgg9sZjV-cFq2Nty9KTwH5vYgihxVb",
+      "https://play-lh.googleusercontent.com/H5yMnlETqugQW1rZMPyLTkeFs1-6VHvbOlarXocTOFUsr-YWGQbctigMxewGeNr5tA",
+      "https://play-lh.googleusercontent.com/9Ykx9vzW-vA6H6T58m7YXAgVk7hecqbIqhEU8igAMzz6Ybs2ESKkZ3dIck9zujw6pw",
+      "https://play-lh.googleusercontent.com/iTxaykoWxJc9udF-WUOkfPoD9_lLl6-OZwjXIpF4gRgWNPiV870Ov7ZmYlNcJ3pAhw",
+      "https://play-lh.googleusercontent.com/EAqd-X8dxCkH8dwml7xeL34HRBDf2oXkjw3kYTeprjxuQ918xjqun3wl0w1iZlnm3Bg",
+      "https://play-lh.googleusercontent.com/GOMakWTQgaNZ-7J_-NxYX5lDVwDdO13FrHLHN3sKJrG8EU4gNnzlC2_krlmnTaDl1w",
+      "https://play-lh.googleusercontent.com/DsPH4eIUxgkbogR1mjsPbHBBguWs_GOqLnsoFb7HWvJKF2fCqp_N05egh9_gokJfft6p",
+      "https://play-lh.googleusercontent.com/GssAQLqBE_IJsLb_VF85-5aqiOm0EjAbjEOgJQYQcsVDqLRLTSZOyHbUgCy9DrKnwWyo",
+      "https://play-lh.googleusercontent.com/FS0XyaU7O6hWD5qZBxDf1aEm4XL_NRBcWiNhR66idDFmz4AXcebGBBgQcqBLtXTKZ6U",
+      "https://play-lh.googleusercontent.com/Kn3EZAH3eQVQQ3f9jMMZIQ66CHbrpS43HCvomN9QmI7G5pTCpPCYim881ySaZXhRtQ",
+      "https://play-lh.googleusercontent.com/r2Os_QBN8vGviUKeqPdKaOmnfyLU76965GqrZIWUgf97K7p1-CHMdHBO0WRRjRDekVIB",
+      "https://play-lh.googleusercontent.com/a0LuUxEYiD2aQiQ1rsnmzkXSHmMXEgyyeBSfG9Ik8mKIQjEDb7RmUyYsFgBhlAMNKG0e"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Vast Word Database",
+            "description": "Explore a massive collection of words categorized by themes, making it easy to find and enhance your vocabulary while having fun."
+          },
+          {
+            "title": "Adaptive Difficulty Levels",
+            "description": "Choose from multiple difficulty levels, catering to all ages and skill levels, ensuring a challenging yet enjoyable experience for everyone."
+          },
+          {
+            "title": "Engaging Gameplay Modes",
+            "description": "Experience various game modes, including timed challenges and daily puzzles, keeping the gameplay fresh and exciting every time you play."
+          },
+          {
+            "title": "User-Friendly Interface",
+            "description": "Navigate the app effortlessly with an intuitive design that enhances your word search experience, allowing you to focus on the fun."
+          },
+          {
+            "title": "Track Progress and Achievements",
+            "description": "Monitor your improvement and unlock achievements as you progress, motivating you to continue enhancing your word search skills."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Fun and Educational",
+            "description": "Not only does the app provide entertainment, but it also helps improve your vocabulary and cognitive skills in a playful manner."
+          },
+          {
+            "title": "Multiple Themes",
+            "description": "With various themes, users can enjoy word searches that interest them most, whether it's animals, sports, or geography."
+          },
+          {
+            "title": "No Internet Required",
+            "description": "Play anytime and anywhere without worrying about internet connectivity, making it a perfect companion for on-the-go entertainment."
+          },
+          {
+            "title": "Regular Updates",
+            "description": "The app frequently adds new puzzles and features, ensuring that users always have fresh content to explore."
+          },
+          {
+            "title": "Suitable for All Ages",
+            "description": "Whether you're a child learning words or an adult looking for a leisure activity, this app caters to users of all age groups."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Ads in Free Version",
+            "description": "While the free version offers great functionality, it does contain advertisements that may interrupt your gameplay experience."
+          },
+          {
+            "title": "Limited Free Content",
+            "description": "Some advanced features and themed packs are locked behind a paywall, which might limit the experience for free users."
+          },
+          {
+            "title": "Possible Repetitiveness",
+            "description": "With certain word categories, players might encounter some repetitive words, reducing the novelty for experienced users."
+          },
+          {
+            "title": "No Custom Word Creation",
+            "description": "Users are unable to create and add their own words to the puzzles, which could enhance personalization and user engagement."
+          },
+          {
+            "title": "Basic Graphics",
+            "description": "While functional, the graphics may not be visually appealing compared to other modern gaming apps, which could affect user experience."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "Available for free with basic features and advertisements, allowing users to enjoy the app without any upfront costs."
+          },
+          {
+            "title": "Premium Subscription",
+            "description": "Unlocks ad-free gameplay, exclusive themes, and additional features for a monthly or yearly subscription, providing enhanced gameplay."
+          },
+          {
+            "title": "In-App Purchases",
+            "description": "Offers optional purchases for special themed packs and extra content, allowing enthusiasts to expand their word search experience."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/in.playsimple.wordsearch?version=latest",
+    "slug": "word-search-explorer"
+  },
+  {
+    "id": "12976",
+    "name": "Briser des Mots",
+    "category": "Word",
+    "rating": "4.8",
+    "downloads": "350M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "FingerLab",
+    "version": "3.401",
+    "update_date": "2025.03.12",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.fingerlab.words.block.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/JQG2OBE-x0EsjFfYQ2TzCFDNwjEJcK0fTm2MAPL32qyIuCE_HrN7vS7-PCU-W5RCRw",
+      "https://play-lh.googleusercontent.com/DFaGDZgmcjfUvHwOPvMcSzfV2X_9PRBvy0lT3-giG0TviVhdxfmAqr5E_olnnLUDeQ",
+      "https://play-lh.googleusercontent.com/lgA8luSQDPuNU_6YlpSpV1pQ-njldMdQrTgT4qc4mIo0A0i6dF1gDr2fDcBVwzD1NQ",
+      "https://play-lh.googleusercontent.com/qjkfZqUhL5EuuieFOwLKMDVno-cT1EPMGECxmxKLdZZ6hxQVjCKgNoznwwyP-Nd9pQ",
+      "https://play-lh.googleusercontent.com/bRynrIzoeST5JuZXZc-qELyQFyISuuUYeEE4wTgYrQXJFrtFvQKrIpxyVI5wuTolUg",
+      "https://play-lh.googleusercontent.com/LrVeH2Pk1gsy5UkSJKrm89ZsGdTCTdQsvT2aEZu8EowV2Mln0fe5jWzU-o1Cutz_NYA"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Word Puzzle Challenges",
+            "description": "Briser des Mots offers an engaging array of word puzzles that challenge players to form words from jumbled letters, encouraging vocabulary expansion and cognitive skills."
+          },
+          {
+            "title": "Multiplayer Mode",
+            "description": "Compete with friends or players worldwide in real-time matches. Engage in friendly competition to see who can solve puzzles faster, adding a social and competitive element to the gameplay."
+          },
+          {
+            "title": "Daily Quests and Rewards",
+            "description": "Each day presents new quests and challenges that reward players with bonuses and in-game currency, keeping gameplay fresh and motivating consistent engagement."
+          },
+          {
+            "title": "Customizable Difficulty Levels",
+            "description": "Players can adjust difficulty settings to match their skill level, ensuring that both beginners and experienced word enthusiasts can enjoy the app without feeling overwhelmed."
+          },
+          {
+            "title": "Offline Gameplay",
+            "description": "Enjoy word challenges without needing an internet connection. Ideal for playing on-the-go, whether you're commuting or in a remote area."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Rich Vocabulary Building",
+            "description": "The game promotes word learning and retention, making it not just entertaining but also educational for players of all ages."
+          },
+          {
+            "title": "Engaging Social Features",
+            "description": "The multiplayer aspect fosters community interaction, allowing players to connect and compete, enhancing the overall gaming experience."
+          },
+          {
+            "title": "Regular Updates",
+            "description": "The app is frequently updated with new puzzles and features, ensuring a continually evolving and enriching gaming experience for users."
+          },
+          {
+            "title": "User-Friendly Interface",
+            "description": "The clean, intuitive design makes it easy for players to navigate the app, enhancing the overall experience without unnecessary distractions."
+          },
+          {
+            "title": "No intrusive ads",
+            "description": "Unlike many free games, Briser des Mots minimizes interruptions from ads, allowing players to focus better on the puzzles."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited Free Content",
+            "description": "While the game offers many features for free, some advanced levels and puzzles are locked behind a paywall, potentially frustrating users seeking comprehensive access."
+          },
+          {
+            "title": "Potential Learning Curve",
+            "description": "New players may find the mechanics and rules overwhelming at first, requiring some time to adjust and fully enjoy the game."
+          },
+          {
+            "title": "Online Connectivity for Multiplayer",
+            "description": "The multiplayer mode requires a stable internet connection, which may be a drawback for those wanting to play during travels or in areas with weak signals."
+          },
+          {
+            "title": "Repetitive Gameplay",
+            "description": "Some users may find the gameplay loop repetitive over time, especially if they engage heavily without taking breaks or diversifying their gaming experience."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "Briser des Mots is available for free, allowing users to enjoy the basic features and puzzles without any cost."
+          },
+          {
+            "title": "Premium Subscription",
+            "description": "A subscription model unlocks exclusive content, additional puzzles, and advanced multiplayer features, providing significant value for dedicated players."
+          },
+          {
+            "title": "In-App Purchases",
+            "description": "Players have the option to buy in-game currency or special packs to enhance their experience, but these purchases are not necessary to enjoy the core gameplay."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.fingerlab.words.block?version=latest",
+    "slug": "briser-des-mots"
+  },
+  {
+    "id": "12968",
+    "name": "Word Cash",
+    "category": "Word",
+    "rating": "4.5",
+    "downloads": "720M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "Puzzle Free Game",
+    "version": "1.9.0",
+    "update_date": "2025.03.14",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.tgd.wordcash.png",
+    "screenshots": [
+      ""
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Engaging Word Puzzles",
+            "description": "Word Cash offers a variety of challenging and engaging word puzzles that stimulate your brain while improving your vocabulary. Players can immerse themselves in different levels that cater to both novices and seasoned wordsmiths, providing a fun and rewarding experience."
+          },
+          {
+            "title": "Daily Rewards",
+            "description": "Every day, players can receive daily rewards that boost their progress in the game. This feature encourages users to return regularly, enhancing engagement and ensuring a steady flow of excitement as they collect bonuses and in-game currency."
+          },
+          {
+            "title": "Multiplayer Mode",
+            "description": "Compete with friends or other players in real-time challenges. The multiplayer mode magnifies the fun factor, allowing users to showcase their skills and enjoy a friendly competition, making Word Cash a social experience as well."
+          },
+          {
+            "title": "Hints and Power-ups",
+            "description": "Players have access to hints and various power-ups to help them solve tougher puzzles. This feature allows for flexibility in gameplay, enhancing user enjoyment by reducing frustration and propelling them toward success."
+          },
+          {
+            "title": "Attractive Visuals and Sounds",
+            "description": "With vibrant graphics and soothing audio effects, Word Cash creates an immersive gaming environment. The appealing visuals and sounds enhance the overall experience, making the game pleasant to play over extended periods."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Intuitive Design",
+            "description": "The user-friendly interface ensures that players of all ages can easily navigate and enjoy the game without feeling overwhelmed. This accessibility makes it suitable for everyone."
+          },
+          {
+            "title": "Educational Value",
+            "description": "By exploring new words and improving language skills through gameplay, Word Cash serves as an educational tool as well as entertainment, appealing to users looking to learn while having fun."
+          },
+          {
+            "title": "Regular Updates",
+            "description": "Frequent updates keep the game dynamic and engaging, introducing new puzzles and features that maintain user interest over time and ensure a vibrant community."
+          },
+          {
+            "title": "Multi-Device Accessibility",
+            "description": "Available on multiple devices, players can seamlessly enjoy Word Cash on their smartphones or tablets, providing flexibility and convenience in gameplay."
+          },
+          {
+            "title": "Community Engagement",
+            "description": "Active community features allow players to connect, share tips, and strategies, enhancing the enjoyment and encouraging collaborative gameplay experiences."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "In-app Purchases",
+            "description": "While the game is free to play, it includes in-app purchases that may frustrate some users who prefer a completely free experience or feel pressured to spend money for progress."
+          },
+          {
+            "title": "Advertisements",
+            "description": "The presence of ads can interrupt the gameplay experience, especially for free users, which might detract from the overall enjoyment when trying to focus on puzzles."
+          },
+          {
+            "title": "Difficulty Spikes",
+            "description": "Some users may encounter sudden increases in difficulty that could lead to frustration, particularly for less experienced players who may find certain levels unattainable."
+          },
+          {
+            "title": "Dependency on Internet Connection",
+            "description": "The game requires an internet connection for certain features and functionalities, which may limit playability in areas with poor connectivity."
+          },
+          {
+            "title": "Limited Language Options",
+            "description": "Currently, Word Cash primarily supports English, which may limit access for non-English speakers or those looking for a more diverse language experience."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "Users can download and play the game for free, accessing basic features and challenges to kick-start their word puzzle journey without any initial investment."
+          },
+          {
+            "title": "Premium Benefits",
+            "description": "The premium version offers additional features such as ad removal, enhanced power-ups, and exclusive puzzles, appealing to players who prefer an uninterrupted and enriched experience."
+          },
+          {
+            "title": "Subscription Model",
+            "description": "In addition to a one-time purchase for premium features, Word Cash also offers a subscription model that grants ongoing access to new puzzles and exclusive daily challenges, making it attractive for avid players."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.tgd.wordcash?version=latest",
+    "slug": "word-cash"
+  },
+  {
+    "id": "12965",
+    "name": "Word Cookies",
+    "category": "Word",
+    "rating": "4.5",
+    "downloads": "630M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "BitMango",
+    "version": "1.2.5",
+    "update_date": "2025.03.20",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/word-cookies.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/EFKuANt1PU28xAJC-NwjwjBrSeEI9fHyNkoF8TG2y_OHawBOPW3DaT4VSNhQv6GbomU",
+      "https://play-lh.googleusercontent.com/8aCTt2W_We1UpUsMoHxvvqjeyIkVN5VqTvFBbjzRbU-3bB-UnWUTDwUi7f4EWWYNjCQ",
+      "https://play-lh.googleusercontent.com/IsxOW66feRqnGnriZd4IMLL15lhLThGh7AQA03Q42bawskbOijH5XrUgSUjhCBTVjWE",
+      "https://play-lh.googleusercontent.com/pOZmcVKGrR0VCIgfMcW98Z99ZtC1afEnD3ZHRGcmDMGTobgGHG-Vb-Ctz5a4CtrCrf8",
+      "https://play-lh.googleusercontent.com/LuZ0GqUzxj6qzxAuMgq5d_Co9MjtG8Qtj6zIfWe_l7c8IDs2M5E-NQUSSHHoVlLtBQ",
+      "https://play-lh.googleusercontent.com/yZqcBwt67q_PeUeje8yQalN-hhR3k2TT79znOTkU6pf0wkx1mAZnlYJBMi8SNDk-2PIU",
+      "https://play-lh.googleusercontent.com/TvVKw0yt-5kuLrcDHe0VptvhBZwUh8zCaedT25L3OxWON4MB-MC9QtqGRJGdSazwxA",
+      "https://play-lh.googleusercontent.com/crvBJhM0Sh9-oO6OCUObBuDyBW8AMsJ7Kxsp9ZIqYCeoc3IdmBoQpN2CIG-BE6he_5Gj",
+      "https://play-lh.googleusercontent.com/LKvseFK18C3yuAkeKyye7jjyxjxG1N0ic8u6CmQq-CSksMLTNOUzVIseVJZRRnNgHZFG",
+      "https://play-lh.googleusercontent.com/j16_Z4QBmlBqBEGFOwzqaEJsgw98bTgQlYTSbQNsFVghFXT8Xl_UkzL5D45_WYyfZ2xv",
+      "https://play-lh.googleusercontent.com/UW1iKM4zYWeHU5SbgQv1V_qjC95SnneSrbW25WCZ0b_hJ2JipYRIgDNEm3u-uju2oHw",
+      "https://play-lh.googleusercontent.com/NSdSFmzRGt-lTYpg18i3NRMrkMD2vyMbB9Gx0WtEf1VgSxBbqKE9UVrNw-bHTu2y7kY",
+      "https://play-lh.googleusercontent.com/aOcEPGwphTotdwSzRGhbF7Rzo9Q1UHvbshB24A7NXWxKedjOEMBOjdzajNCe3DWtNA",
+      "https://play-lh.googleusercontent.com/3AGH_SQ0JD3I8Ngq3ukUYpjwZr5iFzZekG_ROyzSdwikObxSDSUzpB7dZjQDkdllED0",
+      "https://play-lh.googleusercontent.com/FU5Sh0k17VUI5cg8hAFrCBHB60cc1IeaamCuUrHqCq3Vy2QKXr0ibuK2eg2Kz6lXzPg",
+      "https://play-lh.googleusercontent.com/NIMWPGg6WIbo-DitP-lXpgkgotmBjed0-XMEK6vJQu9oJsP0CQ3BLnsyUYAvtpl_vA",
+      "https://play-lh.googleusercontent.com/OUT0959mOoqGxs00iFmMONULfw5XF6uWUvKIoWwJWO-CWPjSYy_WCxThVUNPLom3-dw",
+      "https://play-lh.googleusercontent.com/_t4cIwU-ZF2RPaOnqprN3T6tbYRKx2fq5o_CtGcB-YdWvyoL-iNg8xEVSPP7hLjil20",
+      "https://play-lh.googleusercontent.com/jBJ0LVYcec1sEzuiIorh7TrqOZy9kXh_TdVPJZBRv_s7yyndhE4fIeVlnoEUr7M8FdGJ",
+      "https://play-lh.googleusercontent.com/HUzjZ9x-GycUBSj40TZd8cy0sHAB2TuFxVb8UAP5B2lC919KplRsr1W-loNwU9vidiE",
+      "https://play-lh.googleusercontent.com/pQ3rvaaT1N_QP_i_OaUF8nSbe_vYgZpfeW808Z1Wxyt-fDxicfLoDO9PJ2QRADS8hOc",
+      "https://play-lh.googleusercontent.com/QbBq_tsBaLvC28OP5YGAUhE2uAS1rjIMOtuKBJaA2zOyIRR-pT5AuULVXH067GMCfPul",
+      "https://play-lh.googleusercontent.com/S1Bauc7lX4YRMXConNIRDeY0ICvVpXVviHeE66BS3bhcE9PjQhvVyQeUtLbDekb_iA",
+      "https://play-lh.googleusercontent.com/fPn35lpGx5Hz1CqpEwH98esRrryzmQ9s-uNWZl1eNfDk73vkQbaEYk9p1f8Jvlr-eg",
+      "https://play-lh.googleusercontent.com/-AiiFh9hhaDTbHgNjvMy29Eu6N3r9eMMMnQtp-jrxqs2nT_nMxuLeHRjEwMfJff8gw",
+      "https://play-lh.googleusercontent.com/1-aI8Aj-DxyYP4hmhVLF0rc884TLeXDwiTJhBLGUdFrbEl1NguHm4rQGYlVY0Rp1iiRl",
+      "https://play-lh.googleusercontent.com/rXSifDanFXR4DJo42qZlLEBikcxCjHHON-_eiTK6sVoMHvFcoDcnd0g6uizisGNC743d",
+      "https://play-lh.googleusercontent.com/kIJ1HUWXuVMGHsshGfYpBcBSSJ6DM7yO-pmcowuXsUyFJkzH-xdFZGLY21XsLR7G-Jg",
+      "https://play-lh.googleusercontent.com/i5VznPAarfo-nvyKKHX5bOP--MDdUAaosxUsLTeMAV2a2GGcp0MbNymXpvuwrz_OKDE",
+      "https://play-lh.googleusercontent.com/pAtB-i0E7dfys7C67e6_feh1IQDz_elIXaGVypezgv5BOD4w9Ii6TCRIbhb0_tdGL4Z6",
+      "https://play-lh.googleusercontent.com/_YfPGctKeH6vnX_rk3ZnKm4xeeuwVt1defRRTBskT5mp63WAeNqB5JtMWMHOHXWYXqto",
+      "https://play-lh.googleusercontent.com/U7eAX9TiuPzBI1rLOkMb_t6ERjNNKg54KxwmqkecLeuqCc0MTeGu-GU5So-45n5Dehs"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Engaging Word Puzzles",
+            "description": "Word Cookies offers a variety of challenging and exciting word puzzles that stimulate your brain while being fun and engaging, making it perfect for puzzle enthusiasts."
+          },
+          {
+            "title": "Diverse Levels of Difficulty",
+            "description": "With hundreds of levels to solve, ranging from easy to challenging, players of all skill levels can enjoy the game at their own pace and gradually improve their vocabulary."
+          },
+          {
+            "title": "Baking Theme",
+            "description": "The delightful baking theme not only sets a cheerful tone but also adds a creative twist to word puzzles, with cookies and snacks as part of the gameplay that keeps players entertained."
+          },
+          {
+            "title": "Hints and Daily Rewards",
+            "description": "Players can earn daily rewards and utilize hints to solve tougher puzzles, enhancing the gameplay experience while ensuring that players are incentivized to return to the game regularly."
+          },
+          {
+            "title": "Compete with Friends",
+            "description": "Connect with friends through social features and compete on leaderboards, adding a competitive aspect that encourages healthy competition and engagement."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "User-Friendly Interface",
+            "description": "The intuitive user interface makes it easy for players of all ages to navigate and enjoy the game without chaotic distractions."
+          },
+          {
+            "title": "Educational Benefits",
+            "description": "Encourages learning and enhances vocabulary skills as players discover new words while enjoying the gameplay."
+          },
+          {
+            "title": "Regular Updates",
+            "description": "The game frequently adds new levels and exciting features, keeping the content fresh and players coming back for more."
+          },
+          {
+            "title": "Offline Playability",
+            "description": "Word Cookies can be played without an internet connection, allowing users to enjoy their word puzzles anytime and anywhere."
+          },
+          {
+            "title": "Family Friendly",
+            "description": "Suitable for all ages, making it a perfect family game that can be enjoyed together, promoting bonding over word challenges."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "In-App Purchases",
+            "description": "While free to play, some features and hints require in-app purchases, which may detract from the experience for some players who prefer a completely free game."
+          },
+          {
+            "title": "Repetitive Gameplay",
+            "description": "Over time, some users might find the format of word puzzles becomes repetitive and lacks significant variation."
+          },
+          {
+            "title": "Ad Interruptions",
+            "description": "The presence of ads can disrupt gameplay for free users, potentially leading to frustration during play sessions."
+          },
+          {
+            "title": "Puzzle Difficulty Variability",
+            "description": "Some players have reported inconsistencies in difficulty levels, where certain puzzles may feel disproportionately hard compared to others."
+          },
+          {
+            "title": "Limited Hints",
+            "description": "Hints are limited and may require watching ads or making purchases, which could impede progress during more difficult levels."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free to Play",
+            "description": "The game is free to download and play, offering a vast number of levels at no cost, with optional in-app purchases for hints and ad removal."
+          },
+          {
+            "title": "In-App Purchases",
+            "description": "Players can opt to purchase coins or packages to help them quickly solve puzzles, enhancing their gameplay experience."
+          },
+          {
+            "title": "Ad Removal Subscription",
+            "description": "An optional subscription is available for users who wish to enjoy an ad-free experience, providing seamless gameplay."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.bitmango.go.wordcookies?version=latest",
+    "slug": "word-cookies"
+  },
+  {
+    "id": "12978",
+    "name": "Crossword Jam",
+    "category": "Word",
+    "rating": "4.6",
+    "downloads": "150M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "PlaySimple Games",
+    "version": "1.316.0",
+    "update_date": "2025.03.13",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/in.playsimple.tripcross.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/J8HvJ2VgLOa3I9320L_bnF7RiLI97NPatmzA_R7t5xIlVcDv-zyFJhkqBUJl2gfkqQ",
+      "https://play-lh.googleusercontent.com/ZusER_md1O95ASbWeZHtzjCbpEy5DIWp86sl4q0w43ct_iJ4qJfbz8tdIvmokJs1iuk",
+      "https://play-lh.googleusercontent.com/zYM3vaUWc9UOolPhXTolnYfroU8zT_Zk7qyYgghT7Hud10G0j3rXV5acdk8wlItcqD0",
+      "https://play-lh.googleusercontent.com/g4IT-xflSegJHSXdRrGQZmhavlIrYCTDN3wev6D7w1Ud9cq8aTctSbJXxMQGMZaYPg",
+      "https://play-lh.googleusercontent.com/KYf_gYMn__WZ8TmPJ0q6xbNJ-Odo9XG9yruVR0hmCMBAVJyYYXSeBPwI7K3a42t9FiDs",
+      "https://play-lh.googleusercontent.com/ZdGqqniZ98G87nsxtZM0aXphExZl2QH04HY_jHES66SVw28xz6bqtdGXQK_zsnfeJoo",
+      "https://play-lh.googleusercontent.com/jNzxTL4-zctMlXTGAfaehAVJM1Uofjk7mRbTXdD9pMeP8D6X31ZscsnhTeAih1yWA8c",
+      "https://play-lh.googleusercontent.com/4-fqE3x0YvtFVhz_rht-Oh_EAkcU9QJsfDEh4m0hcGgtPE3HypwDbJJSgNVnW4rWi2o0",
+      "https://play-lh.googleusercontent.com/YhG8Nb5DMTH5T3_4P43hjq7Hxg9f4A7i-B7zDi89Dgi7d-xUBGyOj4DKFTC7x1wEPig",
+      "https://play-lh.googleusercontent.com/0P0hMiKPxzL-ODMhLrQ79XZeBDp8IdKwvUlxo_EB-UAqP_ciGVyrKd6yS_gofqczsBI",
+      "https://play-lh.googleusercontent.com/DXVO_yd_Jlk6uqlNGVvPzqvuHKRlwO0K_09QYhbsZ92SIXKPEI9x-MQqPY_kzZ31kNQ",
+      "https://play-lh.googleusercontent.com/KLjXh9n9ltpRx9d_Ds0v7u6O1UbAwVXivNCVcFNdZ01Pde7y9YTAcuV0tiwlTOpw_1Q",
+      "https://play-lh.googleusercontent.com/zwxUhUCOY3GB5q2l5yTfegoq0CiBvWZh533HKLB6sBTgHW543g4vluRrj_KThwktRWMe",
+      "https://play-lh.googleusercontent.com/1L4nJgP7tj20wptCf2deHwNMLi7FMWs3IWd4YyM87sQpPoM8YKlbjg4RlfUf_lVFASM",
+      "https://play-lh.googleusercontent.com/JgK4Gg8lbknA7rngHWxc5a-oDQ58WC5TM_4GwL-44Hn1SB8kjYuWM3-ZYgEIFumXvkU",
+      "https://play-lh.googleusercontent.com/ru2rHpCdnX-_a-ZNqlO5drE_h7i5ELMtu6gyeAkzQZwytDbkUt7V97uWwbN_BggSh4Qu",
+      "https://play-lh.googleusercontent.com/xN9TsSKcjx_x_J4TLhHw8RLLNYA2VpPAi36VtWBejSLk7A47FxqT0V-Ggq9Chqb-L0Y",
+      "https://play-lh.googleusercontent.com/auTAeTfFRbbCY1oMUgSg4vJ-f5xX9ijVKr9X3dfiBeF8jEcNj60y7xKnh5qpSJ4g3TqF",
+      "https://play-lh.googleusercontent.com/ugELqoQOFEWsO_FukZYOC19oMnsU-Vw6YTKaBp8qrH3UqrJX7lsy01vuQAdo1CS4RQ",
+      "https://play-lh.googleusercontent.com/wSsHl0NUjyV8bYIDaMGkCk5ZksTNZ8NeqrDEYFVgw5MztLe3zJi3id-r4Bj_MC8xhw",
+      "https://play-lh.googleusercontent.com/ViHX31BooRq5kXaH86xHoXzmBx3yrh-j_w8zm8LIorJ20egCQjVGG2IAdenftmoILQ"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Engaging Crossword Puzzles",
+            "description": "Crossword Jam offers a plethora of engaging crossword puzzles that challenge your vocabulary and reasoning skills. Players can enjoy an extensive library of themed puzzles, ensuring a fresh and exciting experience with each game."
+          },
+          {
+            "title": "Daily Challenges",
+            "description": "The app features daily challenges that provide users with new puzzles every day, encouraging consistent play and enhancing cognitive skills while making it fun and rewarding. Completing these challenges can lead to bonuses and extra rewards."
+          },
+          {
+            "title": "User-Friendly Interface",
+            "description": "Crossword Jam is designed with a clean and intuitive interface, making it easy for users of all ages to navigate through puzzles effortlessly. This simplicity allows players to focus more on solving rather than figuring out how to play."
+          },
+          {
+            "title": "Hints and Power-Ups",
+            "description": "Users can access helpful hints and power-ups to enhance their gameplay experience. These tools allow players to overcome difficult puzzles and keep the game enjoyable, reducing frustration on challenging levels."
+          },
+          {
+            "title": "Offline Play",
+            "description": "Crossword Jam allows users to enjoy puzzles even without an internet connection. This feature provides flexibility for players to engage in the game anytime, anywhere, without the need for continuous online access."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Variety of Puzzle Themes",
+            "description": "Crossword Jam boasts a rich variety of themes that make solving puzzles more enjoyable, appealing to users with different interests whether it’s history, science, or pop culture."
+          },
+          {
+            "title": "Cognitive Development",
+            "description": "Regular gameplay can significantly enhance vocabulary, spelling, and problem-solving skills, making it not just entertaining but also educational."
+          },
+          {
+            "title": "Frequent Updates",
+            "description": "The app regularly receives updates that introduce new puzzles and features, ensuring that players always have new content to explore and preventing gameplay from becoming stale."
+          },
+          {
+            "title": "Community Engagement",
+            "description": "Players can connect with friends or compete on leaderboards, adding a competitive edge and social interaction aspect to the gameplay experience."
+          },
+          {
+            "title": "Accessible to Everyone",
+            "description": "The game is suitable for all age groups and skill levels, making it perfect for both casual gamers and serious puzzlers looking for a mental workout."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "In-App Purchases",
+            "description": "While the base game is free, some features and hints require in-app purchases, which may deter users looking for a completely free experience."
+          },
+          {
+            "title": "Learning Curve",
+            "description": "New players may find it tough to adjust to the game's mechanics initially, especially if they are not familiar with crossword formats, potentially affecting their first impression."
+          },
+          {
+            "title": "Ads in Free Version",
+            "description": "The free version of the app contains ads that may disrupt gameplay, which can be annoying for some users who prefer uninterrupted gaming."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "Users can enjoy a free version of Crossword Jam that includes ads and access to a limited set of puzzles, ideal for casual gaming."
+          },
+          {
+            "title": "Premium Subscription",
+            "description": "A premium subscription is available, offering an ad-free experience, exclusive puzzles, and additional hints at a low monthly or yearly fee, providing greater value for dedicated players."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/in.playsimple.tripcross?version=latest",
+    "slug": "crossword-jam"
+  },
+  {
+    "id": "13611",
+    "name": "ワード消し",
+    "category": "Word",
+    "rating": "4",
+    "downloads": "3M",
+    "age": "4+",
+    "price": "0",
+    "safety": "100% Safe",
+    "developer": "BitEpoch",
+    "version": "5.0",
+    "update_date": "2025.01.17",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/block.word.puzzle.crush.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/ymS51o0f64OrbxE_tbXZPtI2Mch4_JjmVAUXzk_s6Cp_f_5pyUxJTQy9Q1vDPwIcK-k",
+      "https://play-lh.googleusercontent.com/PrAUSSLtB2usPRBecpFfSax0SxHLQ1DuDxyGbmzIabmDDLF6mHdTly-TsNFfWZt1hDQ",
+      "https://play-lh.googleusercontent.com/_52TgXwtyaSgVWQ4UtRgh0T4YhOPyaro-Ytrd_d9oikUfHF0aNteYlM4kpYqMpniyFg",
+      "https://play-lh.googleusercontent.com/0EZC4VaNAMNNb2m7pKqx_inscYnjK6PAyJ-RokhiIF_BWtv04VyjUuVcYgmUZDgQrRvf",
+      "https://play-lh.googleusercontent.com/UWoMEs2HmzDG8M8ZYbufcqCeLhXWTHUeb95iprvJshpl43rMHQBXCosOueCWZezBak0",
+      "https://play-lh.googleusercontent.com/7gfyl0HeT7SGKvXojbS1IyQEhVZ_8hqDk09GHIvEtbMjuTHK2KXeCHbBr0yitXZplIY",
+      "https://play-lh.googleusercontent.com/QnFgKbX1FKJlujCcjRLU9li-s7dGISiBtg0rbiAW4Ai8C7qIgzdgDAOePnaT20qPjas",
+      "https://play-lh.googleusercontent.com/vkcqVY7jSQmWr-91z7pobdMMIwHQprlSwSfyxWn6tfWBfIeHcKozbX-JQJ54fAd-iA0_",
+      "https://play-lh.googleusercontent.com/YacHa91KkixWjixFCT9APvLyJ9r2VuVGHewk2jqGLTxMAJ1BNT0IdIDUB4-tQlisgUo",
+      "https://play-lh.googleusercontent.com/EP0pSjRIfo2IRlQRBikVo4iDhlrfMxuDhxBCbQCfz-jikrBxzqhkROSJRTqAYd66hEY",
+      "https://play-lh.googleusercontent.com/FZCJRsfrEEvzUa-eCWr8xBy5rdqRMHr8uRgvlJ_J5PwZIBIpWwFQjfJb-dXavqHiHk4",
+      "https://play-lh.googleusercontent.com/0iGt5J4kLG5uIzXpImond0CirtKW8ij1X6KCG4Obqtm_rOycrCJOJzL5yXy4XDD8rA",
+      "https://play-lh.googleusercontent.com/h487Vhdr6UDFcC_Ei28nGmzylFHEAuUilZ1v0FlJy7_OeOPxoyAvFyEq2pJSuq7x1cI",
+      "https://play-lh.googleusercontent.com/FsgkImkTKdCIvmP8aQOrzp_LE-KL-XXqVxIg4fQrwX_Cx6UOSVGbQg5ILG66tZHa6myq",
+      "https://play-lh.googleusercontent.com/kAuF9YjIiW9Hl9R26_kLkH6HJOqZPX1BCiKNt6wHbMUclYLLDigKEWDsp_FvZevvl8yn",
+      "https://play-lh.googleusercontent.com/g41Wm5InBAn0oZMljtLBbGMBOAVRI6o55VzTwv8PFi9gZ1W6wTvYrPWYema5yINWmvo",
+      "https://play-lh.googleusercontent.com/2xommE6WZNEgou68nQWw5Se7QwCHOEYtuRWVHQuPPFLa9PUM1jIG7lxekXwZ1NYulmI",
+      "https://play-lh.googleusercontent.com/zTIAjc89ZfJd-BM5OqGpefZhtLQJYshGHSTyT9GtEkbPln_K6j8CU4IFGkwEi6NtW-qj",
+      "https://play-lh.googleusercontent.com/MS4YTgF99nNqp4Fqncr2nYI2BRqawKt6dsmVF3qTLGebkmPktpm0QIg91oAEcEUTor-x",
+      "https://play-lh.googleusercontent.com/arpuHG-fNufT5-BGNcteoYEAuL1kuujarFQq2qxpTskbrxrsfagPB8yWHmuYjKfeXoe0",
+      "https://play-lh.googleusercontent.com/ai8Ed0GzVWTsj5zGLGo7IBeY6olMdasbokUZJzX7O2k_jbWRy4MOM8_WR-su3xB_E6TB",
+      "https://play-lh.googleusercontent.com/LsAvRWKqvuq4LlaMfil1u4XWb-fdY0b--h78HATBDZ-kPZ8lUS4xi-TkCdKcbd-UDv4",
+      "https://play-lh.googleusercontent.com/Im4nEFv9dNcs-5dOhOJl-8iIuHMaZPczWU6atY7O1PfsbKXNigUUFynwOW6k3oW2Qhc",
+      "https://play-lh.googleusercontent.com/j5Bu_2hMA8wpLa6YUdJ53PREBx-0u8Z7A-81nFPtjtkKPdU4s0AXcGsmmRTWG-xu35E",
+      "https://play-lh.googleusercontent.com/LhADjQDmEFJHmGxusEtK8cPYKJpKxkN8QuOwmREfCYF61nxPsHUPU6yEgjbxybV8QF0",
+      "https://play-lh.googleusercontent.com/QH7td8hjCdGHIyBaIvYsTgEeNAkgyPKTmrfpnzRVnxW3gP0oB3dp_a2zVYt7aT4IDVE",
+      "https://play-lh.googleusercontent.com/aRluxRu90o7mV0l1ByatSnGraI4dpPO-JbNUYDmeGsh13T0smTt4tGjYHFo1WbvviiMa",
+      "https://play-lh.googleusercontent.com/XsILSmzisJpShMIazUzKj8MAF8pyC1t3iAE6VPqmPK7JLFGPV1uAFc53UnLjWIyOY1s",
+      "https://play-lh.googleusercontent.com/KLGJRMtINUWMUGmBlv3DNxFhAN2SHP9M0Luk_83swb-FMV50zcDY0H0Rha9FtzKk2ko",
+      "https://play-lh.googleusercontent.com/6lY3YS6Sx3pSnNilEPqfcJBYVSqhSXyOkqKMjt-bvDcKrYjnYZS3e7RkdgAtWiYihYZZ",
+      "https://play-lh.googleusercontent.com/VbxFU_z-FcXU316j1VjEV181E7jV0ocqp0yjPQyCde9c4lS9EgKqhaZpEQsEXnpdRvc",
+      "https://play-lh.googleusercontent.com/3Jf381Rc_ZnuvVBg8k3bxolNrTbYGCkmz12D0pTyfJM4KfqV0zK_7bF0mSKCxSqklhb8"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Word Puzzles",
+            "description": "Engage your brain with a variety of challenging word puzzles that require you to connect letters and form words. Perfect for both quick sessions and long gameplay, enhancing your vocabulary while having fun."
+          },
+          {
+            "title": "Unique Gameplay Mechanics",
+            "description": "Experience a unique blend of word search and block-crushing mechanics that set this game apart. Slide and match letters to create words, solving puzzles in an entertaining and addictive manner."
+          },
+          {
+            "title": "Daily Challenges",
+            "description": "Take on daily challenges that offer new and exciting word puzzles every day. Completing these keeps your skills sharp and rewards you with bonuses and achievements."
+          },
+          {
+            "title": "Stunning Graphics",
+            "description": "Enjoy vibrant and colorful graphics that provide an immersive gaming experience. The visually appealing design enhances the enjoyment of word puzzle-solving."
+          },
+          {
+            "title": "Offline Mode",
+            "description": "Play anywhere without the need for an internet connection. Enjoy the game during your commute, while traveling, or in situations where you have no connectivity."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Enhances Vocabulary",
+            "description": "Regular gameplay can significantly improve your vocabulary and spelling skills, making it a productive yet entertaining experience."
+          },
+          {
+            "title": "Addictive Gameplay",
+            "description": "The combination of word forming and block-crushing creates an engaging and addictive gameplay loop that keeps players returning for more."
+          },
+          {
+            "title": "Free to Play",
+            "description": "The game is fully accessible to everyone for free, offering ample content without mandatory purchases, thus appealing to a wide audience."
+          },
+          {
+            "title": "Regular Updates",
+            "description": "Enjoy fresh content with frequent updates that add new levels and features, ensuring the game always remains exciting."
+          },
+          {
+            "title": "User-Friendly Interface",
+            "description": "The intuitive design makes it easy for players of all ages to navigate through the game effortlessly, enhancing the overall user experience."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Occasional Ads",
+            "description": "While the game is free, users may encounter ads that can interrupt gameplay, which might be frustrating for some players."
+          },
+          {
+            "title": "Limited Hints",
+            "description": "Hints are limited in the free version, potentially leading to challenges in later levels without extra purchases to gain additional hints."
+          },
+          {
+            "title": "Repetitive Levels",
+            "description": "Some users may find that the mechanics can become repetitive over time, especially after prolonged play, which may decrease long-term engagement."
+          },
+          {
+            "title": "Device Compatibility",
+            "description": "Performance may vary on older devices, with some users experiencing lag or slower load times, particularly during graphics-intensive sequences."
+          },
+          {
+            "title": "In-App Purchases",
+            "description": "Though the game is free, certain advanced features require in-app purchases, which may not be appealing for all users."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "The free version of the game offers a substantial amount of content to play without any upfront cost, making it accessible to all."
+          },
+          {
+            "title": "In-App Purchases",
+            "description": "Players have the option to purchase hints, ad removal, or other benefits to enhance gameplay, allowing a tailored experience based on user preference."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/block.word.puzzle.crush?version=latest",
+    "slug": "block-word-puzzle-crush"
+  },
+  {
+    "id": "12970",
+    "name": "Word Collect",
+    "category": "Word",
+    "rating": "4.7",
+    "downloads": "920M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "Super Lucky Games LLC",
+    "version": "1.187",
+    "update_date": "2025.03.20",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.platinumplayer.word.addict.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/CvpiCF02tBrCEjhAe3Kkf96ePVUE6HGCgJ2DcmyqBUhhdZb-Txt2wVXrj2aNFgVnPQ",
+      "https://play-lh.googleusercontent.com/7DMixhCl9jaKTLp5AlWdR6vYtUHjUmQwzrzdicc4GK1RL-BnIgWIe40r7a3wjFAAyHA",
+      "https://play-lh.googleusercontent.com/adYrA32hhvKjMfpx84455LxVOPkAns4gesUAyiFF2DMTPcXJrMm10Wg2Nzz9xZh1Qw",
+      "https://play-lh.googleusercontent.com/Lkn_fRp8UQAsJNNEHqqz3VR_nuvSGd-dj3J209IGJ8Kp73REWN-eNQJe5lTjQflfG3xs",
+      "https://play-lh.googleusercontent.com/WTROoNMoR-7PTwoLIR0Kl2k4l0iNRx6a-btycQDC83PD_i7PPbdKeoVGoH6W5DsqMV8R",
+      "https://play-lh.googleusercontent.com/hmpCFujVf-cBP54AD-D3YOMxPLZxfB4QI8CfQIU33u3JHIuDLbkBXztv03bv-6e7gQ",
+      "https://play-lh.googleusercontent.com/1BSx2bqxzwl4qkGvG4SBC4Cw9c2bvODFMyemptNChLwI00MROBDOmrPE9zT4wieF5n0",
+      "https://play-lh.googleusercontent.com/zSiOj8mio9xlhdmJc2DQ-MY-pwCp1Rm3OLYxqvwqSsGFcDgrBAd5P3IurwLvwq0-HA",
+      "https://play-lh.googleusercontent.com/mN86-HL71gOL5C-45JLk_u_EkDTZG6w5QBT4zb68dqIe0MN4YiDNz7TI6oHNSljaA1I",
+      "https://play-lh.googleusercontent.com/Z7SivKpwEp2JF_8RUl6PxmRJr6fzZAY1b0McYHZIWBCk8Xgul-ILSLXe04loOfM-uz4",
+      "https://play-lh.googleusercontent.com/MfwMiDBe_N4uwmx7DGllobPi-HBEoLVwrWaTpFa4d9QDsk9wxMPcjbsuI5H9SbrsKh9c",
+      "https://play-lh.googleusercontent.com/L5z_M_2e0CbqvcCGtvxN7ZlNMvsMCCWUqct1Lds-JwB-atR-OQWSwYlmHHCdmdVpwZk",
+      "https://play-lh.googleusercontent.com/-xwJL5FlPttnbrt-2rJG_Sf-QCVo60cT5szb674P4wlQiuk9foQX0psX8oLzMFXB9_Q",
+      "https://play-lh.googleusercontent.com/qMGRSZrKp39CeqBGZe30wWUJXTVA2Yvfug5hfjELnLaL9UKUAQJvc72bsTC9cTWmvMAU",
+      "https://play-lh.googleusercontent.com/gK2oOqxlQPxUn4iV938TVlAIVFIGm6urPbWWcFIU9g7a7i9D5WOGoiCfyc_MPLDq_tc",
+      "https://play-lh.googleusercontent.com/wZHML_TNM4ZjaADvSJ0PR4e3WD0kgNRgx7UW_iaRKkQ9-3gjwWNIZBJWxNuhTiqaUWA",
+      "https://play-lh.googleusercontent.com/v4rpsEEYYOk4IZCVqWDgkzvAKPiRVL4leW3elMHL-pxcio0zqTF0kVt3Sq_6vOLiKhZI",
+      "https://play-lh.googleusercontent.com/KcJNFkfFHYoP6B_4pGS0Vphar_rwiI3BxMCtKwvG0uYt4clVBGkZVM936y5VsZophw",
+      "https://play-lh.googleusercontent.com/6U87oTTzG55Lo6ma3EQchwUG9PIFfylyvs73yNONDk_7ijBfUG0GNFoRfHzsvceYvw",
+      "https://play-lh.googleusercontent.com/efRx6szmw-13ima61HsWFBAIBiDPiukvhIjPXcrZ6ETI4pThDEs_yKvsuk3BUpiE_FM",
+      "https://play-lh.googleusercontent.com/hIN0uxZZ1UzcuNezmFQaozvC_rd3agpjcjQr1pPWRPeMyzq5JoqwmxeryYX6FHQ0W9k",
+      "https://play-lh.googleusercontent.com/HFtijKQYKWMeSzqaN1nwLWgmn5rd50mOZDUBF60JFjPvcnMiFmWr7C2KeEGKjed7fxY",
+      "https://play-lh.googleusercontent.com/xURS7V29-ea6nSilLEx8gHblGuxwjii-TwPF1qRbuHnZamjqc-u6zbQLddiexaxbtw",
+      "https://play-lh.googleusercontent.com/b2t2oExw9tj886CzhGfEtuZPuGjlO7_k2xu9Smf4HbrW2TWSNy9_psas2HUbDLbH4Sk"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Extensive Vocabulary Challenges",
+            "description": "Word Collect offers a variety of levels with increasing difficulty, ensuring players can enhance their vocabulary while enjoying the thrill of word puzzles."
+          },
+          {
+            "title": "Daily Quests and Rewards",
+            "description": "Engage in daily challenges to earn prizes and boost your progress. This feature encourages consistency and keeps the gameplay fresh and exciting."
+          },
+          {
+            "title": "Relaxing Gameplay Experience",
+            "description": "With an intuitive interface and calming graphics, Word Collect provides a stress-free environment that appeals to both casual gamers and word enthusiasts."
+          },
+          {
+            "title": "Multiple Game Modes",
+            "description": "Players can choose from different modes such as timed challenges or relaxed play, accommodating various play styles and preferences."
+          },
+          {
+            "title": "Social Features",
+            "description": "Compete with friends or challenge them to beat your scores, fostering a sense of community and healthy competition among players."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Educational and Fun",
+            "description": "Players can improve their vocabulary and spelling skills while having fun, making it a great educational tool for all ages."
+          },
+          {
+            "title": "User-Friendly Design",
+            "description": "The simple drag-and-drop mechanics and easy navigation make the app accessible to users of all skill levels, ensuring a smooth gaming experience."
+          },
+          {
+            "title": "Regular Updates",
+            "description": "The developers frequently add new words and challenges, keeping the game fresh and engaging for long-term players."
+          },
+          {
+            "title": "Offline Playability",
+            "description": "Word Collect can be played without an internet connection, allowing users to enjoy the game anytime, anywhere."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "In-App Purchases",
+            "description": "While the basic game is free, some advanced features and customizations require in-app purchases that could deter budget-conscious users."
+          },
+          {
+            "title": "Ads Interruptions",
+            "description": "Users may experience occasional advertisements during gameplay, which can disrupt the immersive experience for some players."
+          },
+          {
+            "title": "Limited Difficulty Variation",
+            "description": "Some users may find that after a certain point, the difficulty does not increase significantly, leading to potential boredom for expert players."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "The free version of Word Collect provides ample gameplay and access to many features, suitable for casual players."
+          },
+          {
+            "title": "Premium Subscription",
+            "description": "A premium subscription offers an ad-free experience, exclusive rewards, and advanced game modes for a small recurring fee, enhancing gameplay."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.platinumplayer.word.addict?version=latest",
+    "slug": "word-collect"
+  },
+  {
+    "id": "14782",
+    "name": "Bible Word Puzzle - Word Games",
+    "category": "Word",
+    "rating": "4.8",
+    "downloads": "2210M",
+    "age": "4+",
+    "price": "0",
+    "safety": "100% Safe",
+    "developer": "Oakever Games",
+    "version": "7.0",
+    "update_date": "2025.02.27",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/bible.wordgame.words.connect.crossword.cookies.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/-qbClG-Dh_cLjPLbQYMvpKL4XlKAFX2EAW7LrkVtww7vU8DhxGpFPdSwOBk3gH2sCRGR",
+      "https://play-lh.googleusercontent.com/ovGOssTbndySoZNVW5t_EcaJ4e0bOHgo9PjJOcKR4sIqIKjBwDnYbk2zcYR1L4nPjMTP",
+      "https://play-lh.googleusercontent.com/dSqRduVeOFKU0Zsanq7G1laHfhgbToX-GxLXCCkvDUnuLcBzR4WCSo_ho0tRsynuHg",
+      "https://play-lh.googleusercontent.com/w_wq1f4wl1J_OL_JOqrxZ35A7iciCHvHtm7m9bB3jTlE-lt5o8W1tmJRvApKCZE71-c",
+      "https://play-lh.googleusercontent.com/m9oXKuI_1AaTSb-yIIlu9FiHCDsTuZaNdPyqRPX4dqYgPO7yEgZycANXoFa51hdwoyA",
+      "https://play-lh.googleusercontent.com/YZf626iIUa6G36XFcu0f_SQFj0jJv4ksTQbhyN-zh40qsqcdQP-aQQWWIduSLGx0V0A",
+      "https://play-lh.googleusercontent.com/6yr_RZCyjMD9-VFF8JN6Z3Vm7Ax49N_Q_9_cr8jzD8XE3Tpu0MEkrj9B4_utptn3M2uA"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Engaging Word Puzzles",
+            "description": "Bible Word Puzzle offers a series of challenging word puzzles that test your vocabulary and biblical knowledge, ensuring a fun and educational experience."
+          },
+          {
+            "title": "Daily Challenges",
+            "description": "Each day presents new challenges, keeping the gameplay fresh and encouraging daily engagement while providing users with unique words and biblical themes."
+          },
+          {
+            "title": "User-Friendly Interface",
+            "description": "The app features a clean and intuitive design, making it easy for users of all ages to navigate through puzzles and track their progress effortlessly."
+          },
+          {
+            "title": "Interactive Learning",
+            "description": "Players can learn about various Bible verses and stories as they progress, transforming gameplay into a meaningful learning experience."
+          },
+          {
+            "title": "Multiplayer Mode",
+            "description": "Connect with friends or other players online and compete in solving puzzles, enhancing the social aspect of this word game."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Fun and Educational",
+            "description": "Combines entertainment with learning, making it ideal for users who enjoy games that deepen their knowledge of the Bible."
+          },
+          {
+            "title": "Regular Updates",
+            "description": "The app is frequently updated with new puzzles and features based on user feedback, ensuring continued enjoyment and value."
+          },
+          {
+            "title": "Offline Play Available",
+            "description": "Players can enjoy the game without an internet connection, allowing them to play anytime and anywhere."
+          },
+          {
+            "title": "Appealing Graphics",
+            "description": "Vibrant graphical elements enhance the user experience, making word hunting visually engaging and enjoyable."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Ad Interruptions",
+            "description": "Free version may contain ads that interrupt the gameplay, which can be distracting for some users."
+          },
+          {
+            "title": "Limited Free Content",
+            "description": "While the free version is enjoyable, accessing some advanced features and more complex puzzles requires a subscription."
+          },
+          {
+            "title": "Learning Curve",
+            "description": "Users new to word puzzles may find some levels challenging initially, potentially leading to frustration before mastering the game."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "The app is free to download and play, offering basic features and a selection of puzzles for casual players."
+          },
+          {
+            "title": "Subscription Model",
+            "description": "A paid subscription unlocks additional features, such as ad-free gameplay and access to exclusive puzzles and rewards."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/bible.wordgame.words.connect.crossword.cookies?version=latest",
+    "slug": "bible-wordgame-words-connect-crossword-cookies"
+  },
+  {
+    "id": "12967",
+    "name": "Wordscapes",
+    "category": "Word",
+    "rating": "4.3",
+    "downloads": "850M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "PeopleFun",
+    "version": "2.5.0",
+    "update_date": "2025.01.18",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.peoplefun.wordcross.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/4rjXtWo5DgsgBIDRMqu_-INGIV1cN6GzLPT5ai0HiYPYc8k4q7gtDcZfiUCPXHGTuw",
+      "https://play-lh.googleusercontent.com/gQGdsp-qfMi0s3jIICOIluPU_rUrVUibpwpc0d8EreY6HF5n86HEVdUx5owQ7e9zFA",
+      "https://play-lh.googleusercontent.com/VGefoLt7-XIWCf7_73TpcRbm5nsFfsBffp4kEIok_oCW-lWPtiifIbKf0syMc-gMHLQ",
+      "https://play-lh.googleusercontent.com/jzvGU6e8HfgTbLQvSvOWM8624nTS5FRAsWXA-vpJEC_hx3u4jJxFcfNOLn_lofTEIc0",
+      "https://play-lh.googleusercontent.com/3E72p1iw3H4X4_60_zjOpZTnh090NPfBUAJ9ektl6X6GwI2WUPOiLTmSQ5W7tJgc3lY",
+      "https://play-lh.googleusercontent.com/Zr4-2F6l_rQmMQzzr4h3xd3jL7c3irrnHF0O6XJxMvARJBKKHXGJrlQvsF6RlOjSvoas",
+      "https://play-lh.googleusercontent.com/ro0FSiT5vGXk6K2xvLn0vJ4bmwG-5MgVhxeeWww3QcoZE005ob4cgnoc1EbRm7aIo2I",
+      "https://play-lh.googleusercontent.com/nM-nieHld3mxoT6HZeedI-WLtZx08bhyDEHADHRsVCIBf63S_GwK0SgFxFuZpF4roM7y",
+      "https://play-lh.googleusercontent.com/-VSS-rBN4g3Ak2Qg2e0EJnZfZG_K8OHR6taVmdz0imYHoisJH7Rq9CMNuyE-DnleM4t3",
+      "https://play-lh.googleusercontent.com/ZpMLwDb6LC3EhTWjbCUSS2Z3UXaKguX0Vp2xOlgqEqZ-QRaQIgwQSABPyW-LIxT7Hq8",
+      "https://play-lh.googleusercontent.com/WvL9pVhK_CXjp1O49oTWJcp9hbBKJi-h-NbQrDS9bjjKPJ1YcxY2QC2owQfFdlujNMjs",
+      "https://play-lh.googleusercontent.com/BWJeY9poOJ4NJFMXnNirTnwOFh6oC1jP1lCNcXS35n5Q3H58kopsriJxXQUqxetq-aA",
+      "https://play-lh.googleusercontent.com/e3Agbi2TA7XWyZK_J1Ak62FLgODAZgA2K47Wt2jsaHEBhHqBcKSD4tvsO5b9sQbxGnDi",
+      "https://play-lh.googleusercontent.com/TtB0TviJ7txG5tQPD2GLhckmol8MTV0mJadw3dUzrbGTW1XAvXC559HHs7xCU8MIfxA",
+      "https://play-lh.googleusercontent.com/qYmybWwHj4Hi8Ml2tOQQWtflu3c0NADnjKaErNNq_4YiNq9gF1prI-d3ogY-SREcd8st",
+      "https://play-lh.googleusercontent.com/fZRRpx8pcmJtSHcrRM5r5RLuS4QZlFV1bdgVDpmN4cCESZktoAsWgH1zVDyElFGm6g",
+      "https://play-lh.googleusercontent.com/ROubMkXHxwDKEfwKCRuGmN4f6lgEU1nR9UpTMk28btXAAemCeypNCAezwTpzoKBcbw",
+      "https://play-lh.googleusercontent.com/HhVJ4pNFYq8ZtDGuiLYrKpzMn7ydc4PoX4B9DpNGlY8up7p4fXcEFpTYnII-exiPRF8",
+      "https://play-lh.googleusercontent.com/z-JemH5D1VeqHa3ieTKf6f03K_nkiqjYSD6R12SHACqAYHO-dMlfNkGSexkxReb3J5g",
+      "https://play-lh.googleusercontent.com/vyKQE708XTJ6gMvQxMHx1pCOutxhu95VH2NbjlmgJF_YgyNyvK7C1e6liGtstLPoa4A",
+      "https://play-lh.googleusercontent.com/BaNb1pVXG-lVTVHx0mB_0kSvYCMLTQq-_wM0wAgscKdjtmCF-pcWr4qNpHbOJuXD6YtW"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Engaging Crossword Gameplay",
+            "description": "Wordscapes offers a unique blend of crossword puzzles and word search mechanics, creating an engaging gameplay experience where players form words from jumbled letters to fill in crossword-style grids."
+          },
+          {
+            "title": "Stunning Visuals",
+            "description": "The game features beautiful and calming backgrounds that change with your progress, enhancing the overall aesthetic and providing a soothing environment as you solve puzzles."
+          },
+          {
+            "title": "Challenging Levels",
+            "description": "With hundreds of levels that increase in difficulty, players are consistently challenged. The game is designed to test vocabulary and expand language skills while providing a fun experience."
+          },
+          {
+            "title": "Daily Challenges and Rewards",
+            "description": "Wordscapes includes daily challenges that engage players with unique tasks, allowing them to earn rewards, unlock new levels, and keep their gameplay fresh."
+          },
+          {
+            "title": "Multifunctional Hints",
+            "description": "Players can utilize hints to reveal letters or solve words, making it easier to progress when faced with tough puzzles. This feature ensures a smoother gameplay experience."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Cognitive Skill Enhancement",
+            "description": "Players improve their vocabulary and cognitive skills through engaging gameplay, making Wordscapes not just a game but a learning tool."
+          },
+          {
+            "title": "Relaxing and Therapeutic",
+            "description": "The calming visuals and music create a relaxing atmosphere that can serve as a stress reliever, making it perfect for downtime."
+          },
+          {
+            "title": "Free to Play with Optional Purchases",
+            "description": "The game offers a robust free version that provides a wealth of content, with optional purchases available for players who want additional hints or customization."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "In-App Purchases",
+            "description": "While the game is free to play, some users may find the in-app purchases necessary for maintaining progress at higher difficulty levels."
+          },
+          {
+            "title": "Ads in Free Version",
+            "description": "The presence of advertisements in the free version can be disruptive to gameplay, although they can be removed with a premium purchase."
+          },
+          {
+            "title": "Limited Offline Play",
+            "description": "Wordscapes requires an internet connection for full functionality, which may be inconvenient for players who want to enjoy the game in offline mode."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "Players can access the entire game for free, which includes a significant number of levels and challenges without any upfront costs."
+          },
+          {
+            "title": "Premium Features",
+            "description": "The subscription offers an ad-free experience, additional hints, and exclusive content, providing a richer gaming experience for a monthly fee."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.peoplefun.wordcross?version=latest",
+    "slug": "wordscapes"
+  },
+  {
+    "id": "12960",
+    "name": "Word Connect",
+    "category": "Word",
+    "rating": "4.8",
+    "downloads": "70M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "ZenLife Games",
+    "version": "4.429.310",
+    "update_date": "2025.03.06",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.wordgame.words.connect.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/0AlN1emCj82D0j606feWsPZLcwPDl7-9YynBzXjZIrlBRkJcn7v2VICYWghuCZu3inM",
+      "https://play-lh.googleusercontent.com/HFs0CaoDuGXfCJrozJ5GfYTsBBOe3MhslUbd54390U5sFjXQibdXiPI2wp5r66hG7lAd",
+      "https://play-lh.googleusercontent.com/TDnKIAGesrtMwNup1Jh0L-qe3riLpI1UqOPlL5han45i2g0MFyrjeyIXrg0dKQId0r9h",
+      "https://play-lh.googleusercontent.com/1fPPOE-th4IytcQu1Tf-UdHLUE7bHoWt65xUmbPDrrWXi_We2PGr76jR-hjIQZp8mw",
+      "https://play-lh.googleusercontent.com/1tRUR5SZ-OuMAsUfhFuf1JAYDYbDihTaLLlAKtbDewOiOQmA1ZK3Q8YJtfuHmcUEAeo",
+      "https://play-lh.googleusercontent.com/CncT3BWuzHnxe5yyr_Co9Ys8vN_qOyJ49iWqHwTucujA6pSdHvmHmX2m9j12AQVLq5U",
+      "https://play-lh.googleusercontent.com/1KYPtB_-njNcHB1s30DEarHJkdOzPa02CUrmTNWgEqcNvHow8xNS2iLVdrbhMZg7HCU",
+      "https://play-lh.googleusercontent.com/r7SG7MRbi3HHqwRDSuL34oK8QKYj26T_od7EB8O7KA2MvxYME2jdOKMoKOnivLJiB64",
+      "https://play-lh.googleusercontent.com/z8q7oldwZMWLpjALQM47rCn-kWSQ8LWHemyoyacxat34a7uq88ETv-Id2Pq5_uZysA",
+      "https://play-lh.googleusercontent.com/qtcplJwrxSw1sN02oSIOiGzvSwHxYR6kY4VfnmKAJXLspJnNeMS-R3GP6rtyjU4VcuA",
+      "https://play-lh.googleusercontent.com/uxR8kxMEBckx94-S1j9HIAX6oYOjw_d4ih_Iwddwb41mvwhYNvy-jR3X9TNeC9-Vpg",
+      "https://play-lh.googleusercontent.com/fs78k56vMAz8cq6xeFB7zF2XeYutSTaKvKdmjiyYmelLw_Kn-AybkpLHI5QNVXyd61A",
+      "https://play-lh.googleusercontent.com/rQevBSOTFyOsJw_pQEMQLyRX4rgMJn1rDa1HGYqpEj-8u2vKo1YmE6U-_OH6-iB-Vt37",
+      "https://play-lh.googleusercontent.com/0E5BsJsA9thY-HbotiyHBM-n4OgYauBG_nBesdXb17OhEugT1R_Hz0O7mhcviDgQksDF",
+      "https://play-lh.googleusercontent.com/rynERLIjWfXiSRiK3dQAAO_WauO4by5RUzYvGgXI8s5mICNYexMTQMNC6bRQkX2ZLQ",
+      "https://play-lh.googleusercontent.com/dAJ7RP7xZDA4vyzTAd_rTU5HQSe8zx0gykmIgMIJbCW292-QPzcnUT9TEXmBd9VSRViw",
+      "https://play-lh.googleusercontent.com/A9mNpI3cB3EhXlbFjRTdjx72J086q1pLZ0_BAYahIdr1NCEdf1CdyVjYEpYxEQxblC4",
+      "https://play-lh.googleusercontent.com/45zgt8nLM9jQ61vgftHFo3Y3gEq5dic3eUz9jPddJ32hCIOriG33AFc_FTA3gBtH0HOU"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Engaging Word Puzzles",
+            "description": "Word Connect offers a myriad of challenging puzzles that stimulate your brain and enhance your vocabulary. By connecting letters in various configurations, players can unlock new levels and discover hidden words."
+          },
+          {
+            "title": "User-Friendly Interface",
+            "description": "The game boasts a clean and intuitive design that makes it easy for players of all ages to navigate. The seamless controls ensure a smooth gaming experience as you advance through increasingly difficult levels."
+          },
+          {
+            "title": "Daily Rewards and Bonuses",
+            "description": "By logging in daily, players can earn exciting rewards and bonuses, such as hints and additional coins. This feature encourages consistent play and helps users progress faster in the game."
+          },
+          {
+            "title": "Offline Play Availability",
+            "description": "Word Connect doesn’t require an internet connection, allowing users to enjoy word puzzles anytime, anywhere. This makes it ideal for on-the-go entertainment or those looking to disconnect from online distractions."
+          },
+          {
+            "title": "Social Integration",
+            "description": "The app allows players to invite friends and share progress on social media platforms. Competing with friends adds a fun and friendly competitive element to the game."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Skill Enhancement",
+            "description": "Playing Word Connect helps improve spelling, vocabulary, and cognitive skills while having fun. It's both educational and entertaining, making it ideal for learners of all ages."
+          },
+          {
+            "title": "Diverse Challenges",
+            "description": "With hundreds of levels ranging from easy to difficult, players can consistently face new challenges that keep the gameplay exciting and engaging, preventing boredom."
+          },
+          {
+            "title": "Frequent Updates",
+            "description": "The developers frequently roll out updates with new levels and features, ensuring that the game stays fresh and users have something to look forward to regularly."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "In-App Purchases",
+            "description": "While Word Connect is free to download, some advancements may require in-app purchases. Players might feel pressured to buy hints or additional features to progress faster."
+          },
+          {
+            "title": "Ad Interruption",
+            "description": "Users may encounter ads between levels, which can disrupt the flow of gameplay. Although these ads are generally skippable, they can be frustrating for some players."
+          },
+          {
+            "title": "Potential Repetition",
+            "description": "Long-term players may find certain puzzles or word combinations recurring, which could limit the novelty and challenge over extended playtime."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version Availability",
+            "description": "Word Connect is available for free with access to basic features and levels. Players can enjoy the majority of the game without spending any money."
+          },
+          {
+            "title": "Premium Subscription",
+            "description": "A premium subscription unlocks additional features, including an ad-free experience, exclusive levels, and more hints. This is a great option for avid players seeking a deeper experience."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.wordgame.words.connect?version=latest",
+    "slug": "word-connect"
+  },
+  {
+    "id": "12974",
+    "name": "Wordscapes Search",
+    "category": "Word",
+    "rating": "4.7",
+    "downloads": "170M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "PeopleFun",
+    "version": "1.19.4",
+    "update_date": "2025.03.14",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.peoplefun.wordsearch.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/6sgEhZB3atB--_Qqof-fm-qf3zI5x6FGL6ZhkQBfFNBdVdXa0tvEE8TEChWtuGanKxY",
+      "https://play-lh.googleusercontent.com/nqRnfG51ee_-NlW0Xkz46xn5Fh8CB9zhVipX3PCFB2LySXeFikplNlHit5xquVRwSSo",
+      "https://play-lh.googleusercontent.com/DgJZnBXx0T44fzFV2l8x7kyAIwYmP0aZCvKN-UcQwSbVWQKaYfG8ZLh-Pd4_yMiU18Q",
+      "https://play-lh.googleusercontent.com/mxAdEB04-4VWM8pozC3mthJ6jBuTaXv4LInakUM10bu9_fAXFwbiC3GLq7fDTaGor8IM",
+      "https://play-lh.googleusercontent.com/pzj3VM949yQUNhQwkrJhZEGoU5zSFe8b8_MtWRWdg3irf68sEzN3I5jsm8IJh4o4X9A",
+      "https://play-lh.googleusercontent.com/uiE-v3wV2Ma7vGu5h4xs5qVT5AP3swJOVIApO9rrtACZsUZQpie3X_h3ivTrBA251RGy",
+      "https://play-lh.googleusercontent.com/3EbSpuyXX57cD1bXs4jjvvc5C6O7hFCYxe2G14pJ09dxVs_dUlsAIHJem395oijRWg",
+      "https://play-lh.googleusercontent.com/TGwbnyYhzhmhW4CRUmBVW5SYknHgDL6nZUCbdzppcmEslkx08Elu_aXVJoE-JXHMiwk",
+      "https://play-lh.googleusercontent.com/OsTXmY5I2F6iU5z6fIFrhoiZAvpuZSVBfkacc2oYB0VI8fu1N8MjFMZ9AaUDDSlLyA",
+      "https://play-lh.googleusercontent.com/fqWCvky1bStCEuYAaWSczJXGWCaAZchWzHjM4p-T9FAnScBGaZVVzAW-xMTmu1Agaw",
+      "https://play-lh.googleusercontent.com/mLMnAWYlsckHZvMFKIT5429R6_M4BHxAV405m6mDmNs5M0GVXcgtvwHKJl2K4dgaAoY",
+      "https://play-lh.googleusercontent.com/LG_8om3piHPLgrOcxmB2U2HzMiRcRjIOovd52LkzQAFB0Mx4-OnXrsFfUJnGFVxuUTk",
+      "https://play-lh.googleusercontent.com/dS_6KHt7Tri4O0hcITgN7fccvVHhdjSfM-WHs5ACyKvmd__WLt_oaPwfVR2b08OlXdA",
+      "https://play-lh.googleusercontent.com/IanNu_6nMzxfuiXyRTZ9Z_uvr20dd6kjGtV7ECHUJwGEeOscDk3LemXKggRdCu241DY",
+      "https://play-lh.googleusercontent.com/JZ8ya3Jg3MVxdKE-PthKFj1IxwYvyGVxxhkMVKnmqLp8NRJReJcGhvgd5s6NRSdJOj9c",
+      "https://play-lh.googleusercontent.com/WWLrLNNIkUiBi6Hx3bW71ct0-sUjPpoB41nzGX49Y0m3LnImf7R9KDCvBQ0AjRfAP84",
+      "https://play-lh.googleusercontent.com/wp4dc4n6hx5PL1BmxbPLcUVIFmTxnb2u10m4YqW8fEuVF2zQwozc2Yx17H-6pvhRZpi-",
+      "https://play-lh.googleusercontent.com/VBFurC_QlZ99P7m4tQ7o5iGZR3yLOvba8bYLcaGnOE-2lLzhXBY0ZtwRPgYaeHtALK0H"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Engaging Word Puzzles",
+            "description": "Immerse yourself in captivating word search puzzles that challenge your vocabulary and puzzle-solving skills. With hundreds of levels to explore, you can enjoy hours of entertainment while expanding your language proficiency."
+          },
+          {
+            "title": "Customizable Difficulty Levels",
+            "description": "Adapt the challenge to your skill level with customizable difficulty settings. Whether you’re a beginner looking for casual fun or an expert seeking intense challenges, Wordscapes Search caters to all players."
+          },
+          {
+            "title": "Visual Enhancements",
+            "description": "Enjoy a beautiful and vibrant design that enhances your playing experience. The aesthetically pleasing graphics and animations create an inviting atmosphere that keeps you engaged and motivated to solve more puzzles."
+          },
+          {
+            "title": "Daily Rewards and Challenges",
+            "description": "Participate in daily challenges and collect rewards to boost your game progress. The regular updates and seasonal events keep the gameplay fresh and exciting, rewarding your dedication and skill."
+          },
+          {
+            "title": "Social and Sharing Features",
+            "description": "Connect with friends and share your progress on social media. Compete with others and compare scores to enhance the fun and foster a sense of community amongst word game enthusiasts."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Large Puzzle Library",
+            "description": "With an extensive library of puzzles, you’ll never run out of new challenges. This vast selection keeps the gameplay exciting and provides diverse word combinations for endless fun."
+          },
+          {
+            "title": "User-Friendly Interface",
+            "description": "Navigating through the app is seamless and user-friendly, allowing you to focus on solving puzzles instead of struggling with the controls. The intuitive design caters to all ages and experience levels."
+          },
+          {
+            "title": "Regular Updates",
+            "description": "The developers frequently release updates with new puzzles and features, ensuring that the game evolves and remains engaging for returning players, enhancing long-term satisfaction and retention."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Ads in Free Version",
+            "description": "The free version includes ads that can interrupt gameplay, which may detract from the overall experience, especially for users seeking a distraction-free environment."
+          },
+          {
+            "title": "Limited Offline Features",
+            "description": "While you can play certain puzzles offline, a significant portion of features and content requires an internet connection, limiting access for users without consistent online availability."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "The free version of Wordscapes Search offers a substantial amount of content, but it’s ad-supported, allowing users to explore without any initial investment."
+          },
+          {
+            "title": "Premium Subscription",
+            "description": "Opt for the premium subscription to remove ads and unlock exclusive content and features, providing an enhanced experience for dedicated players, priced competitively within the market."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.peoplefun.wordsearch?version=latest",
+    "slug": "wordscapes-search"
+  },
+  {
+    "id": "14094",
+    "name": "Infinite Craft by Neal",
+    "category": "Word",
+    "rating": "4.7",
+    "downloads": "174M",
+    "age": "4+",
+    "price": "0",
+    "safety": "100% Safe",
+    "developer": "neal.fun",
+    "version": "5.1",
+    "update_date": "2024.05.25",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/fun.neal.infinite.craft.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/hTs4IE5aqe5XWV9ACndzboCn7PPQE3hF1uvCh4WlUmVLiMd4jy-Yw_OsMMJgIrQ7jUI",
+      "https://play-lh.googleusercontent.com/ltUY65tJ-T0wUL40lTcRXgDhCi8B2rJMWKLQUP0_sijviIcPRaUEW7ofWdd224td7E-j",
+      "https://play-lh.googleusercontent.com/DG9Ya7KFCZEzNahUS7RqqH0YZ6m4KaKxRE1uralEWFxej3Z83Ic821vklo97k8VhWio",
+      "https://play-lh.googleusercontent.com/oH6jn3l1krZ16J9lHGRgB4wC-G27AMgX5T1xsiqzM-C4eMR0mCcfNoqmPN8XgYEqdNg"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Endless Building Options",
+            "description": "Infinite Craft offers users an expansive array of building materials and tools, allowing for limitless creativity. Whether you're looking to construct intricate structures or simple shelters, the variety ensures that every player's vision can come to life."
+          },
+          {
+            "title": "Multiplayer Mode",
+            "description": "Collaborate with friends in real-time through the multiplayer feature. Build together, share resources, and explore worlds as a team, fostering cooperation and enhancing the overall gaming experience."
+          },
+          {
+            "title": "User-Friendly Interface",
+            "description": "With an intuitive and easy-to-navigate interface, players of all ages can engage with the game effortlessly. The simple controls allow both beginners and experienced players to dive right into crafting without a steep learning curve."
+          },
+          {
+            "title": "Diverse Environment Exploration",
+            "description": "Travel through various themed environments, each presenting unique resources and challenges. Players can immerse themselves in distinctly different worlds, keeping the gameplay fresh and exciting."
+          },
+          {
+            "title": "Regular Updates",
+            "description": "The developers frequently roll out updates that introduce new materials, tools, and features. This ensures that the gameplay remains engaging and that players always have new content to explore."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Immersive Creative Experience",
+            "description": "The game promotes imagination, allowing players to express their creativity through building and crafting, making each gaming session unique."
+          },
+          {
+            "title": "Strong Community Engagement",
+            "description": "With its multiplayer mode, users benefit from an enhanced social experience, enabling interaction and collaboration with fellow craft enthusiasts."
+          },
+          {
+            "title": "Optimized Performance",
+            "description": "Designed for smooth performance across a range of devices, ensuring that players can enjoy the game without frustrating lag or crashes."
+          },
+          {
+            "title": "No Time Limits",
+            "description": "Players can build and explore at their own pace without any imposed time constraints, providing a relaxed gaming experience."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "In-App Purchases",
+            "description": "Some advanced features and exclusive content require in-app purchases, which may limit accessibility for players seeking the full experience without spending money."
+          },
+          {
+            "title": "Limited Single Player Content",
+            "description": "While multiplayer mode shines, the single-player experience may feel lacking for users who prefer crafting without the social aspect."
+          },
+          {
+            "title": "Resource Management Challenge",
+            "description": "Players may find resource gathering tedious at times, particularly in early stages, which could frustrate those looking for quick crafting sessions."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "The free version provides fundamental building tools and materials, allowing users to explore most of the game without financial commitment."
+          },
+          {
+            "title": "Premium Subscription",
+            "description": "The premium version unlocks exclusive materials, advanced crafting tools, and special environments, enhancing the overall gameplay experience for committed players."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/fun.neal.infinite.craft?version=latest",
+    "slug": "fun-neal-infinite-craft"
+  },
+  {
+    "id": "12963",
+    "name": "SCRABBLE",
+    "category": "Word",
+    "rating": "4.8",
+    "downloads": "290M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "ELECTRONIC ARTS",
+    "version": "5.36.0.938",
+    "update_date": "2025.03.14",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/scrabble.png",
+    "screenshots": [
+      ""
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Classic Word Gameplay",
+            "description": "SCRABBLE brings the traditional word-building game to your mobile device, allowing you to create words with letter tiles on a virtual board, making it perfect for both casual play and competitive challenges."
+          },
+          {
+            "title": "Multiplayer Mode",
+            "description": "Challenge your friends or match with players worldwide in multiplayer mode, offering a dynamic and engaging experience where strategy and vocabulary skills come into play."
+          },
+          {
+            "title": "Word Definitions and Scoring",
+            "description": "Get instant definitions and word suggestions to enhance your gameplay. The scoring system encourages creativity while helping you learn new words and improve your lexicon."
+          },
+          {
+            "title": "Social Features",
+            "description": "Connect with friends through social media and share your achievements. The game also offers leaderboards and challenges to keep the competition alive."
+          },
+          {
+            "title": "Customizable Games",
+            "description": "Set your own rules with customizable game settings, allowing for personal preferences in scoring and time limits, making every game uniquely tailored to your liking."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Engaging Gameplay",
+            "description": "The blend of strategy and word knowledge keeps players engaged, making every game exciting and different from the last."
+          },
+          {
+            "title": "User-Friendly Interface",
+            "description": "The app boasts a smooth and intuitive interface, ensuring that players of all ages can easily navigate through the game without any steep learning curve."
+          },
+          {
+            "title": "Educational Value",
+            "description": "Playing SCRABBLE helps enhance vocabulary, spelling, and cognitive skills, making it not just entertaining but also educational for users."
+          },
+          {
+            "title": "Regular Updates",
+            "description": "The developers frequently provide updates to improve gameplay and introduce new features, ensuring that users always have something new to look forward to."
+          },
+          {
+            "title": "Cross-Platform Play",
+            "description": "Players can enjoy SCRABBLE across different devices, making it convenient to play with friends regardless of the device they are using."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "In-App Purchases",
+            "description": "Some features and power-ups require in-app purchases, which may be frustrating for players who prefer a completely free experience."
+          },
+          {
+            "title": "Requires Internet Connection",
+            "description": "The multiplayer function necessitates an internet connection, which can limit gameplay options when offline."
+          },
+          {
+            "title": "Ad Interruptions",
+            "description": "The free version includes ads that can interrupt gameplay, slightly detracting from the overall user experience."
+          },
+          {
+            "title": "Limited Dictionary",
+            "description": "The app's dictionary may not include all words found in standard SCRABBLE games, leading to discrepancies and frustrations for avid players."
+          },
+          {
+            "title": "Potential Addictiveness",
+            "description": "The engaging nature of the game may lead to excessive playtime, diverting attention from other responsibilities for some users."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "The free version provides access to basic gameplay, allowing users to enjoy SCRABBLE without any upfront costs, though limited by ads."
+          },
+          {
+            "title": "Premium Subscription",
+            "description": "The premium subscription removes ads and unlocks additional features, providing a more streamlined experience for dedicated players."
+          },
+          {
+            "title": "In-App Purchases",
+            "description": "Players can purchase in-game currency and power-ups to enhance gameplay but are not required to enjoy the game."
+          },
+          {
+            "title": "Affordable Pricing",
+            "description": "The premium options are competitively priced, making them accessible for players who wish to enhance their experience without breaking the bank."
+          },
+          {
+            "title": "Regular Discounts",
+            "description": "Occasional discounts and promotional offers are available, making it easier for users to upgrade to the premium features."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.ea.game.scrabblemattel?version=latest",
+    "slug": "scrabble"
+  },
+  {
+    "id": "13781",
+    "name": "My Name Meaning",
+    "category": "Word",
+    "rating": "3.5",
+    "downloads": "67M",
+    "age": "4+",
+    "price": "0",
+    "safety": "100% Safe",
+    "developer": "KDR Games",
+    "version": "4.4",
+    "update_date": "2025.02.18",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/dh3games.namemeaning.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/f3gTFDn8tNq2eYkNU64_FB3e2zoACXsBjYBoLGOiHRFy6cn18_pS1zemh9Gepg1qLVGi",
+      "https://play-lh.googleusercontent.com/E_wEhhYKgWnZuU-xgEr12n1MsN0aInWDYm5HnyTZXho1T9baSkmHdPwtjR9sG6v1-VE",
+      "https://play-lh.googleusercontent.com/b0i_zHKGzpDSzrbAMbUMiZzPc_b1n-0CGxQgXPSjUkHp6e9NsqKMoS9r_QGVy6BAUXs"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "In-Depth Name Analysis",
+            "description": "My Name Meaning provides detailed interpretations of names, explaining their origins, meanings, and cultural significance, making it an insightful tool for users who want to learn about their own names or those of loved ones."
+          },
+          {
+            "title": "Personalized Name Descriptions",
+            "description": "The app customizes descriptions based on personal traits and preferences, offering users a unique perspective on how names might relate to individual characteristics and life paths."
+          },
+          {
+            "title": "User-Friendly Interface",
+            "description": "With an intuitive and engaging design, My Name Meaning allows users to easily navigate through its features, making the experience enjoyable for both casual users and name enthusiasts."
+          },
+          {
+            "title": "Name Compatibility Check",
+            "description": "The app includes a feature that assesses the compatibility of two names based on their meanings, which can be fun for users looking to understand relationship dynamics."
+          },
+          {
+            "title": "Regular Updates",
+            "description": "My Name Meaning is frequently updated with new content and features, ensuring users have access to the latest name meanings and interpretations."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Extensive Name Database",
+            "description": "The app offers a comprehensive collection of names from various cultures, thus catering to a global audience and providing diverse insights."
+          },
+          {
+            "title": "Engaging Educational Content",
+            "description": "Users can learn not just the meanings, but also interesting facts about different names, enhancing both knowledge and enjoyment."
+          },
+          {
+            "title": "Fun Sharing Feature",
+            "description": "Easily share name meanings and compatibility results with friends through social media, encouraging user interaction and engagement."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited Free Features",
+            "description": "Some advanced features and deeper analyses might require in-app purchases, which could limit the experience for users on a budget."
+          },
+          {
+            "title": "Network Dependency",
+            "description": "The app may require internet access for full functionality, which can be inconvenient for users with limited connectivity."
+          },
+          {
+            "title": "Information Variability",
+            "description": "Some name meanings might vary significantly based on cultural contexts, potentially leading to confusion among users unfamiliar with these differences."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version Availability",
+            "description": "My Name Meaning offers a free version that provides basic name interpretations and features, allowing users to explore before committing to purchases."
+          },
+          {
+            "title": "In-App Purchases",
+            "description": "Users can access premium features and detailed interpretations through one-time payments or subscriptions, enhancing their overall experience."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/dh3games.namemeaning?version=latest",
+    "slug": "dh3games-namemeaning"
+  },
+  {
+    "id": "12977",
+    "name": "Daily Themed Crossword",
+    "category": "Word",
+    "rating": "4.6",
+    "downloads": "500M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "PlaySimple Games",
+    "version": "1.462.0",
+    "update_date": "2025.03.14",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/in.crossy.daily_crossword.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/e7kKVG6tqzNFN0ctEIkeeP_8MoO437NvCfgiNDU-5CzCPVDibRf-Ct38DVRmnM1D9TM",
+      "https://play-lh.googleusercontent.com/THDxilee2QjhW9TZsQwK15IiJW37ahTA3NdSTpr2la9iA7V2fD22r4M7XHRkf1AOrz4",
+      "https://play-lh.googleusercontent.com/73FUM0BL2aDgQWGJVybVChin98qLgpCG4fr_ivInBH0Qnd0CfGQdglbLLW1KD4TNg1FM",
+      "https://play-lh.googleusercontent.com/246E0t05NsnY1zTtwtkXZIAL7PH75Pns0PAXwp121LucUclAJs0zKnbQAMkkEsUi3_w",
+      "https://play-lh.googleusercontent.com/ySFPY9W8wSGJtgj4Pu5pAXW85zDmMfpBfmG1Z_ABfbyQyzOK5NBOpG7eYmwZtgIWs9B-",
+      "https://play-lh.googleusercontent.com/_CqbUNw9xP-wRzBwavutsRsGrJvTPcEGdKvKJm4ctgtm8jXxVDshmE754mbmveuUag",
+      "https://play-lh.googleusercontent.com/UW6mRQaNPD8iT1Xs1ujMEiHPoczC6gHZOUCSFrsFgl7FugNST8SRBpE2tcb5EAaLHdIQ",
+      "https://play-lh.googleusercontent.com/PoiNtkH5NslAgben-ikCUuZ9Qx7vdXATKb0jQDYpLObRLPDh1iXMG2sLplwdwWaKzuJE",
+      "https://play-lh.googleusercontent.com/DQlXxet0Yf-xQB4fEIA1_bIenGg-x202GSjDSmuZslT7qAz73wubIjo_DrkSLdSSLDY",
+      "https://play-lh.googleusercontent.com/R-VpoKgNfw0evzbhIAxm5ZlRFowm41rUfLQGvg6ZMbzS1nSU3gHWBjHZX8HqfChaQpVs",
+      "https://play-lh.googleusercontent.com/Lj4zSoM5BqSER7ok5FOfhDM7mZNeTZBkRosFqzAvCTelC8eAhnCEleB9-T87-fq3U2fM",
+      "https://play-lh.googleusercontent.com/NI41cK2-GkVzqrpJtkRr_tkquR2OU4-hWQnPYHQKU3XGPKlMPb3BcobMjr1pWyRReg",
+      "https://play-lh.googleusercontent.com/lKF5ePPLM7cm5Dz62juVBHSJvuncvwzIZ52SncgUlMZZh2VFIzB21vVtru61f-j3RjM",
+      "https://play-lh.googleusercontent.com/bQGm4nSKUZvdWzO_--HM4bm_rNtD4Q2eMdsDEc-o7SAwFO033kJxZHivD3LMgyUlFQ",
+      "https://play-lh.googleusercontent.com/3mGaj9e-t9xXDrCRlgFKQ0s0Y_XQJzLVCWHtKFscB7Shyc0cz58zOjCP8M3wjEFozQ",
+      "https://play-lh.googleusercontent.com/PjiFCBKF9fEsYypIR3dQffQPwsy7CQaqhxLbWi6_s_uH8wof3UaxDqC3YFs-U-OCDjQ",
+      "https://play-lh.googleusercontent.com/GieflGAIdLIF0zglZKjGqVwSNHpAY_Cpu9Zt3MAuuhTpRem6u5I3yaKQGGOYfNie5Ok",
+      "https://play-lh.googleusercontent.com/CBKMVE4lYQBz1PED1pKYzcA-Mg99cmiHtgZy7xmbtYWyEz9alfiCRSk_FclIj7k87Q",
+      "https://play-lh.googleusercontent.com/zvAXR7d3KT2iJPTePRmigejQ_fNGFYF_BXkte3mfkUp6J8-d9XZMreJ8lIXSZA8jX7pZ",
+      "https://play-lh.googleusercontent.com/AuQ0BdsCNMMoH99oBA8L-HVGzMpaCyv70rHxSLCM2XqW8KduV1Sb3nTLC6G47Iap9A",
+      "https://play-lh.googleusercontent.com/EyDx0amxF2ervw0zF4Ov5LKLduUHKKS31ltOLMare2nU6P5hklc0jsfL6-rpEMyTbAg",
+      "https://play-lh.googleusercontent.com/AbMPzQQnZJ1CArpGtej6hAydA58oNFWTyyAf8WfUJL3apjzxnxKssMNTld_1uPy6zA",
+      "https://play-lh.googleusercontent.com/3LLgqAJAM7MyIvg_xnpwzWaqn-Ovtqo8cRhbTmm-kOAOW9agPAhzFu1ePUxN7BHsPAg",
+      "https://play-lh.googleusercontent.com/kls_Mp6NbtlsuhvBPgYD9LnbVCwxMBXSVp3m7DUVsIb9xKObXQvWxthG0CUuDz8L4A"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Daily Puzzles",
+            "description": "Engage your brain with new themed crossword puzzles every day, offering a fresh challenge and keeping your daily routine exciting."
+          },
+          {
+            "title": "Intuitive Interface",
+            "description": "Enjoy a user-friendly design that makes solving crosswords easy and enjoyable, allowing you to focus on the fun rather than getting lost in navigation."
+          },
+          {
+            "title": "Hints and Helps",
+            "description": "Access a variety of hints to assist with difficult clues, making it simple for players of all levels to progress through the puzzles and enhance their skills."
+          },
+          {
+            "title": "Multiplayer Mode",
+            "description": "Challenge friends or family members in real-time for added fun, turning your crossword experience into a social competition."
+          },
+          {
+            "title": "Themed Categories",
+            "description": "Explore diverse themes in puzzles, from pop culture to history, keeping your interest piqued and making learning enjoyable."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Variety of Themes",
+            "description": "Daily themed puzzles provide a wide range of topics, ensuring that every crossword lover finds something appealing."
+          },
+          {
+            "title": "Engaging Gameplay",
+            "description": "With daily updates, users remain engaged and challenged, encouraging daily play and consistent mental exercise."
+          },
+          {
+            "title": "Customizable Experience",
+            "description": "Players can adjust settings for hints and difficulty levels, tailoring their crossword-solving experience based on their personal preferences."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Potential Ad Interruption",
+            "description": "Free version includes ads that may interrupt gameplay, potentially detracting from the overall experience for some users."
+          },
+          {
+            "title": "Limited Free Content",
+            "description": "The free version may restrict access to certain premium puzzles, tempting users to consider the paid subscription for more content."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "Accessible to anyone, allowing users to enjoy daily puzzles and basic features without any cost."
+          },
+          {
+            "title": "Premium Subscription",
+            "description": "Unlock additional features, including an ad-free experience and exclusive puzzles, available through a monthly or yearly subscription."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/in.crossy.daily?version=latest",
+    "slug": "daily-themed-crossword"
+  },
+  {
+    "id": "13762",
+    "name": "Braindom: Brain Games Test",
+    "category": "Word",
+    "rating": "4.8",
+    "downloads": "5619M",
+    "age": "4+",
+    "price": "0",
+    "safety": "100% Safe",
+    "developer": "Matchingham Games",
+    "version": "7.0",
+    "update_date": "2025.03.12",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.braindom.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/0JQeujdBBAdTO1DcZfFbDfOyfhY4Nxh3P-aqqvp4RnNUkDQerWqSCNnZsrUQhMJVlGo",
+      "https://play-lh.googleusercontent.com/efoo-xMbj-oxnIwe7iiEkxUibZgclIQnXx9stPv4UJu9lzKpDWxxrj6cs7X5QeXzEZ8",
+      "https://play-lh.googleusercontent.com/6rx_UFjOnjdsuVizd0EWVdydTAsfwGLo41S7tPnsGqwu3WW-axt5xNwfvkOPbZZxeJM",
+      "https://play-lh.googleusercontent.com/oiOGaQ0jIKbJmg2zL1agQ7lmFBdJylPxrWA75qXZsrc6xy1u7M-ipMPryejDUtCEKQ",
+      "https://play-lh.googleusercontent.com/Be9BhbRzYPpkTxqV8miKVaGO2Qsds_sqvJFc_gHvudlIaGa4fnupqukK9E-nJkHCLWY",
+      "https://play-lh.googleusercontent.com/DIebV5anc-s3dTjDrxGYj8vZXK5sgFxoyTJ9T6AHqHaZN4zxBtzoXFm7CaZltSibk6_8",
+      "https://play-lh.googleusercontent.com/8-VwWudPP0TeT7tUPAz7W-wjSyoiqa9nOHLJ3QNbSlisfCX-ceuZQaYQiO9yTEbcu0A",
+      "https://play-lh.googleusercontent.com/bbrEissnKVUDkrlVk15SXYSaPiqnyTramKaL_ufUaDD1RG_t6x_ZRwxkVC7aVqWkhn4",
+      "https://play-lh.googleusercontent.com/yz63BU-_otYt8-nZUGIKsfeaCYsSHXSFtmZFSe8QGv1rP0OFvDXnCGqW_Fn5heGqoPw",
+      "https://play-lh.googleusercontent.com/Oaz-OP5NyF6lKK62K3CljDmoKx84v9x-spm6JH5-Wfp70tmsLi9LCBq1DE7JijpTalE",
+      "https://play-lh.googleusercontent.com/LRpxMhbDgx0xl7zViHEtbGIROZ3oGZNnWc_H89ciuC9aPGvIxlwkzTnpQAyVeWxsafk-",
+      "https://play-lh.googleusercontent.com/9rbetRwOLS57yGyXjCN1kJbL6j8YAb3yec4uwsZRK2a4zMDniItEkoqSu1ziYTzTg_8",
+      "https://play-lh.googleusercontent.com/Mps-2UcXFDzmnninAWSd8qKWuO1kQqCzw96GMnC_yGQ9PXAQtgLQ9YKkRZGAgXGX58JP",
+      "https://play-lh.googleusercontent.com/Jln9ODohpX6rLfHSTIsmRBnMXbcne-zWTG5jsuIjPvGwh0Tn8bqyVEbPDxStrn923Y6K",
+      "https://play-lh.googleusercontent.com/xAgV39TbO80a5lpcB1lYSfGYIb0rB3zoq_a3uLnt9b0Yq_3kbbcIDofsuxkurb_bGpk",
+      "https://play-lh.googleusercontent.com/vsjlJaohPFApkORfEtZpU_aOQH7oeDS-ZMH8UVl7ppZkP9_qqEDzP72pc3VcM97Wmx68",
+      "https://play-lh.googleusercontent.com/yomcJ47GG_nhVA48THo3sAn4Ie0-QhU_ErYbjiGPgRiwSx4U3o96dfM2nrDGFGKPfw",
+      "https://play-lh.googleusercontent.com/ZrR0yHAnVGnq-PDQsUzf9yr4s53fZeSo-dSq8DLJ26HCWSzukeTlOu5BuwAlaP9fIVI",
+      "https://play-lh.googleusercontent.com/0yOgTQuxTqxVYHbNSB-FUnddiUBokKx2lSACEfNodXhLAhrArtsi5ae-MIIM_T0KTg",
+      "https://play-lh.googleusercontent.com/Q3aVYvl0d6jg6k-tUHRXDNAPjNzaSSImz-U6j-9SNVQmQhkHAEOh0nUHf2GnCC9BSs_p",
+      "https://play-lh.googleusercontent.com/KFkyo3-1nBViQMu8tAKI7qBTsR4T8BpuA4_FOs9vYO9G6-LKPFQC25K3rnw-Qo1rLw",
+      "https://play-lh.googleusercontent.com/WGQ2Daiu9ya9a1pfBzrzhVNbTI8J4FDhXem26nMLfLPgBJUwZP4NV1Egqilf6GtzBw",
+      "https://play-lh.googleusercontent.com/K6Dr2VKxYsHhqF7yyR0bifYsdfKd2D7G7j_7_UNfhEFrJRsQ8nMfUbqUprHFrl6lxns",
+      "https://play-lh.googleusercontent.com/acSYh4mYKwA2Aw_cgAXF1LMQYDdq-enVc1HjLO3jrSZVPhgq3a5w6liGk-5pZOfVedLA",
+      "https://play-lh.googleusercontent.com/AazINFFcSEjyJTq7viKzhzk97dndkwrs6U4juKyFlJTwwhh9Cv8iBQ7zfyHK2zlcKA",
+      "https://play-lh.googleusercontent.com/D2XbxUPL4tUW_BbQsypbBFAenveL1rKnMm_beyVSxGI6gWPcUUw_JaNZVp-UjCUSrg",
+      "https://play-lh.googleusercontent.com/7drYbBDts5iJl9iNM0tvtn55Mxk9HjOR4r8UpsjykA7CrqnOEirZOn4lsbZghRsuycw",
+      "https://play-lh.googleusercontent.com/s68GTV-WsTBSTlbC0ScPkyXc3caAtS_MHjC8Vo88cq44fqiyjlpU5PQHSDTxCMiSlQ",
+      "https://play-lh.googleusercontent.com/m330TjRTexw7quCZsrErGJVycdD4xXiCMLIXkxkySGosuELSrFp4QihPpBqciBWX3Q",
+      "https://play-lh.googleusercontent.com/-XexkvzNqL6SHBX7DEHfiM5cnSeu4yPfjhA75PPFb7Vr5fUOLBf9EE7AjJ0vUU02dmU",
+      "https://play-lh.googleusercontent.com/s5b7_g79R3DWSCIVsSHonz-71jqaQoUw1aj4FsjG0g1Kb3f6Xpo2ceAfRhgqbQZaSL86",
+      "https://play-lh.googleusercontent.com/BH5Od8-PjGLbs_hsUZA7hl2BZ9A--a7H6nYdQBiG_cGkEtP1sOuvOsbMnUcRZW4wNvHH"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Variety of Brain Games",
+            "description": "Braindom offers a diverse collection of brain puzzles that engage various cognitive skills. Users can tackle riddles, logic puzzles, and trivia questions designed to stimulate critical thinking and problem-solving abilities."
+          },
+          {
+            "title": "User-Friendly Interface",
+            "description": "The app presents a sleek and intuitive design, making it easy for users of all ages to navigate through different games and challenges. Users can quickly access their favorite puzzles without any hassle."
+          },
+          {
+            "title": "Daily Challenges",
+            "description": "With daily challenges that refresh regularly, Braindom keeps users coming back for more. These challenges encourage consistent engagement and help users sharpen their skills incrementally."
+          },
+          {
+            "title": "Hints and Solutions",
+            "description": "For those tricky puzzles, Braindom provides hints and solutions, allowing users to learn and progress without getting stuck. This feature ensures a smooth gaming experience even when faced with challenging tasks."
+          },
+          {
+            "title": "Score Tracking",
+            "description": "The app includes a scoring system to track user progress and achievements. Players can compare their scores with friends or the global community, adding a competitive edge to the experience."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Enhances Cognitive Skills",
+            "description": "Engaging with Braindom's puzzles helps to enhance memory, analytical skills, and logical reasoning, making it not just fun but also educational."
+          },
+          {
+            "title": "Regular Updates",
+            "description": "The game is consistently updated with new puzzles and features, ensuring content freshness and giving users something new to look forward to each week."
+          },
+          {
+            "title": "Social Features",
+            "description": "Braindom allows users to challenge friends and share scores, fostering a community of players and enhancing the fun through social interaction."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "In-App Purchases",
+            "description": "While the app is free to download and includes many puzzles, some of the most challenging content may require in-app purchases which could deter users who prefer entirely free gaming."
+          },
+          {
+            "title": "Occasional Ads",
+            "description": "Users may encounter ads during gameplay, which could disrupt the gaming experience, particularly for those focused on uninterrupted play."
+          },
+          {
+            "title": "Difficulty Level Variation",
+            "description": "Some users may find the difficulty levels inconsistent, with certain puzzles being notably easier or harder than expected, which may affect overall enjoyment."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "The free version provides access to a range of puzzles and daily challenges, making it suitable for casual players looking to enjoy brain games without cost."
+          },
+          {
+            "title": "Premium Subscription",
+            "description": "Users can opt for a premium subscription, which unlocks exclusive content, removes ads, and offers additional hints, providing a more enhanced experience."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.braindom?version=latest",
+    "slug": "com-braindom"
+  },
+  {
+    "id": "12961",
+    "name": "WordBrain",
+    "category": "Word",
+    "rating": "4.5",
+    "downloads": "560M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "MAG Interactive",
+    "version": "1.21.8",
+    "update_date": "2024.09.12",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/wordbrain.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/d8-ZgHknQidxHE-GAJ306WUwTjfJxu4KHspxdCuNe0RLGsBRS2fpqSnKKOFUpBVbaBg",
+      "https://play-lh.googleusercontent.com/aoB-McN5jwel0GVhD6IyBUX6VgZY0ncKORWWIGxxxMDuwAFOpZ68iySqq0-2ApKxYA",
+      "https://play-lh.googleusercontent.com/pdCq4AJUDcxNJ5tR5tEmAmvvzAOpiq6qy65pJDW_CKNp_7cJfTi7JvBd354BmN32YCI",
+      "https://play-lh.googleusercontent.com/ltaLNIOujuzMJQgZ38ZUAKp2Ca88A9_Z1u4YKSk3bbhler4NDJRKjDvjj-BrYfCfYfk",
+      "https://play-lh.googleusercontent.com/R3JoDT0YvDEj2fA6fuSMQKVd4tyHXXyJQelIIfZs-Rq-6SSYa1skcmSbAay2MswuQQ",
+      "https://play-lh.googleusercontent.com/EuGx8oCNqecv8PmbibI2FWZqwZQX9ZJ0LTWXF4vexhOVWhGVsN3MEFzlNGVYGwtO2Tio",
+      "https://play-lh.googleusercontent.com/v2_umYvS3-ViBT-LxweCOfkKSfXnqUl9uSzLjRyTRsUZUeaneWM82LFwNjrIZX1lUrA",
+      "https://play-lh.googleusercontent.com/aNvUBxKlE4j842kSkLsMNqXFwMg6eOp_6NBQhbAGTMSIhJ9xfKRojLbaleRcGPZ8GA",
+      "https://play-lh.googleusercontent.com/P1XE4Z481LuRli84rOEr49Ls94zSSEx-WNXclXlZZG5-QOESyWIGw9m3eR8HtLroSkY",
+      "https://play-lh.googleusercontent.com/5nOubcO0yAhGW6Nz6Cuh1OrqRoV7bT7aOig_NAjLF1PzK1sOFxlsBwfCwtJbTuXnZsk",
+      "https://play-lh.googleusercontent.com/V9UkKZpsKq8d2dGZJYk6SQognIdEd-nbXAl-TmYQ1gHi1fcchdT-w-sdnc3HO8yxwDVw",
+      "https://play-lh.googleusercontent.com/M2oM3oomwqXzujal7jasZB8XQLcClXUnpNUi4GNvhefsqqLSE807cOQ_K9--Tw8Rug"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Challenging Word Puzzles",
+            "description": "WordBrain offers a wide variety of word puzzles that challenge users to think critically and creatively, ensuring an engaging experience that stimulates the mind."
+          },
+          {
+            "title": "Progressive Difficulty Levels",
+            "description": "With hundreds of levels, the game features progressive difficulty that allows players to gradually enhance their vocabulary and problem-solving skills, keeping the gameplay fresh and exciting."
+          },
+          {
+            "title": "Intuitive Touch Controls",
+            "description": "The user-friendly touch controls make it easy for players of all ages to swipe letters and form words, contributing to a smooth and enjoyable gaming experience."
+          },
+          {
+            "title": "Daily Challenges",
+            "description": "Players can engage in daily challenges that not only offer unique puzzles but also provide rewards, encouraging regular participation and enhancing long-term engagement with the app."
+          },
+          {
+            "title": "Multilingual Support",
+            "description": "Compatible with multiple languages, WordBrain allows users to play in their preferred language, catering to a diverse audience and enhancing accessibility."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Engaging and Fun",
+            "description": "The combination of brain training and entertainment makes WordBrain an enjoyable way to enhance vocabulary while having fun."
+          },
+          {
+            "title": "Variety of Puzzles",
+            "description": "With an extensive range of puzzles, players can enjoy a new twist with each level, ensuring they stay engaged without repetition."
+          },
+          {
+            "title": "Minimal Ads",
+            "description": "WordBrain offers a gaming experience with relatively few interruptions from ads, allowing players to focus on their puzzle-solving skills."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited Hints",
+            "description": "Players may find themselves running out of hints, which can hinder progress in challenging levels, adding a layer of frustration for some users."
+          },
+          {
+            "title": "Repetitive Mechanics",
+            "description": "While the game offers a variety of puzzles, some players may feel that the core mechanics become repetitive over time."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free to Play",
+            "description": "WordBrain is free to download and play, providing a substantial amount of content without payment, making it accessible to everyone."
+          },
+          {
+            "title": "In-App Purchases",
+            "description": "Players can purchase hints and additional features to enhance their experience, allowing for customization according to their preferences."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/se.maginteractive.wordbrain?version=latest",
+    "slug": "wordbrain"
+  },
+  {
+    "id": "12971",
+    "name": "Just 2 Pics",
+    "category": "Word",
+    "rating": "4.5",
+    "downloads": "750M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "Blue Boat Co., Ltd.",
+    "version": "1.0.19",
+    "update_date": "2025.03.14",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/just-2-pics.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/soILsSR75ydUuk_V3dJsj9p2cheXRoDFepO58271YkG1-hM7_1Xw9pYu9mF04gffzA",
+      "https://play-lh.googleusercontent.com/wvGoVuoSXiCk5vPG-6EYJSiBJPW1GYCk079_YT7liwyV7iGWqe-Z9arvs-BlGkQ9MlU",
+      "https://play-lh.googleusercontent.com/kD0XPPkars1rZzdmAD1q0ACYCVq0EkvliXLdjd32bCF17YVHg_65mCkHPxF31zuDYUKc",
+      "https://play-lh.googleusercontent.com/RIFGQm5kp1PjsykQzLsoljXEz00SzGMhBL9i8qYp45nIFiQ8p1GV3QFxF7hdfg805_o",
+      "https://play-lh.googleusercontent.com/8YZbvaSYGHmFikVPeR1psO2yG0jd6cfzfmBxF0TY61XUtJJLFyVY07nZifRWGR2QTWM",
+      "https://play-lh.googleusercontent.com/zLCrgG_2GPtsClffa-YJYGsi6V6GgqwWq4juIQMw0lpQAsYaVoxySvJ9I8Lxj1aJGEE",
+      "https://play-lh.googleusercontent.com/Ze1060jyoXN2WTETNGDtpLCG24dQJNLDI-SGhXcgbtoBqR9sljFd_uYVtM9FiLnEyA",
+      "https://play-lh.googleusercontent.com/0vTctjVCufkXv0Msxmx0_QPQKS3TZSOk1iLBYJ8niBPd7q3oIG8UV9fCMO2dqWOqcgEg",
+      "https://play-lh.googleusercontent.com/v63qRJKTBgnzikONTRQ967QljV2sZAJ3iPAjGy6Qo_st5Wr7MLJ5MXRCQJhbaYNokmc",
+      "https://play-lh.googleusercontent.com/uIOdgvnRnuDdAweOiHJGfbkh7GwNWJYQOYoCVS6-DiFxJUYxK7B5Mmnr0k8dlNnV6IQ"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Dual Image Comparison",
+            "description": "Just 2 Pics allows users to easily compare two images side by side, making it perfect for photo editing, social media sharing, or just for fun."
+          },
+          {
+            "title": "Intuitive User Interface",
+            "description": "The app features a user-friendly interface, allowing even the least tech-savvy individuals to navigate effortlessly and create stunning image comparisons."
+          },
+          {
+            "title": "Customizable Templates",
+            "description": "Users can choose from a variety of templates to frame their images creatively, enhancing the visual appeal for presentations or social media posts."
+          },
+          {
+            "title": "Social Sharing Options",
+            "description": "Easily share your side-by-side comparisons on popular platforms like Instagram, Facebook, and Twitter directly from the app."
+          },
+          {
+            "title": "Simple Editing Tools",
+            "description": "Basic editing functions such as cropping, rotating, and adjusting brightness are included, allowing users to enhance images before comparison."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Easy to Use",
+            "description": "The app's straightforward design makes it accessible to all users, regardless of technical expertise, making image comparisons a breeze."
+          },
+          {
+            "title": "Fun for Social Media",
+            "description": "Perfect for creating engaging content, Just 2 Pics enables users to capture attention and foster interaction on social media platforms."
+          },
+          {
+            "title": "Variety of Templates",
+            "description": "With multiple customizable templates available, users can enjoy a unique and personalized experience when showcasing their images."
+          },
+          {
+            "title": "Quick Sharing",
+            "description": "The built-in sharing functionality allows users to distribute their creations quickly, enhancing connectivity and engagement."
+          },
+          {
+            "title": "No Learning Curve",
+            "description": "New users can jump right in without the need for extensive tutorials, making it a fun and spontaneous app for image enthusiasts."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited Advanced Editing",
+            "description": "While basic editing tools are provided, more advanced features might be lacking for professional editors seeking detailed adjustments."
+          },
+          {
+            "title": "Occasional Performance Bugs",
+            "description": "Some users have reported performance lag when working with high-resolution images, which can be frustrating during intense editing sessions."
+          },
+          {
+            "title": "In-app Ads",
+            "description": "The free version contains ads that may interrupt the user experience; upgrading to a premium version could enhance usability."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "Users can enjoy the core functionalities without any cost, making it a great option for casual users and hobbyists."
+          },
+          {
+            "title": "Premium Subscription",
+            "description": "For just a small monthly fee, the premium version offers an ad-free experience, additional templates, and advanced editing tools, enhancing overall use."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.blueboat.justtwopics?version=latest",
+    "slug": "just-2-pics"
+  },
+  {
+    "id": "12975",
+    "name": "Heardle",
+    "category": "Word",
+    "rating": "3.2",
+    "downloads": "250M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "Saeid Abbaspour Baygi",
+    "version": "2.6.2",
+    "update_date": "2023.02.17",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.gamendo.heardle2.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/AfPc18zHUR_PjeMdHqCEYNUosVnBDO02qljWUDL2hP5xnfwOrm_ZZ8t1QXk_pytOHQ",
+      "https://play-lh.googleusercontent.com/tgYuD5nSeF22lkwotWUt44cS5___LmM6iIEWKrFZaWOB5FYFKQuWNV2GFVdfLLubdA",
+      "https://play-lh.googleusercontent.com/UF_gi3ZlWkLvHF64qjALu0No2F3rNoskuV159KVCS3wWrYH1lxL2M8We-XtUMXslj1XK",
+      "https://play-lh.googleusercontent.com/dFf4oZvDDDAXVOhABX3zkbh1FEsPbaE_8KPaTPhrzuYrAFA-U6SSGU8rR7zog6D_608",
+      "https://play-lh.googleusercontent.com/CMfr_ebc0aa-qEv1gjru_SMFpRcHin8GW9tBQEAxv2dQ0vdeT1MVzJCHvjxA6LRaQA"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Music Guessing Game",
+            "description": "Heardle challenges players to identify songs based on short audio clips, enhancing musical knowledge while providing an engaging gameplay experience."
+          },
+          {
+            "title": "Daily Challenges",
+            "description": "Each day presents a new song to guess, keeping the gameplay fresh and encouraging daily participation, which fosters a competitive spirit among friends."
+          },
+          {
+            "title": "Multiple Hints",
+            "description": "Players can use hints to narrow down their options, making the game accessible to both casual listeners and serious music fans alike."
+          },
+          {
+            "title": "Social Sharing",
+            "description": "Results can be easily shared on social media platforms, helping players to showcase their musical prowess and challenge friends to beat their scores."
+          },
+          {
+            "title": "Variety of Genres",
+            "description": "Heardle features a wide range of music genres, ensuring that players can enjoy music they love while also encountering new tracks."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Engaging Gameplay",
+            "description": "Heardle offers a fun and addictive format that encourages players to use their musical knowledge and recall in a competitive and enjoyable way."
+          },
+          {
+            "title": "Community Interaction",
+            "description": "With daily challenges and social sharing features, players connect with friends, turning the game into a social experience fostered by competition."
+          },
+          {
+            "title": "Accessible for All",
+            "description": "The inclusion of hints and a gradual difficulty increase makes Heardle suitable for players of all skill levels, from music novices to experts."
+          },
+          {
+            "title": "Regular Updates",
+            "description": "The game frequently updates its song library, ensuring that the music selection remains current and relevant, enticing users to return."
+          },
+          {
+            "title": "No Heavy Resource Usage",
+            "description": "Heardle is lightweight and performs well on various devices, ensuring that users do not experience lag or crashes while playing."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited Song Previews",
+            "description": "The audio clips are short, which might be challenging for users unfamiliar with the songs, making it difficult to guess correctly without extra experience."
+          },
+          {
+            "title": "Repetitive Gameplay",
+            "description": "Some users may find the daily guessing format becomes repetitive over time, especially if they frequently guess the same genre."
+          },
+          {
+            "title": "Learning Curve",
+            "description": "Players who are not well-versed in current music trends may find it difficult to keep up with daily challenges, potentially leading to frustration."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free to Play",
+            "description": "Heardle is free to download and play, providing access to its core features without any initial cost, encouraging widespread participation."
+          },
+          {
+            "title": "In-app Purchases",
+            "description": "Users have the option to purchase hints or customization features to enhance their gaming experience, though the free version remains fully functional."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.net/b/APK/com.gamendo.heardle2?versionCode=250&nc=arm64-v8a%2Carmeabi-v7a&sv=22",
+    "slug": "heardle"
+  },
+  {
+    "id": "12973",
+    "name": "Words With Friends",
+    "category": "Word",
+    "rating": "3.8",
+    "downloads": "150M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "Zynga",
+    "version": "12.271",
+    "update_date": "2025.02.20",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/words-with-friends.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/zBOuvSNkui5IU2bLwQ23fTGbTl-8HLBEuL2NRAHRo-JKmlc8rXPzsK3NjRM6E5g-OGQ",
+      "https://play-lh.googleusercontent.com/7wsVpzvn_WFxydy4jUm8KSZQBKYgTy6u4iZ8QW-jWc6FaSt5edLySmUOqsV3BwF3Bg",
+      "https://play-lh.googleusercontent.com/hOUXee2cw7dd8JKRjgEY7hRFkjr0yAA_Z-eUuwlR440VH3jj1zmQsO7rJ7T5VRTSMA",
+      "https://play-lh.googleusercontent.com/9ekawGy1YRMxaaE5nSYlSaDP96UtmjjLR-hSY9tsk3AT6oUPmEctYACC2dsuzf3yzfBG",
+      "https://play-lh.googleusercontent.com/zjwsP603i1dowT1QAMeiTOuf0lkI068SmcD_VOo0-3j06RQIDRGwX3P9zQDZRx8aSuo",
+      "https://play-lh.googleusercontent.com/DFbqJXIZYEVTlGpvbPwhFI70lJBM-EN8j2bsvdlUZkRAQ-wC3mevfzaIpzTaSUuraEM",
+      "https://play-lh.googleusercontent.com/oipdP550DLWV-Nc17AEqnOmSxg7sj45PcYebj1_BxRNHP520Y0XjdKt7ifMayYMLUQ",
+      "https://play-lh.googleusercontent.com/vqU060Nzrf-DhFWOG1OeUcNi5yotE64PxJK_uuWB2NHdbnmiwyf9VADa7roFjeQCFw",
+      "https://play-lh.googleusercontent.com/DeIQXAa9J8hG5u_WHwt0TAbo39SYIEVyjFtloB6dpq376IniPrO8EKWHpYdzL89H9g"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Multiplayer Gameplay",
+            "description": "Engage in exciting word battles with friends and players worldwide. Challenge friends in real-time or take your time with asynchronous turns, making it easy to play at your own pace."
+          },
+          {
+            "title": "In-Game Dictionary",
+            "description": "Access an extensive dictionary to check valid words or explore definitions, helping you enhance your vocabulary and strategize your gameplay effectively."
+          },
+          {
+            "title": "Customizable Boards",
+            "description": "Enjoy beautifully designed game boards and customize your tiles with unique layouts. This personalization adds a fun twist to every match."
+          },
+          {
+            "title": "Hints and Power-Ups",
+            "description": "Use hints to discover optimal word placements or activate power-ups to gain an edge in challenging rounds, allowing for a more competitive experience."
+          },
+          {
+            "title": "Social Features",
+            "description": "Connect with friends through social media platforms, share your achievements, and even invite new players to join your games. Build a vibrant community around your word skills."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Word Learning Opportunity",
+            "description": "Playing regularly helps users expand their vocabulary and improve language skills as they encounter new words and definitions throughout matches."
+          },
+          {
+            "title": "Engaging User Interface",
+            "description": "The app features a visually appealing and user-friendly interface which makes navigation intuitive, allowing users to focus on gameplay without distractions."
+          },
+          {
+            "title": "Accessibility",
+            "description": "Compatible with various devices and operating systems, Words With Friends ensures that players can enjoy seamless gaming experiences whether on phones or tablets."
+          },
+          {
+            "title": "Active Community",
+            "description": "With millions of active players worldwide, users can always find an opponent, keeping the competition fresh and exciting."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "In-App Purchases",
+            "description": "Although the game is free to download, some features and power-ups require in-app purchases, which may hinder the play experience for those who prefer to play without spending."
+          },
+          {
+            "title": "Ad Interruptions",
+            "description": "Free versions may be interrupted with advertisements that can disrupt gameplay, although a paid option exists to eliminate these ads."
+          },
+          {
+            "title": "Learning Curve for New Players",
+            "description": "New users may find themselves at a disadvantage against more experienced players until they familiarize themselves with the gameplay mechanics and strategies."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "The game is available for free with access to basic features and ad inclusion, allowing players to enjoy the core experience without any upfront costs."
+          },
+          {
+            "title": "Premium Subscription",
+            "description": "A subscription model offers an ad-free experience, exclusive power-ups, and advanced features designed for dedicated players seeking to elevate their gameplay."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.zynga.words?version=latest",
+    "slug": "words-with-friends"
+  },
+  {
+    "id": "12972",
+    "name": "Words Crush: Hidden Words",
+    "category": "Word",
+    "rating": "4.5",
+    "downloads": "230M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "BitMango",
+    "version": "1.9.6",
+    "update_date": "2024.10.31",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/words-crush-hidden-words.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/-sWPY75XXqPZfZE0GSbfuCIEgn3dtfeTp9rPmG-tXPZowNBKLqESDqR4YRRqQKmQ7Yk",
+      "https://play-lh.googleusercontent.com/XzOIedls6eFe4Ec3aa5XN0-DjuG3mQhotgv-vzhAg9rlL6v20gWcYtstShbjyHRszuYo",
+      "https://play-lh.googleusercontent.com/55NxqsW4C_X3z-BBAUrl3xukNQ2g_YYtwTMrnq2-tmyF7CzZCUn5bnr8pOXtQoSb-3o",
+      "https://play-lh.googleusercontent.com/S2xEa8ZG9mLE5iTUMajnXAWjtjMoWuRI0iSwfsZ5t6-nktlmGGczjDSw1gCvQIa9uzY",
+      "https://play-lh.googleusercontent.com/aHNjAYoLKHoWXQ_o4MfvRA2gY5quGJdy-695CrepbQm9UTzYQZrk8GvI2vpJYkK3jTTX",
+      "https://play-lh.googleusercontent.com/DysVIX5y-P3kMY3pxr66EZlzIx348oe829iqYBSdXuSDo6al3p_wswb6O9RJYT4wV9c",
+      "https://play-lh.googleusercontent.com/XQbzjgnU9F2vJMZkh8Jor1D0Ot688V96n1jgjo4AKvLDbAVjcU2Y89vRFMI2W8kgl-w",
+      "https://play-lh.googleusercontent.com/WbotWSa9EL4KpkXArUHpaYI7HNepxNAD8rKlX-DdRAJiWtBvvMViRN-gq_qZwpdApZ8",
+      "https://play-lh.googleusercontent.com/y5LIYAI_uCrVLBDc_l7O7dvuguNUdFW2mEk4al9WWtueaI2ItEwSAaOi0P0BogSAijAZ",
+      "https://play-lh.googleusercontent.com/8NrGcPoHvQoRzlhkV2Ylpm1rGqCI6KApntvhqhOFpCGyD0AyDHGnwP1-9ehJOGJ3QaBX",
+      "https://play-lh.googleusercontent.com/geiG9yAHxsqMdu0CP3MkOFef33BfX6qn7jx4th8PY7i5jbYZZBgcml7bn_kphSsfc1MK",
+      "https://play-lh.googleusercontent.com/hraQdyRIEWoSMhfj2K43F729u99UjKw7uI9zdj2S5hkeGoTuH5it0nfI9HLPlDXkC6I",
+      "https://play-lh.googleusercontent.com/up8VRVIAMTualGIT64zdii9TisK1gWQgyshrnt3DYpENWcf_6TbOof4-7be2lV_Ok0S-",
+      "https://play-lh.googleusercontent.com/BGVhTySBMl1CiHRZMIB0dYTXRAE03E4ExU1SHh_Nn7dJIaOApXRNJrODiCkfAmNvN1Y",
+      "https://play-lh.googleusercontent.com/dGFpapZuvIJQiNWy8Lx0DnZSyRVIpr8GFOnF2lAPnMIkp4C_EDibNBqCRXDCV9cav9U",
+      "https://play-lh.googleusercontent.com/8AW0hVytfU4ltNduufcnXwPV0Ar-pcyIC_LF5JxLskEeJ8Pw4ookxqz8eCN6QLh1yos",
+      "https://play-lh.googleusercontent.com/MNpJL2abI3tGdjlGnFoH5L6IKle2kiGZH0R9NdyUcFPUB8mgU3KtrJOnme0ll5Oy_1s",
+      "https://play-lh.googleusercontent.com/H__BltqtvMCQGEhwHDllOYwGNbf-5cFbghWh3-yKnUPK_KMKkSLBlKlGEDEOgadLAw",
+      "https://play-lh.googleusercontent.com/pEvzmbJoM2o5viFhPhDLYdKQLIuEohAybeioBa7txNj7QbAK3th_89W7dbfB63ne3y8",
+      "https://play-lh.googleusercontent.com/vBwTOmrjM-s6m-6JgYN13GBTMeaYpvp-hiF1Ebgsuoxb2h5I9-3tccKskUuHvizgZHA",
+      "https://play-lh.googleusercontent.com/6D0XE1LJPUoiTSgaem9G5iD27FaEa8f-g4nNnxZkvMLDlaMiqwWYkUKl4J9t7Vp-CT8",
+      "https://play-lh.googleusercontent.com/JMf4ZNW0wXzV3QU2nm7Tzp4ykUQR1ER28LwrU679MqlulTI5K091kSGOk6Is2yNHHA",
+      "https://play-lh.googleusercontent.com/MVmY1X5R87PUlnNjL9b6r15_pAeRz8US4dggwR7u-Furpg7DyCKQFRLhMOqC7RDLcF_6",
+      "https://play-lh.googleusercontent.com/upoNyA3jFcrS-WhT1h1-wxqOJywova6hZBQllzbm8foxtcNc9mnj4z8Djx_CLkHsnHE"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Engaging Word Puzzles",
+            "description": "Words Crush: Hidden Words offers a variety of word puzzles that challenge your vocabulary and word-finding skills, with each level designed to keep you engaged and entertained."
+          },
+          {
+            "title": "Interactive Gameplay",
+            "description": "Enjoy interactive gameplay where you swipe letters to form hidden words, ensuring a fun and dynamic gaming experience that's suitable for players of all ages."
+          },
+          {
+            "title": "Stunning Visuals and Sounds",
+            "description": "The app features captivating graphics and immersive sound effects that enhance your gaming experience, making word-finding even more enjoyable."
+          },
+          {
+            "title": "Daily Challenges and Rewards",
+            "description": "Complete daily challenges to earn rewards and bonuses that keep the fun going, motivating you to return daily and improve your skills."
+          },
+          {
+            "title": "Multiple Themes and Levels",
+            "description": "Explore different themes and levels that add variety to the gameplay, ensuring that you never run out of fresh and exciting content."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "User-Friendly Interface",
+            "description": "The intuitive layout allows players of all skill levels to navigate easily and start playing without a steep learning curve."
+          },
+          {
+            "title": "Improves Vocabulary",
+            "description": "With its diverse puzzles, the game helps users learn and expand their vocabulary in a fun and engaging way."
+          },
+          {
+            "title": "Offline Play Available",
+            "description": "Players can enjoy the game without an internet connection, making it perfect for gaming on-the-go."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited Free Content",
+            "description": "While the game is enjoyable, certain levels and features may require in-app purchases to unlock fully."
+          },
+          {
+            "title": "Occasional Ads",
+            "description": "Users may encounter ads during gameplay, which can interrupt the flow of the experience."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "The free version provides access to basic gameplay and puzzles, though it contains ads and limited features."
+          },
+          {
+            "title": "In-App Purchases",
+            "description": "A subscription model is available, offering ad-free gameplay and access to exclusive content and additional levels for enhanced experience."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.bitmango.wordscrush?version=latest",
+    "slug": "words-crush-hidden-words"
+  },
+  {
+    "id": "12962",
+    "name": "7 Little Words",
+    "category": "Word",
+    "rating": "4.7",
+    "downloads": "920M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "Blue Ox Family Games, Inc.",
+    "version": "3.1.2",
+    "update_date": "2025.03.04",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/7-little-words.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/7acuX82C3AqMl5GOUj7tUl5Frv3ozrUfOp-B84FtxfHQ6J6M0seqLqh2AiTuiwTu9H5U",
+      "https://play-lh.googleusercontent.com/UNUHjqQnGC320AtzMbhOts7do21UWfzOp07s6zp9-5CLLQ-8oKpvXrk0Wk48hNszJA",
+      "https://play-lh.googleusercontent.com/H9D8JiBUxtu4wz2tH1Rtpn7nTrr6T9SKqUq3IKSAwkPQinRhOvRYwbnC8-av8PcCUA",
+      "https://play-lh.googleusercontent.com/bkLaLUrwF7OKkTUE8YXuwXx1iDvm4eh4GpDP_dj4vNhJJPWXJ9LcPdTQ_gUrSpZ1F58",
+      "https://play-lh.googleusercontent.com/DWbbtK8bAtaynrmAgxw_DQys9GSiMDsnI6u8iPurgX57u60C-0hIj6ieqfSIzv-a31U",
+      "https://play-lh.googleusercontent.com/21k8zeoiKm-o2appqv3S3_dhKovl-pdqT791EuyizQtZkklVf0AurahwcSYwrN5LMAk",
+      "https://play-lh.googleusercontent.com/o1_y8TtTDi6ILEOAjIXX6DCFxh9INwCixp_XFE3DuCp2SUBYjMFGdmHSyjvjsRt6WB8",
+      "https://play-lh.googleusercontent.com/6kEfPRbaXDE2fl1v4trEvx87E03UcDYgIcBh3ov8Kw4HA9rwLc9clx7syEYi32ZKx3Y",
+      "https://play-lh.googleusercontent.com/2MNT1AMNPTLbL7iMSBqobCwyFG7Eii_BIlezJ8Kv_8ewWUJXBdFp4fwEnzCr18O-AyA",
+      "https://play-lh.googleusercontent.com/HtQIxPb_apY9MFFo9gENzBBYWt4Wwtust6LM-rSafYE7Y-icb1Ez4Lx_769li5lxubw",
+      "https://play-lh.googleusercontent.com/NasaeDYHNFgaF-2QyXYueCT8Hi2x8KVtf1Ho_qhus120uOszkIbYAK2Nkc0L0dGPw4E",
+      "https://play-lh.googleusercontent.com/ICqmcJVKUVPsQmquD-0IMi6YqOi2SI96-1UEVNbeYilW9nT8bQyxlnT6SK_ytUX0Bcg"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Word Puzzle Gameplay",
+            "description": "Engage in a unique blend of crossword and word search mechanics, where players solve clues to uncover 7 hidden words from a limited set of letters."
+          },
+          {
+            "title": "Daily Challenges",
+            "description": "Participate in daily puzzles that offer fresh challenges, helping to keep your game experience exciting and providing opportunities to improve your word skills."
+          },
+          {
+            "title": "Vibrant Themes",
+            "description": "Enjoy a variety of colorful themes and backgrounds that create a visually appealing experience while you tackle puzzles."
+          },
+          {
+            "title": "Hints and Tips",
+            "description": "Utilize hints to assist with difficult words, ensuring you can keep progressing even when faced with tough clues."
+          },
+          {
+            "title": "Offline Play",
+            "description": "Play anywhere, anytime! Download puzzles and enjoy them without needing an internet connection, perfect for on-the-go gaming."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Engaging Gameplay",
+            "description": "7 Little Words combines various word game formats, providing a refreshing break from traditional crosswords and keeping players hooked."
+          },
+          {
+            "title": "Cognitive Benefits",
+            "description": "Regularly playing word puzzles can enhance vocabulary, improve memory, and strengthen problem-solving skills."
+          },
+          {
+            "title": "User-Friendly Interface",
+            "description": "The intuitive design allows for easy navigation and a smooth user experience, catering to players of all ages."
+          },
+          {
+            "title": "Regular Updates",
+            "description": "The developers frequently add new puzzles and themes, ensuring gameplay remains fresh and challenging over time."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited Free Content",
+            "description": "While the game offers daily puzzles for free, many additional puzzles and themes are locked behind a paywall, which may restrict casual players."
+          },
+          {
+            "title": "Puzzles can be challenging",
+            "description": "Some clues can be quite tricky, potentially leading to frustration for players who are new to word games or less experienced."
+          },
+          {
+            "title": "Ads in Free Version",
+            "description": "The free version includes ads, which can interrupt the gaming experience. However, these are removed with subscription."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "Access a selection of daily puzzles without any cost, making it easy to try the game before committing."
+          },
+          {
+            "title": "Subscription Options",
+            "description": "Unlock all puzzles and ad-free gameplay with a subscription, offering a richer experience for dedicated word game enthusiasts."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.net/b/APK/com.blueoxtech.sevenlittlewords?versionCode=365&nc=arm64-v8a%2Carmeabi-v7a&sv=26",
+    "slug": "7-little-words"
+  },
+  {
+    "id": "12959",
+    "name": "Fast Typing",
+    "category": "Word",
+    "rating": "3.5",
+    "downloads": "450M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "cubeorcoding",
+    "version": "2.9",
+    "update_date": "2024.09.26",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.cubeorcoding.fasttyping.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/UFu909lN8xE_hbGB9ZMQ-MZqrpWAYm_vVS_aEEzlnOy5Cr-sxHmF_at_kxKK2CSYEA",
+      "https://play-lh.googleusercontent.com/oIYMZO8oIj1epFeQbTYVoQxX2kJchZeDrXhVmAm-1H3SZ69dk8SK1c5Bfuov9csfBpE",
+      "https://play-lh.googleusercontent.com/nIonatMUJTA_ikO2jQBLMX_o3eL30GkYE_EYmAS8n_0u2CHt_O7tP2RWE4w0zE52PA",
+      "https://play-lh.googleusercontent.com/hrsmn-3aGxiwBGenHEHEJKgIXx4YmOKFI6O2-gc7ZWYirAG_3uWlSvUWrA1Gf6ahh_8",
+      "https://play-lh.googleusercontent.com/3N8noIZNeCSwpXPdcwsuBa-Uj2dVIIDFBk4soIeDZq1gyJIi-sjCnIUoIVLBtBqZ4A",
+      "https://play-lh.googleusercontent.com/Xxo-5rvCBQYeVhK4yNOU1eNZTXB8h8jGya0Vcp4KNY4gdAx28xbgT_ZxO_Bc0BFPaw",
+      "https://play-lh.googleusercontent.com/MX91IbX1GlaEmVrVmyyOeallCdmZ-J--T1CoMNDW8v9hrq6YJHHd2mr1CT__74unNmBg",
+      "https://play-lh.googleusercontent.com/1RWCnDuQPg4vBLtwfmIKlnnqqvTjBVVdppPDE_KN5J5ZoUThJFw-mIVX7fBdUpCxnyrs"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Speed Typing Practice",
+            "description": "Enhance your typing skills with tailored exercises that focus on speed improvement, ideal for users who want to type faster while maintaining accuracy."
+          },
+          {
+            "title": "Real-time Feedback",
+            "description": "Receive instant feedback on your typing performance, including speed, accuracy, and error analysis, helping you identify areas for improvement."
+          },
+          {
+            "title": "Customizable Lessons",
+            "description": "Choose from a variety of lesson types and difficulty levels that adapt to your skill set, ensuring a personalized learning experience."
+          },
+          {
+            "title": "Typing Games",
+            "description": "Engage in fun and interactive typing games that not only make learning enjoyable but also challenge your skills against others."
+          },
+          {
+            "title": "Progress Tracking",
+            "description": "Monitor your typing progress over time with detailed statistics that showcase your improvements and milestones."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "User-friendly Interface",
+            "description": "The clean and intuitive interface makes it easy for users of all ages to navigate and access typing lessons without confusion."
+          },
+          {
+            "title": "Multi-device Sync",
+            "description": "The application supports sync across multiple devices, allowing users to continue their practice on any device seamlessly."
+          },
+          {
+            "title": "Offline Access",
+            "description": "Practice typing even without an internet connection, making it convenient to learn anytime and anywhere."
+          },
+          {
+            "title": "Engaging Gamification",
+            "description": "The integration of gamification keeps users motivated and engaged, turning typing practice into a rewarding and fun experience."
+          },
+          {
+            "title": "Community Challenges",
+            "description": "Join community challenges to compete with other users, adding a competitive edge to your practice sessions."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited Free Content",
+            "description": "While the app offers valuable free features, advanced lessons and games may require a paid subscription, which might deter some users."
+          },
+          {
+            "title": "Occasional Bugs",
+            "description": "Some users have reported occasional bugs that can disrupt the experience, particularly on older devices."
+          },
+          {
+            "title": "No Voice Typing Training",
+            "description": "The app focuses solely on keyboard typing, which may not suit users looking for voice typing improvement."
+          },
+          {
+            "title": "Initial Learning Curve",
+            "description": "New users may face a brief learning curve to fully utilize all features and customize their lessons effectively."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "The free version provides access to basic typing lessons and limited games, ideal for casual learners."
+          },
+          {
+            "title": "Premium Subscription",
+            "description": "The premium subscription unlocks advanced lessons, unlimited game access, and exclusive challenges for a more comprehensive learning experience."
+          },
+          {
+            "title": "One-time Purchase Option",
+            "description": "Users can opt for a one-time purchase to access all premium features permanently, catering to those who prefer not to subscribe."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.cubeorcoding.fasttyping?version=latest",
+    "slug": "fast-typing"
+  },
+  {
+    "id": "14469",
+    "name": "Zen Word® - Relax Puzzle Game",
+    "category": "Word",
+    "rating": "4.8",
+    "downloads": "1951M",
+    "age": "4+",
+    "price": "0",
+    "safety": "100% Safe",
+    "developer": "Oakever Games",
+    "version": "7.0",
+    "update_date": "2025.03.14",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/kidultlovin.word.zen.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/C863zBBJi6gMcrsCLM-KAwP1Yiqa8dlFZ-9C3DFjEVnbPYWXmdTpkcCTyF4VoDxW0reb",
+      "https://play-lh.googleusercontent.com/hyLnG8-dy1ESzF95P42gbXbIwt2mJiVuA7fvJnpQsVCp8yO2UewAQcEabLqMs2kfgQ",
+      "https://play-lh.googleusercontent.com/M44BCx3XqmE0wXuBsAx_CiOAVmmawZq7u9CFK79uIBUGcEh0cUnW-YrAjvjGdeHLK9w",
+      "https://play-lh.googleusercontent.com/w7kKd-1BZ8CJI3kDkkhM3_U2izjPNDKHClzbejm5VMgX07K9dBFdl9zpQHLaXZaQ7A",
+      "https://play-lh.googleusercontent.com/BdjqMkTvzX6Ta7wYyghKveeBZqmf0wphGFyfr51ZgahKU-nuqSCHs80dZ979OUMt1JY",
+      "https://play-lh.googleusercontent.com/2f8l42VyEec2eYykkZSOsEpadKU63uJdW6mvrPzCVv6y00fql_BOodYPPgBl7kCvrio",
+      "https://play-lh.googleusercontent.com/D-8nlBEyixfXqhavWNFUVbbm_iF3oAQP7RPfUkZykz7cAtkcQBBS9f2J7_4eCoQg5A",
+      "https://play-lh.googleusercontent.com/uIz5Pf0OIgUFkaexcaifnfIbV7uKjMjdJ3w_Ol8SGtw2tBho1mpyJV-d9CNOcKSvlNjP",
+      "https://play-lh.googleusercontent.com/9OABLY_FjsE2hMG9cLZh42CQB7k3PUw2mPpvIwcowXcRfUiQIhgxo3PeIiHPt-dB4Q",
+      "https://play-lh.googleusercontent.com/LcmgWmrXe3sjpryiUN_bnzAckBfQfVmSGrrFD94xiZpzhxHEsz1cFUtiQgg9x1Pecg",
+      "https://play-lh.googleusercontent.com/RSD7mHzr7K5KCjQ3dLkGQgsMYNJbZX-cRibK14AnLljf4m4wF0FlEUACSqzzLVCLMa4",
+      "https://play-lh.googleusercontent.com/jXPs6hCcj_uMQv3k5RCa7O-kr1UF7AsAoE1jtZ4nmvRQsBLK5VI3-r2mT7PEbypcbu9P",
+      "https://play-lh.googleusercontent.com/4DHJSlK8qSJdwm4qHuoUARmsc-WMTAgip1ekykln-U_8f_14ZXt7Ww_dNjuB6Tlmrg",
+      "https://play-lh.googleusercontent.com/8Q3It-dxYOk8xU80MdCz8f45AyZEeKlCzoPc4V0763uAWyqOhsGonxwV70RNPJmoA_w",
+      "https://play-lh.googleusercontent.com/CB03kDa4_72HLmR0zAN0bnkL5sIz-oVN0nWomlLf_Xk86XpHBssGzaGFjlg2V_Rrh8s",
+      "https://play-lh.googleusercontent.com/VrVSbt12voMLqnk6lbWe8Le5IzqBDUGgabVozBncLRHfHLhShXl6_33QiFigBdXGcVU",
+      "https://play-lh.googleusercontent.com/NV7yL65f_Mh_958necI-pEga-H36c0z-H_t6LF8KrfCYbHUCrCFx7ef3bATZxs1NmA",
+      "https://play-lh.googleusercontent.com/6k4y7-Jm60exyetK2JlnJbkp36bA6wCj9ktMfaps3x22R7sX8FBGcldEKE8uX8TrkRE"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Relaxing Gameplay",
+            "description": "Zen Word® offers a calming gameplay experience that allows players to unwind while engaging in word puzzles. The soothing graphics and serene soundscapes create a tranquil atmosphere, perfect for stress relief."
+          },
+          {
+            "title": "Diverse Puzzle Challenges",
+            "description": "With hundreds of unique word puzzles and varying difficulty levels, players can enjoy a constantly engaging challenge that maintains interest and promotes cognitive skills. Each puzzle is crafted to stimulate the mind while keeping the mood relaxed."
+          },
+          {
+            "title": "User-Friendly Interface",
+            "description": "The app features a clean and intuitive interface designed for players of all ages. Easy navigation helps users focus on the game without distractions, enhancing their overall gaming experience."
+          },
+          {
+            "title": "Regular Updates",
+            "description": "Zen Word® frequently updates its puzzle collection, ensuring fresh content and continued excitement for users. These updates keep the gameplay dynamic and encourage returning players."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Therapeutic Benefits",
+            "description": "The game not only entertains but also promotes mindfulness and relaxation, making it a great choice for users looking to reduce stress and enhance mental clarity."
+          },
+          {
+            "title": "Family-Friendly",
+            "description": "Designed for all ages, Zen Word® is perfect for family game time, encouraging cooperative play and shared enjoyment amongst family members, leading to bonding moments."
+          },
+          {
+            "title": "Offline Play",
+            "description": "Players can enjoy the game without an internet connection, making it a convenient option for play during travel or in areas with limited connectivity."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited Free Content",
+            "description": "While the game offers a free version, some puzzles and features may require in-app purchases, which could be a drawback for casual users who prefer free content."
+          },
+          {
+            "title": "Repetitive Puzzles",
+            "description": "Some players may find the puzzles repetitive over time, particularly if they play extensively, which could lessen long-term engagement."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free version",
+            "description": "The free version offers a selection of puzzles and basic features suitable for casual play, allowing users to explore the game's relaxing nature before upgrading."
+          },
+          {
+            "title": "Premium features",
+            "description": "A one-time purchase or subscription unlocks additional puzzles, power-ups, and ad-free gameplay, providing enhanced value for dedicated players seeking an enriched experience."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/kidultlovin.word.zen?version=latest",
+    "slug": "kidultlovin-word-zen"
+  },
+  {
+    "id": "12966",
+    "name": "Words With Friends 2",
+    "category": "Word",
+    "rating": "4.1",
+    "downloads": "170M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "Zynga",
+    "version": "13.304",
+    "update_date": "2025.03.04",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.zynga.words3.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/l9FzV6YEAA-Xfp0BClrtKxghfvvq5BXOtAquVVtYVEUiceTeRG01kUYzQfSVaecedw",
+      "https://play-lh.googleusercontent.com/3lIjKNgVzF8G8GM8_5HVA2GDKyW5RDmHKO2c-tnQ1rm1pbUhK3Xt297pAOkdzGaNG3Y",
+      "https://play-lh.googleusercontent.com/uZQN1HSGal0Xj7VKpnOzmhV8j8eP1rFoJzbrJ00FyVSMHJv2y13HYy7oPEoIF3C-EJCV",
+      "https://play-lh.googleusercontent.com/U6LLQiMTPir1JzG6rioJslVWwdIW9kFfbq_XvJ9Dm8cxOVsUzVJ3UgKnHVUcvCC1PyvU",
+      "https://play-lh.googleusercontent.com/htnPzHbvmv77k5stYIFMUXQlnHgNDnlMR5ekSoK5ww0zsiH4fOvpt1pP7gDq9ehgqQ",
+      "https://play-lh.googleusercontent.com/oxJa5tA9ZdNPOGRlZDufKrC1m6z1ZmSZUgDR6XDbj6HYV47wLy2FGO_0vgjjTcwBoHcB",
+      "https://play-lh.googleusercontent.com/I-XwSvWMdozpWXtrCScBlXfDfhnN46O8DlEqqf8uF_a0hRnPkDkSO7HCOndJYEMk7t4",
+      "https://play-lh.googleusercontent.com/qwDF8Z1Ibp7jCpb9uqxHU1P7goBX30w2NoYfDIkbAx-CvUDPMXPonROJJ5AzVzjTBg",
+      "https://play-lh.googleusercontent.com/towKxoUSYMoObxWmxRiOchvmhTgYB0z5EtfNWIZEDZSZ6AmfTQZbIDEw9YfhXIEuI1Dj",
+      "https://play-lh.googleusercontent.com/SieO0ThLj-aY9V9RxabPMZfXuoJ4hJ7T7Xb_BLv3r5zVhkDdEtgXLTphdHJZwiuZQw",
+      "https://play-lh.googleusercontent.com/WONr2f-oJfP9oWk3iIC6UWCJIMPiXkwugtyRS5tf31bSb0S5a502dsotPJi8g_yOR-M2",
+      "https://play-lh.googleusercontent.com/_5g4upNX973pCkg0aqqRXnA2FF5ZkChdR3LwoLZ_wRu90-UpDhmgSqa1jx5bRJI7Lw",
+      "https://play-lh.googleusercontent.com/aJw1MIVCtQRSphg8l6wQcpTIWTEPExraLjGJYRZ9cxd-XjE1JeoPQxogIaXgzeGa4g",
+      "https://play-lh.googleusercontent.com/96XfsXKP3QhkN1mOp8cr0ZovSyzeid6QXO98zsEQhKH0kgFgJybCloruoO4iXzvJxdi9",
+      "https://play-lh.googleusercontent.com/haMPC8p9GBRHiKS2mm8j3BdPVn_MovXXXs2Dkbu5FRZ66lHQPeVFdldFoWTPUm1W42Q"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Multiplayer Gameplay",
+            "description": "Challenge friends or play with random opponents in a turn-based format where you can strategize and take your time, making every word count."
+          },
+          {
+            "title": "Variety of Game Modes",
+            "description": "Explore different game modes including solo challenges, daily puzzle competitions, and the classic multiplayer battles that fit your mood and skill level."
+          },
+          {
+            "title": "Power-ups and Boosters",
+            "description": "Unlock power-ups that can enhance your gameplay, like swapping tiles or earning extra points, giving you an edge over your opponents."
+          },
+          {
+            "title": "Social Integration",
+            "description": "Connect seamlessly with Facebook and other platforms to easily invite friends, track progress, and share achievements, enhancing your social gaming experience."
+          },
+          {
+            "title": "Customizable Board Themes",
+            "description": "Personalize your gaming experience by selecting from a variety of themes and board styles to make each game unique and visually appealing."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Engaging and Strategic",
+            "description": "The game encourages critical thinking and word-building skills, offering a deep level of engagement for both casual players and word enthusiasts."
+          },
+          {
+            "title": "Regular Updates",
+            "description": "Frequent updates introduce new features, game modes, and seasonal events, keeping the gameplay fresh and exciting with ongoing content."
+          },
+          {
+            "title": "Easy to Learn",
+            "description": "With straightforward rules, players of all ages can quickly grasp the gameplay mechanics, making it accessible for everyone from beginners to experienced players."
+          },
+          {
+            "title": "Strong Community",
+            "description": "A thriving community of players provides numerous opportunities to engage, join tournaments, and meet fellow word lovers through competitive play."
+          },
+          {
+            "title": "Cross-Platform Play",
+            "description": "Play across different devices and platforms, ensuring that you can always pick up your game wherever you are without losing progress."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Ads in Free Version",
+            "description": "The free version includes advertisements that may disrupt the playing experience, potentially distracting players during games."
+          },
+          {
+            "title": "Can Become Repetitive",
+            "description": "Some users may find that after a while, the gameplay experience can become monotonous, especially without significant updates or incentives."
+          },
+          {
+            "title": "Microtransactions",
+            "description": "While the game is free, certain features and boosts require in-app purchases, which may deter some players who prefer an entirely free experience."
+          },
+          {
+            "title": "Longer Waiting Times",
+            "description": "As a turn-based game, some players might experience delays, especially if opponents take their time or become inactive for extended periods."
+          },
+          {
+            "title": "Dependence on Internet",
+            "description": "The game requires a stable internet connection for multiplayer modes, which may limit playability in low connectivity areas."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "The free version allows unlimited gameplay but includes advertisements and limited access to certain features."
+          },
+          {
+            "title": "Premium Subscription",
+            "description": "The premium version removes ads, provides exclusive access to power-ups, and includes additional game modes for a monthly fee."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.zynga.words3?version=latest",
+    "slug": "words-with-friends-2"
+  },
+  {
+    "id": "13787",
+    "name": "HaryPoter Quiz",
+    "category": "Word",
+    "rating": "4.3",
+    "downloads": "16M",
+    "age": "4+",
+    "price": "0",
+    "safety": "100% Safe",
+    "developer": "LUMOS Games",
+    "version": "5.0",
+    "update_date": "2024.08.03",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.denisnowills.guesshpcharacterspell.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/i8fE1q9Vkq6ldA6RU9fReACedy_Jzyxa7BumpG60bvHtZKYXJPx3ar_kDWifyt7MUw",
+      "https://play-lh.googleusercontent.com/0VpRojhTvPD22FVhoFxDXk5uJjaSIdbRwtMUELlnsnYyjJs34UTuyBy8mqFY80fhfh0",
+      "https://play-lh.googleusercontent.com/qM7qlaOXmPuoxFcOk232RyUsZYzIS3uQx3I4mWF1wf2D6RBHP1Y1wysgHAueUSYJtOPS",
+      "https://play-lh.googleusercontent.com/ZBXYuHzaIWfFY1urcLXkUWbJFv5KirO9ZQuKS09zQLyvaCNdV6mgpm1r-PZlf1pB-UE",
+      "https://play-lh.googleusercontent.com/i-tcxCZHaRkVKvO10QlkD82X1EZooidtMYwclOjqfDDXnIhtP77pXWQkMrVEHjQEVuQ",
+      "https://play-lh.googleusercontent.com/kO6FpYXnGJoU05LdvVbhDNKkLXBtQnn8GPHRoPGs5esokKjZmBD9McwjR5ChE6cP6wQ",
+      "https://play-lh.googleusercontent.com/QSbjaS4t093LgmbLG3t6NCQNiNRBSyrnAv-mw3nrxMDj75PRGEhDMfip7p59QyvdQi0q",
+      "https://play-lh.googleusercontent.com/neI9mvGf7ECT1QU5wvuyWOhBE2e3gAi9w2ODCxUuBVeNmahcMOcmc2DaHmg6bHwrKFw",
+      "https://play-lh.googleusercontent.com/egxaBx-wAt8TImd0n36kfrUPpB9KXbYtm1HGZ6v9HhXq_1aXew3V4oXb3-2eIP8dOA",
+      "https://play-lh.googleusercontent.com/qXqfCUo7oO4xeeNl2w5y1eLFzYf6tUAImlZnHJqFho8aovF99Ef7j_LVLZh0X_6OPdU",
+      "https://play-lh.googleusercontent.com/_6y3TyQyPPcRngpww7_GSLpSeeayCGzndcvVk4Z6H2_uGT97OsSTbqTSsTKqBdIPDMg",
+      "https://play-lh.googleusercontent.com/eieoWENH9FIFpoi27dBqln_dbuKA3xB6zLRmGSxHbTG1P66xrfpodnUw2hHB-Mxl6pg",
+      "https://play-lh.googleusercontent.com/vkAoZf-WKpbBox9QTXJex2VJ548JrJqfWR6UGl_MUC1QG5yGt2EhPSqN_VRSsTfPeA",
+      "https://play-lh.googleusercontent.com/c_aYp7c5ePIyyPKfmhyZaww13_go9BBEHGXKwGtYmEP9RhMJ1IOA8EJfYkEnt5-9nQY",
+      "https://play-lh.googleusercontent.com/aaZW3zm1da9SsLfU40crzBB5SbjqjXg5kX9L-mLLsBJu1ue_ppyt1shDFy6iswNB5wk2",
+      "https://play-lh.googleusercontent.com/a8fBvNg4E7O67hspNfW8anwk4Ioujv3eFLmdKo3SaBJgy-WTgJJ081ww_s1q02ub4ck",
+      "https://play-lh.googleusercontent.com/m3tfOlqmagp9UFUdC7LwOlaKRc1iiKZ1wCA8EAO2-q3ZX0ubIjVV9Xd2zQqgSo0D0YSp",
+      "https://play-lh.googleusercontent.com/daa1WOyXSbyePbvM7S51YbmczrCI1nc3fwv2Nkh-fDxXHH1OWLk7OUIFSwGoIsmsTINw",
+      "https://play-lh.googleusercontent.com/-tnkfmjfx2qWbxyYZHfnhCahOXt4LHwWqoab7gSgpJ14A7UfrDhknuuwrgNyHioS8D0",
+      "https://play-lh.googleusercontent.com/9dAKu2DnVvI0IC_J_rD86sEBg3evawwSogavtscm2vwfMJd2HuorW7bxcNlxPR5A6BE",
+      "https://play-lh.googleusercontent.com/BIUF9WgMO7hv_2QPdY8P7MWjfss5QUBG253Xmshh33--_8-e7G6a7r357HbbfvAx96g",
+      "https://play-lh.googleusercontent.com/120XyN2oB6TFW2ny2l4xcJ8B1B7lcba8ckcFnpobz6CD3l3XLthSnCeTrFBx47b6opY",
+      "https://play-lh.googleusercontent.com/t49X3NkTj5pB-LUODDNXgwP8YhZS--3QSLFYcWf8EdqVpiKKnugHtZuwJwZYRAgpS-Aj",
+      "https://play-lh.googleusercontent.com/jBY6lz6ydsm1rCQsCK78tZB2j65uJ6d9fuKvP4ifpYiEakWB9rVq4jytb8H-aCRjEzc"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Character Identification",
+            "description": "Test your knowledge of the Harry Potter universe by identifying characters based on images, descriptions, or riddles. Perfect for fans looking to challenge their recall of iconic figures from the series."
+          },
+          {
+            "title": "Spell Guessing",
+            "description": "Engage in a fun guessing game where users must match spells to their effects or corresponding characters, enhancing your understanding of magic within the Harry Potter lore."
+          },
+          {
+            "title": "Multiplayer Mode",
+            "description": "Compete with friends or players worldwide in multiplayer mode, allowing for interactive gameplay and fostering a sense of community among Harry Potter fans."
+          },
+          {
+            "title": "Regular Updates",
+            "description": "Enjoy new content with frequent updates, including additional characters, spells, and challenges, keeping the gameplay fresh and exciting for all users."
+          },
+          {
+            "title": "User-Friendly Interface",
+            "description": "Navigate through the app easily with a clean, intuitive design that ensures an engaging quiz experience for both casual players and die-hard fans."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Engaging Gameplay",
+            "description": "The quiz format offers a fun and interactive way to immerse yourself in the Harry Potter world, making learning enjoyable."
+          },
+          {
+            "title": "Community Aspect",
+            "description": "The multiplayer feature promotes competition and collaboration among fans, enhancing the overall experience and providing opportunities for connection."
+          },
+          {
+            "title": "Wide Variety of Content",
+            "description": "With character and spell quizzes, players have a diverse range of challenges, catering to different interests within the Harry Potter series."
+          },
+          {
+            "title": "Frequent Content Refresh",
+            "description": "Regular updates ensure that the quiz remains relevant and exciting, keeping users coming back for more."
+          },
+          {
+            "title": "Accessibility",
+            "description": "The app is designed for both casual players and hardcore fans, allowing anyone to enjoy and learn more about the Harry Potter universe."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited Offline Play",
+            "description": "Some features may require an internet connection, limiting access for users in low connectivity areas."
+          },
+          {
+            "title": "Potential Repetitiveness",
+            "description": "Frequent players may find some quizzes repetitive over time; new content is essential to maintain engagement."
+          },
+          {
+            "title": "Difficulty Levels May Vary",
+            "description": "The difficulty of questions can be inconsistent, possibly frustrating some users while benefiting others."
+          },
+          {
+            "title": "Ad Presence",
+            "description": "Free version may include ads that could interrupt gameplay, detracting from the overall user experience."
+          },
+          {
+            "title": "Requires Harry Potter Knowledge",
+            "description": "Users unfamiliar with the series may struggle to enjoy the app fully, as background knowledge enhances quiz performance."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "Allows access to a selection of quizzes and basic features at no cost, perfect for casual users."
+          },
+          {
+            "title": "Premium Subscription",
+            "description": "Unlocks additional quizzes, ad-free experience, and exclusive content for serious fans looking for the ultimate quiz challenge."
+          },
+          {
+            "title": "In-App Purchases",
+            "description": "Option to buy additional quiz packs from the store for users wanting to expand their quiz experience."
+          },
+          {
+            "title": "Cost-Effective",
+            "description": "The app's pricing structure is competitive for similar quiz games, offering good value for Harry Potter enthusiasts."
+          },
+          {
+            "title": "Trial Period",
+            "description": "Users can often try premium features for a limited time, allowing them to test before committing."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.denisnowills.guesshpcharacterspell?version=latest",
+    "slug": "com-denisnowills-guesshpcharacterspell"
+  }
+]

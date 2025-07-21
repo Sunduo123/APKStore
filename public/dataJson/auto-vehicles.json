@@ -1,0 +1,1447 @@
+[
+  {
+    "id": "11546",
+    "name": "Chevron",
+    "category": "Auto & Vehicles",
+    "rating": "4.8",
+    "downloads": "790M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "Chevron Mobility",
+    "version": "3.4.1",
+    "update_date": "2025.02.11",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.stuzo.chevron.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/b2GyVRcj_gZMdx83hbJ_8vwHWT3YYFE5tbkKYTCkSHRZvnUCEfA1m6QQ3MpuXMCbbMI",
+      "https://play-lh.googleusercontent.com/kpWSp4D373CoHG5HUYw1UDfg-ZY8Gc4CJ1e-s_F46IqpBMzDgRln_h6_rHcBHri7vyk",
+      "https://play-lh.googleusercontent.com/u0V2qBgM18_aI3-h9wkeCrebVWP8JfMpqxde-RgKtgOTtgWuKPIjN38Ma2pdP6zGgHa1",
+      "https://play-lh.googleusercontent.com/zMiWXnk0bd6h3aQLJExV8Hqnq02Wr3lj9bQnIlWCVgbWWGxLBhICyyb9a6mSftH1mVI",
+      "https://play-lh.googleusercontent.com/T5Qtx--5d0I3-w7VPHzHbzt9VZJnXqxmPQCNcOQM3LvuffM92DMpss-MO7MGpVGv4iM",
+      "https://play-lh.googleusercontent.com/3J7CcUCe1x4vz_fE_owtCrAfBavajzI3oxNMO0RKg6PdOH5qpwJsea_j2_XDKH5Eh-D1",
+      "https://play-lh.googleusercontent.com/L8IPYybz4WfhqcRT0O3TJntzpQxIOYLL6WtzdsgJ-X-RWQVtG7OqEmRT8UevCsqZhA",
+      "https://play-lh.googleusercontent.com/WBs7a3vNIr6jZkDmHF1TB98xACwjXV-UEVFS7g98jN7T-TfjJZ6EQJfBR3GXpQotpds",
+      "https://play-lh.googleusercontent.com/V1whZQN7_z4R2W3G7CxwQ8xB1dCBSl09u3jEk-_5_0zRbXlyPQn8JJhY01hybif-3t8",
+      "https://play-lh.googleusercontent.com/DTtt3CbSai8krF0gfTE3w3vvGU7TTrX6ekU5xELa4i0CTn4_0YcEPbfu3qW5cuLcaTs7",
+      "https://play-lh.googleusercontent.com/Kte6DeBCWGloJIYtg-KPiBqP5emxXe858jfOKdvOQSnm5oTBR7C1vPJJDsExhqpPDG4",
+      "https://play-lh.googleusercontent.com/fw1AZ3Aydtp1_MDmxSK71sMgObKuWTY3KwpDelZCnwEuwLy_leDo6G44X3KzpCbHfV-G",
+      "https://play-lh.googleusercontent.com/FDYAN407WRkkQLnYO7Avo7VLdyIF5pOIncH65eHRtjGP8SsABgPPD6ktFfDNicmmGg",
+      "https://play-lh.googleusercontent.com/7enunQBnvEemoIl-PHpqCma78ibZOHIOBNARLehJKf5FzogiVW-PbFAbr4F-5xPsIWQ",
+      "https://play-lh.googleusercontent.com/Fy8-kJd8eRToyMEwXKjq3URlkawTHBBEK9QpQbm7xr27woG5vnor1ndzMdzh6dMQhA",
+      "https://play-lh.googleusercontent.com/vrrguftqeDqqeuH1r35pxPUJYuyzUOCxBxL8mUbhQB3BYd18n8jUN13r3glUmKHe8wt9",
+      "https://play-lh.googleusercontent.com/6JjBSonUtQdaFTeTYfR2eaSmKF9UYiZArt3zXyxgWVplksHRZJc2a_oObQ-Rt2h0XrA",
+      "https://play-lh.googleusercontent.com/o6qZvoZCm541wv-mukGqfwDIQAc6EykE7AkRiVXbBC8VYSrm8CTwl4htQa7SuMJaODI",
+      "https://play-lh.googleusercontent.com/b0z5cIdqdlzWK9zi7h9kgKiNqxsJOIc0aLgtwIL5haBakxgT5rbw9ZWLbL35IlolPg"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Seamless Gas Station Finder",
+            "description": "Chevron app offers an intuitive locator that helps users find nearby Chevron gas stations easily, providing real-time data on fuel prices and station amenities."
+          },
+          {
+            "title": "Fuel Rewards Program",
+            "description": "Users can enroll in the Fuel Rewards program directly within the app, enabling them to earn points with every purchase, which can be redeemed for discounts on fuel."
+          },
+          {
+            "title": "Mobile Payment Options",
+            "description": "The app supports mobile payment methods, allowing users to pay for gas directly from their smartphones, streamlining the refueling process."
+          },
+          {
+            "title": "Personalized Offers",
+            "description": "Chevron app delivers tailored promotions and discounts based on user preferences and purchasing history, maximizing savings on fuel."
+          },
+          {
+            "title": "Station Amenities Information",
+            "description": "Users can view detailed information about each station, including available amenities like car washes, food stores, and restrooms."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "User-Friendly Interface",
+            "description": "The app has a clean and straightforward design, making navigation easy for users of all ages and tech-savviness."
+          },
+          {
+            "title": "Wide Availability",
+            "description": "With Chevron gas stations located nationwide, users have access to the app's features regardless of their location."
+          },
+          {
+            "title": "Enhanced Savings",
+            "description": "Through the Fuel Rewards program and personalized offers, users can significantly reduce their fuel expenses over time."
+          },
+          {
+            "title": "Fast Payment Process",
+            "description": "The mobile payment option ensures a fast and convenient checkout experience, reducing wait times at the pump."
+          },
+          {
+            "title": "Real-Time Updates",
+            "description": "The app provides real-time updates on fuel prices and station amenities, empowering users to make informed decisions."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited Compatibility",
+            "description": "Some older smartphone models may experience compatibility issues, limiting usage for all users."
+          },
+          {
+            "title": "Requires Location Services",
+            "description": "The app’s optimal functionality relies heavily on location services, which may raise privacy concerns for some users."
+          },
+          {
+            "title": "Offers May Vary by Region",
+            "description": "Promotional offers and fuel rewards may differ by geographic region, potentially not providing equal benefits to all users."
+          },
+          {
+            "title": "Dependence on Internet Connectivity",
+            "description": "Users need a stable internet connection for real-time features, which may not be available in all areas."
+          },
+          {
+            "title": "Limited Features for Non-Members",
+            "description": "Users who do not enroll in the Fuel Rewards program may miss out on significant savings and app benefits."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free to Download",
+            "description": "The Chevron app is free to download and use, allowing all users to access gas station information and basic functionalities."
+          },
+          {
+            "title": "Membership Benefits",
+            "description": "While the app is free, enrolling in the Fuel Rewards program is recommended to maximize savings on fuel purchases."
+          },
+          {
+            "title": "Exclusive Offers for Members",
+            "description": "Members may receive additional exclusive offers and discounts, providing better value for loyal customers."
+          },
+          {
+            "title": "No Hidden Fees",
+            "description": "There are no hidden fees associated with the app, and all savings can be tracked transparently through the user's account."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.stuzo.chevron?version=latest",
+    "slug": "chevron"
+  },
+  {
+    "id": "11547",
+    "name": "CARS24™",
+    "category": "Auto & Vehicles",
+    "rating": "4",
+    "downloads": "80M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "CARS24 Services Private Limited",
+    "version": "1.9.11",
+    "update_date": "2025.02.22",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.cars24.aususedcars.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/nz-pTRLnqTIjTxriQV1_jTkvwQRj1Zw-BqVWghSK4YIIw8RlMU2poYFwci-FKRh1cZuc",
+      "https://play-lh.googleusercontent.com/jFkA_W6H9kIY2vhKMyem23P4r0DZJlfcg0lM8mC0ElfzK1UtNa8sCZQA7SfvTYWrBNk",
+      "https://play-lh.googleusercontent.com/KfT64WlrCENIKvgUI4HEu0nz3kbqAB59q4grHCRpCHrnCQ0Q13C5y1TUApy35s5mHmK7",
+      "https://play-lh.googleusercontent.com/GYqWVpHEHK8NqvgJ-bqRL72IOfLeERBmEZp0eUmydF6O7bA3Jmx4sV04QuZWjwh7bUg",
+      "https://play-lh.googleusercontent.com/FUm41gOyHkXEEIxl34LShCLwYZWDIS0gZOZyKgYiwHrsJAHHe3uYeyCocvGwPrtXng",
+      "https://play-lh.googleusercontent.com/MoPpdPcTNzUBjEqelNkUF1Uj4YGnoIvQCH1P4GZw9NitOurEFIZ_pA7T9EIQSrobAw",
+      "https://play-lh.googleusercontent.com/EbZtUp2n7866k5hRW2ZAdqw2z7oIiTuS7VrEVrQNFbf9ZpODox-buqr1Qvwctr9vuko",
+      "https://play-lh.googleusercontent.com/2Z7hj9StV5eyJrVxOusfrfllAQUxoID4BxDvZLlSqbvzCOZD-P8Bt9MkOqbqGfI1eQ",
+      "https://play-lh.googleusercontent.com/KmSk5Od7DnLjMATnoI5HVFQ3XUDq7khLlDwjZ8l_H-LMTfvSqiHGgVIzNDDz0DYB31A",
+      "https://play-lh.googleusercontent.com/DxfZK7dmK22pHgz9Iklr0896vOldp9zzq6gx0X3U0hmVvGjocA14xPrR7g3SaArz9K43",
+      "https://play-lh.googleusercontent.com/8dGzatJMgJF_Dw-KdfLS_Nc5pDddKUCgwCs3CdQmQNGgEGebZCRMsgFx60npW97bkRIx",
+      "https://play-lh.googleusercontent.com/zOX4ar87pBhY9gIfL9zTaLWCDstyThNwvl9NwNRtbfnY-9GNGQfa2_5HT3o5_pcjLZQ",
+      "https://play-lh.googleusercontent.com/QwVRVgzNVfbiaet9a4JFkHBJ4gMyD58zuTA16wOtRo6IA2oM7um0PBA_uKWUeXjYSg",
+      "https://play-lh.googleusercontent.com/D_qnwcIad5-QjdsR55Gxb8q1WcLpX7DyAfyv-w0Ysqb961qDUs_9qFde5eCRKHoYOg",
+      "https://play-lh.googleusercontent.com/Sey0RA30rYDsWQvozKj5aWDN-j7U4km7PPOq0iM892CDYRWp9teZlhCiURtliJrNWm_F",
+      "https://play-lh.googleusercontent.com/JnnQ8EDH7BjIM6UzFzbWRx0a82S4eE9I2mTNd88C2mMQaTA1oXSeJR_OIOtYfjzZLUiN",
+      "https://play-lh.googleusercontent.com/Pf6676oFF2rEoW6jSBQNL87DRds1NAqSFTgmkGQqd1BMYPozO8L1gAN0R4hwW2bf5gY",
+      "https://play-lh.googleusercontent.com/zJ2Ek5C5pN25J7weTOcBq8ClIf4fnZav-C8PvtzPE29B7UwqQp-qcgsaaJw7XFKXoh2-",
+      "https://play-lh.googleusercontent.com/bPMy-w-_BSQZnVh9OnvOs1ZUfIkqsFQR5K8uXtdP18F1Lud1BhoXCs8xFvQ-eMLK9W3n",
+      "https://play-lh.googleusercontent.com/CowFD-e6ZyF5dEfKs8Ub_urQ0jGZeJNXfaUj68hsqHP1QbdsUwLWauo66Hq4iGhKBpA",
+      "https://play-lh.googleusercontent.com/6ctKxHt5dHkJNp6-7iMA3J_W8B5j4BxSpDjKE9zwe-J-zJjw--tQNJo3rE9mxhLFHltN"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Comprehensive Vehicle Listings",
+            "description": "CARS24™ offers an extensive selection of used cars, providing buyers with detailed information, photos, and history reports for each vehicle, making it easier to find the perfect match."
+          },
+          {
+            "title": "Instant Pricing Tool",
+            "description": "Utilize the unique instant pricing feature, which allows sellers to get an accurate valuation of their car in real-time, streamlining the selling process with minimal hassle."
+          },
+          {
+            "title": "Easy Financing Options",
+            "description": "The app provides tailored financing solutions, empowering users to apply for loans directly through the platform, ensuring a seamless purchasing experience."
+          },
+          {
+            "title": "Hassle-Free Transactions",
+            "description": "CARS24™ simplifies the buying and selling process by facilitating secure transactions and offering a 7-day return policy, which guarantees customer peace of mind."
+          },
+          {
+            "title": "Expert Customer Support",
+            "description": "Access customer support from automotive professionals who can help answer questions and guide users through the buying or selling process effectively."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "User-Friendly Interface",
+            "description": "The app boasts an intuitive design that makes it easy for users to navigate through various listings and features, enhancing the overall experience."
+          },
+          {
+            "title": "Transparent Transactions",
+            "description": "CARS24™ ensures transparency in every deal, with no hidden fees, making buyers and sellers feel secure and informed throughout the transaction journey."
+          },
+          {
+            "title": "Wide Range of Options",
+            "description": "Access to a diverse range of vehicles from different brands and price points, catering to various customer needs and preferences."
+          },
+          {
+            "title": "Convenient Scheduled Inspections",
+            "description": "Users can easily schedule vehicle inspections at their convenience, allowing for a more personalized service experience."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited Availability in Regions",
+            "description": "Currently, CARS24™ services may only be available in select areas, which could limit access for some users looking to buy or sell vehicles outside those regions."
+          },
+          {
+            "title": "Additional Costs for Delivery",
+            "description": "While convenience is a key feature, users might face extra charges for vehicle delivery services, especially if the distance is considerable."
+          },
+          {
+            "title": "Dependency on Online Connection",
+            "description": "The app requires a stable internet connection for optimal functionality, which may hinder usability in areas with poor network coverage."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Basic Features",
+            "description": "CARS24™ offers a free version that allows users to browse listings, access customer support, and conduct basic transactions without any fees."
+          },
+          {
+            "title": "Premium Services",
+            "description": "Enhanced features, including advanced financing options and personalized consultations, are available through premium subscriptions at competitive rates."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.cars24.aususedcars?version=latest",
+    "slug": "cars24"
+  },
+  {
+    "id": "11600",
+    "name": "DMV Practice Test Pro 2023",
+    "category": "Auto & Vehicles",
+    "rating": "3.9",
+    "downloads": "500M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "PPXTech",
+    "version": "1.0.0",
+    "update_date": "2025.01.25",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.dmv.app.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/8JAl8qWi0PgRE_4f6T0kXgP3DCIyKS8KtaFkos5002iiEUP5PyZWuM_CLfS6Fm_V_aE",
+      "https://play-lh.googleusercontent.com/MlWHJ5OmD4tRAOZ0XAgcYkpT--2nP3bA8VRzw__2xiq-3mIuUaISSsv3iOc8Pfu425sO",
+      "https://play-lh.googleusercontent.com/c5r9_D-IBry7I9i3H6g3m_cMZ1EQc4ClVz9jAAZXuMx8z4zu1DauvtxEUWBr4dN45A",
+      "https://play-lh.googleusercontent.com/TuoEU7Scmuw5APkNownXF2tlPTxx-a3nHbwQvGOLsfAnDf2vn80tG7GE63CfR-au3L8",
+      "https://play-lh.googleusercontent.com/m6NCqejVQ8qkYdd1jzM1z31ufidPY1J_V2f5K8Ce6INlfo4jUXTX0qkb4w2dSxup8vR5",
+      "https://play-lh.googleusercontent.com/85mnkOjNeLvlqjRuuEZ4bvnAIleNMdzXCzH2DGRxB5_SiRBbSZzyNtBcq30HhntbeR-0",
+      "https://play-lh.googleusercontent.com/mcAdi3G63e2KFI92QctCAMbn05vh_0Pla-iJueJiSTETD57zVQbtm_BvuGfjZTftbw"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Comprehensive Practice Tests",
+            "description": "DMV Practice Test Pro 2023 offers a wide array of practice tests that simulate the real DMV exam experience, ensuring users are well-prepared for their driving tests."
+          },
+          {
+            "title": "Detailed Explanations",
+            "description": "Each practice question comes with detailed explanations and reasoning to help users understand the material thoroughly, enhancing retention and knowledge."
+          },
+          {
+            "title": "User-Friendly Interface",
+            "description": "The app features an intuitive layout and easy navigation, allowing users to focus on studying without any distractions."
+          },
+          {
+            "title": "Progress Tracking",
+            "description": "Users can monitor their progress with built-in tracking tools that highlight strengths and weaknesses, enabling targeted study sessions."
+          },
+          {
+            "title": "State-Specific Regulations",
+            "description": "Unlike generic study apps, this app tailors content to specific state regulations, ensuring that users are learning the rules pertinent to their driving location."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Customizable Study Plans",
+            "description": "Users can create personalized study plans based on their schedule and test dates, making preparation more efficient and targeted."
+          },
+          {
+            "title": "Regular Updates",
+            "description": "The app is frequently updated to reflect the latest DMV regulations and testing standards, ensuring users have the most current information available."
+          },
+          {
+            "title": "Multi-Device Synchronization",
+            "description": "Information is synced across multiple devices, allowing users to study anytime and anywhere, which increases flexibility."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited Free Content",
+            "description": "While the free version offers some basic questions, users may find the extensive question bank only available through the paid version."
+          },
+          {
+            "title": "Subscription Model Concerns",
+            "description": "The subscription model might be a concern for some users who prefer a one-time purchase rather than ongoing payments."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "The app offers a free version with limited functionality, allowing users to try before they buy, but with fewer practice questions and features."
+          },
+          {
+            "title": "Premium Subscription",
+            "description": "The premium version provides access to the full question bank, detailed explanations, and additional resources for a monthly or annual subscription fee."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.dmv.app?version=latest",
+    "slug": "dmv-practice-test-pro-2023"
+  },
+  {
+    "id": "11602",
+    "name": "Ampol",
+    "category": "Auto & Vehicles",
+    "rating": "2.5",
+    "downloads": "760M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "Ampol",
+    "version": "3.3",
+    "update_date": "2024.12.17",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/au.com.ampol.flagship.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/frwtfhmJpF6VlOPA-6fDClCU-TuY-0ii1lBsD71kdIkr_G0Z2JmZMEZ3kxefV3NpDwY",
+      "https://play-lh.googleusercontent.com/SNfpdaP5JH7YkLR0ExlMyViccub3N3hDBI7jpDqDNVq7fQNJNvnDjOz27BFdpsQyWg",
+      "https://play-lh.googleusercontent.com/XgMlW6Uj3mjtygCYFslSxoVzYDu8NzajzwdnkuOL1o4qJesU2zbVCqIk6s2mHGPSs_4B",
+      "https://play-lh.googleusercontent.com/G2jkq46tJYQC9hjJyGFKfrfMCQv8Md4RWvv4c65405OnsI-qgWKbXYAIxdobSLBKQwtc",
+      "https://play-lh.googleusercontent.com/YgIh2NwCYryEG-mEKCOd7ptgUp_YG1puxoJh21Anh9ipiyINNRT44kYopHDDKiFYstiX",
+      "https://play-lh.googleusercontent.com/8KCQQkw4mJkymrmxhFQSL7r0HvMl0WXOuhJXj_EiGESn6FeWg5rHMvvMMqnbNvPDZTk",
+      "https://play-lh.googleusercontent.com/H_XjdVdn1OmUi3u6EVEUfx1bCZ66WvwOrLPMrECLpNM0ZdChURAEUxftCzTg1dDDbC0",
+      "https://play-lh.googleusercontent.com/NZSv7gf0yiOpX4TqNI1xqYPdhDG6xCSb2z5z3sulBRa_DHfID3G9Bbf0_6fayAmWZ2A"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Fuel Price Finder",
+            "description": "Easily locate the nearest Ampol stations and check their fuel prices in real-time to save money on every filling."
+          },
+          {
+            "title": "Loyalty Rewards Program",
+            "description": "Join the Ampol Rewards program to earn points on fuel purchases and redeem them for discounts or exciting rewards."
+          },
+          {
+            "title": "Convenient Payment Options",
+            "description": "Seamlessly pay for fuel directly through the app using your preferred payment method, making the refueling process quicker."
+          },
+          {
+            "title": "Station Amenities Information",
+            "description": "Get detailed information about each Ampol station’s available services, such as car washes, food options, and convenience store items."
+          },
+          {
+            "title": "Promotions and Special Offers",
+            "description": "Stay updated with the latest promotions and special offers exclusive to app users, helping you save while enjoying quality fuel."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "User-Friendly Interface",
+            "description": "The app features an intuitive design that makes it easy for users to navigate and find information quickly."
+          },
+          {
+            "title": "Up-to-Date Information",
+            "description": "Real-time updates ensure that users always get the most accurate fuel prices and station services, enhancing the decision-making process."
+          },
+          {
+            "title": "Convenience of Location Services",
+            "description": "Utilizing GPS technology, the app allows users to find the nearest stations effortlessly, saving time on the road."
+          },
+          {
+            "title": "Exclusive Promotions",
+            "description": "App users gain access to exclusive deals and rewards not available elsewhere, adding value to their purchases."
+          },
+          {
+            "title": "Comprehensive Station Listings",
+            "description": "Provides extensive listings of all Ampol stations, along with facility descriptions, ensuring no surprises during stops."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited to Ampol Stations",
+            "description": "Users may find their options limited to only Ampol stations, potentially reducing flexibility on long trips."
+          },
+          {
+            "title": "Occasional App Glitches",
+            "description": "Some users report minor glitches in the app, particularly during high traffic periods, leading to temporary issues in navigation."
+          },
+          {
+            "title": "Requires Location Access",
+            "description": "The app needs location services to function optimally, which might be a concern for users worried about privacy."
+          },
+          {
+            "title": "Regional Availability Limitations",
+            "description": "Some features may not be available in all regions, resulting in inconsistent experiences based on user location."
+          },
+          {
+            "title": "Loyalty Program Complexity",
+            "description": "The rewards program may be perceived as complicated by some users, making it difficult to track points and redeem rewards."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free to Use",
+            "description": "The Ampol app is free to download and use, offering users a wealth of features without any upfront costs."
+          },
+          {
+            "title": "Loyalty Program Benefits",
+            "description": "Participation in the rewards program unlocks additional savings and exclusive offers, providing an enhanced value experience without any fees."
+          },
+          {
+            "title": "No Subscription Fees",
+            "description": "Unlike other fuel apps, Ampol does not have ongoing subscription fees, keeping costs down for users."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/au.com.ampol.flagship?version=latest",
+    "slug": "ampol"
+  },
+  {
+    "id": "13843",
+    "name": "PayByPhone",
+    "category": "Auto & Vehicles",
+    "rating": "4.1",
+    "downloads": "580M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "PayByPhone Technologies Inc",
+    "version": "5.10.1.1936",
+    "update_date": "2025.02.28",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.paybyphone.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/gh_nL-JXxY0wStIlztP7Xrs0IKx0b7ljJG_VxYnCkdi5MKzmzugv8cLeL8yB4BfN-lMY",
+      "https://play-lh.googleusercontent.com/25QMrTSaSBTsEUFhwLBkC6axdcP2X6T09YVd06jQb7LCR1CdqNhgWQAuHcEWVut_PQ",
+      "https://play-lh.googleusercontent.com/ZxsH7Ay7c6uww7R6A4N9qBAu-Xz274PjpISGmZndWxH2FKwcwnAguzH_CoGAmzp7uQ",
+      "https://play-lh.googleusercontent.com/T-qlO7w320HzhAtVYfHDGLOeYERaXB0YBZGgHATKaLn646FKLabzi7psa9gnhTmWyXY",
+      "https://play-lh.googleusercontent.com/yqYPFD0nGupRI3HyQAvT10P8ZDmPObR21H6JeK85OhApo0X0M4blBgKd-3buXM46Qg",
+      "https://play-lh.googleusercontent.com/aXCc2pbkfevQ402J6J-M5jkLOFXaLbgB4VUxBriOWOXkJ81yLVk7X9wnS3ctsMXsUQ"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Seamless Parking Payments",
+            "description": "PayByPhone allows users to conveniently pay for parking via their mobile device. The app provides an easy interface to locate nearby parking spots, making payment straightforward and efficient."
+          },
+          {
+            "title": "Real-Time Notifications",
+            "description": "Users receive real-time alerts about their parking sessions, including reminders before time runs out, helping to prevent fines and ensuring a stress-free experience."
+          },
+          {
+            "title": "Extended Session Management",
+            "description": "Users can extend their parking session directly from within the app without having to return to their vehicle, making it a practical choice for busy city dwellers or professionals."
+          },
+          {
+            "title": "Multi-city Access",
+            "description": "With PayByPhone, users can manage parking across multiple cities, making it ideal for travelers and commuters who need consistent access to parking services wherever they go."
+          },
+          {
+            "title": "Secure Transactions",
+            "description": "The app ensures secure payment solutions with advanced encryption technology, safeguarding user information and providing peace of mind with every transaction."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "User-Friendly Interface",
+            "description": "PayByPhone features a clean and intuitive design, allowing users to navigate and complete transactions effortlessly, which enhances overall user satisfaction."
+          },
+          {
+            "title": "Cost-Effective",
+            "description": "The app eliminates the need for physical parking meters, reducing operational costs and offering a budget-friendly solution tailored to user needs."
+          },
+          {
+            "title": "Accessible Customer Support",
+            "description": "PayByPhone offers responsive customer support to assist users with any parking-related queries or issues, ensuring a smooth and reassuring experience."
+          },
+          {
+            "title": "Flexible Payment Options",
+            "description": "Users can choose from various payment methods, including credit cards and mobile wallets, providing flexibility and convenience during transactions."
+          },
+          {
+            "title": "Easy Account Management",
+            "description": "The app allows users to easily track their parking history, transactions, and preferences, simplifying management for regular users."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited Availability",
+            "description": "PayByPhone's service may not be available in all locations, potentially limiting access for users in certain areas or regions."
+          },
+          {
+            "title": "Dependent on Internet Connection",
+            "description": "The app requires a stable internet connection to function optimally, which could be a drawback for users in low connectivity areas."
+          },
+          {
+            "title": "Variable Service Fees",
+            "description": "Some users may notice variable service fees associated with transactions, which could discourage use for occasional parkers."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free to Download",
+            "description": "PayByPhone can be downloaded for free, allowing users to access its core features without upfront costs."
+          },
+          {
+            "title": "Service Fees",
+            "description": "While the app itself is free, users should be aware that service fees may apply for parking transactions, which can vary by location."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.paybyphone?version=latest",
+    "slug": "com-paybyphone"
+  },
+  {
+    "id": "11596",
+    "name": "Auto Trader",
+    "category": "Auto & Vehicles",
+    "rating": "4.8",
+    "downloads": "950M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "Auto Trader",
+    "version": "6.14",
+    "update_date": "2025.03.14",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/uk.co.autotrader.androidconsumersearch.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/H8r9FQGJYkT2RovjXi6kM41C6IqnRv3LoyzfOt9g5J9sp_1n80fERtvj0LDSFgPdIQo",
+      "https://play-lh.googleusercontent.com/OFIasuvUfwEXJ3M1snfIo460q23jIt0JPSff8ayG7bImDpsAipcpz_fcZhb9O0OaGzWJ",
+      "https://play-lh.googleusercontent.com/Jup6_uNMbOVkKJZyOF2Tyr2zfkTsDiGFuZnPB796N_-0UiQzDPk4TyOnI5-CkrYXsQ",
+      "https://play-lh.googleusercontent.com/HnkAUaEMhFYbWL7FTvWw8dhW6FNdoFnV8nARj6tR3HmI-Gwo0G3VdAAq-xfjHhjGUegp",
+      "https://play-lh.googleusercontent.com/0dlq2NGtq03pWxMaA2H2hzsncDsJL7Xv43L0eyc1Kiv39SSjrNrJl5N9HWmwNwdH0w",
+      "https://play-lh.googleusercontent.com/mpiBqTFqr9DtTeaiGe81cowd-h8Vt-M6uBD374btB0QGUuq868zPsZm3QF0yDmeqVA",
+      "https://play-lh.googleusercontent.com/utYTiK1EKc7h7emXdywiPkJB_VZa35LSHSXP54VCIE46o3tVu76JrJe73OYGXgQ8y7aI",
+      "https://play-lh.googleusercontent.com/rc9CXByEfUpNN1FYx70C1ExyRTe8kDh1KLjpasfyvJWi9QAE-bnP5wJVtqn39MJGDA",
+      "https://play-lh.googleusercontent.com/45INizRH4N4GfjxAyI57WCYEl9aOKLLOD1kbm4pUEXQQcRdCVE9SXo_qbuNZlrRujdc",
+      "https://play-lh.googleusercontent.com/IkxTqT40zPMkDda3NaRi3gxag2kHDRkQqzxGVZwNqQXaz111jUs2apXYwMbDmaRvt1it",
+      "https://play-lh.googleusercontent.com/HvinKoCrfdso9TZhbSE12XEfwF74YB33Y981fBHDuw2JyFW8ZkZR8Ug9FsJ-hA09oeyn",
+      "https://play-lh.googleusercontent.com/VOkMJIMyydFbHZrHMZMV63bUVO2dx7vuibRIHGxB2W-weY5OzCMPG297zl-vBMLkGqA",
+      "https://play-lh.googleusercontent.com/XiS_zRNTQrtfXHijoiRSj-VHxNKSPll8DD3l0lJ1lKv-p4mbK3nQJDxg-589pOaZyC0",
+      "https://play-lh.googleusercontent.com/4jsFytNRDNgbKW4YYeU6v0eSCliqQRtitjeqp-Mg56CZio_ZfP99E-Q6fNy3pOosjOI",
+      "https://play-lh.googleusercontent.com/GyL9aAgdcqbCS3ApNUCWWpOTYDxyZqEDUsDR4QsukVIl3AN77V1s6kuylWB8q8uoHXc",
+      "https://play-lh.googleusercontent.com/oeK6a3HrdaiSadWHlUqgsGAPL8fexI1Yjz_r1wwETxKffXRfEOY_hwQPBXB6dCClZuI",
+      "https://play-lh.googleusercontent.com/Ztp-kHd43YNVTdcDtsoLHBu8DqGGD8o5Sjgc69Xzpi9HsHYzKVLEMddtbXWQ9DbOc7IB",
+      "https://play-lh.googleusercontent.com/LqR-qHKNuT6IvMl2TqrOwTeFE7ZdJAti0QUiyHWPV0aFImyycj5pr42ObpFMyND1HNkF",
+      "https://play-lh.googleusercontent.com/g1dN0eltgNb_hJdWchnrXVcSjvnXfROmz6dgekp-E_om6xtshOJHlVSBEx0LnVCd-X13",
+      "https://play-lh.googleusercontent.com/KZ176CnAT50ywsUGk4MKbfaZFmIklqLD89miQ6CB-YOfIIuWuk0fxBE_cKDDDDrmng",
+      "https://play-lh.googleusercontent.com/GH7waaOkStjKbRbe_gqbMx6snGBKZhecgR00j8bJy4xzOgF0pWNbRrI0tWqwMLzF-A",
+      "https://play-lh.googleusercontent.com/PuA3qwDg9WIOgCMWPyCvgoOY--u0TwZRo_3TiNQw4b-YvliivMbGCoppI0eg9fZFJQ",
+      "https://play-lh.googleusercontent.com/X6TG1KIX1qmQIHpThUcLL3REGO2v7jG1p4AlxJXUWaGIHNKwdlS9deMfTVk-0K4SOw",
+      "https://play-lh.googleusercontent.com/F5jgaP4AY3GaZ_o-CsWPmMNok-sCopXp7aOJ7HZ2fbP5uALCr-fe9QGrZCDLzWbCMYY"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Comprehensive Vehicle Search",
+            "description": "Auto Trader offers an extensive database of new and used cars for sale, allowing users to filter searches by make, model, price range, and location, making it easy to find the perfect vehicle."
+          },
+          {
+            "title": "Real-time Price Comparisons",
+            "description": "The app provides real-time pricing information and comparisons, helping users to make informed decisions by identifying competitive prices and trends in the automotive market."
+          },
+          {
+            "title": "Detailed Car Listings",
+            "description": "Each vehicle listing includes high-resolution images, detailed specifications, and seller information, providing users with all the necessary details to evaluate options before contacting sellers."
+          },
+          {
+            "title": "User-friendly Interface",
+            "description": "With an intuitive design, Auto Trader ensures easy navigation for users of all experience levels, enhancing the car shopping experience with a seamless interface."
+          },
+          {
+            "title": "Favorite and Alert Features",
+            "description": "Users can save their favorite listings and set up alerts for specific searches, ensuring they stay updated on new listings that match their unique preferences."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Extensive Inventory",
+            "description": "Boasting one of the largest inventories of vehicles in the UK, Auto Trader increases users' chances of finding their ideal car."
+          },
+          {
+            "title": "User Community Reviews",
+            "description": "The app features user reviews and ratings for dealerships and vehicle models, giving potential buyers insights into the experiences of others."
+          },
+          {
+            "title": "Secure Transactions",
+            "description": "The app prioritizes user safety with secure messaging systems and trade practices, ensuring peace of mind during the buying process."
+          },
+          {
+            "title": "Regular Updates",
+            "description": "Auto Trader frequently updates its database and features, ensuring users have access to the latest tools and listings in the car market."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Ads and Promotions",
+            "description": "Some users report that ads and promotions can clutter the interface, distracting from the primary search functionality."
+          },
+          {
+            "title": "Limited International Listings",
+            "description": "Currently, the app focuses primarily on the UK market, which may limit options for users looking for cars in other countries."
+          },
+          {
+            "title": "Potential for Inactivity",
+            "description": "Some older or less popular vehicles may have outdated listings, requiring users to verify the availability directly with sellers."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Access",
+            "description": "Auto Trader is free to download and use, providing basic search functions and access to listings without any upfront cost."
+          },
+          {
+            "title": "Subscription Features",
+            "description": "Premium subscriptions may offer additional features such as ad-free browsing or enhanced search capabilities, though basic users can still access extensive functionality for free."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/uk.co.autotrader.androidconsumersearch?version=latest",
+    "slug": "auto-trader"
+  },
+  {
+    "id": "11597",
+    "name": "Kijiji Autos",
+    "category": "Auto & Vehicles",
+    "rating": "4.4",
+    "downloads": "760M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "eBay Classifieds Group",
+    "version": "1.43.0",
+    "update_date": "2024.11.03",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/ecg.move.ca.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/TuaqkY_lss4738W_Nt2MclgMLKOWgFxg8qlgr_7ZphK9omB-90klAhJJZNcq3L4jpLBj",
+      "https://play-lh.googleusercontent.com/AM_kE2z61OB-L5PaoVPQhZ_6Tt4onAlQcexmAFM6fic2SRm07_pP8PDoT_vGkAGFNw",
+      "https://play-lh.googleusercontent.com/tZgb6bPeXxnqY7XFe6XyfYvskCMRuyACIqKtQUyYhuhQBH4TmtPTzY8ECwp8py5Ijr0",
+      "https://play-lh.googleusercontent.com/u98wNvs7jeQhCLcT1WI05iljQryPJB7x2eBN9O6wEi6O4rYhyXl07DZESYLNEzEba0w",
+      "https://play-lh.googleusercontent.com/bLXnrPKttLQc8URRyvR6S2vq0vSTImZXvxBKvOHsw3QjBtuvUq_9Nrusv9I7ZLaEfg",
+      "https://play-lh.googleusercontent.com/w1R_nMkVxml6OG_4knoUzH3A6xOlH1z25_fhq1hEk-9L-Aedq-kMY1XiWBYLV_9hkQ"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Extensive Vehicle Listings",
+            "description": "Kijiji Autos offers a vast selection of new and used vehicles, providing users with numerous options to find their perfect match. Whether you're looking for a car, truck, or SUV, you'll find filtered search options to suit your preferences."
+          },
+          {
+            "title": "Easy-to-Use Interface",
+            "description": "The app boasts a user-friendly interface, making it simple for users to navigate through listings, view detailed vehicle information, and contact sellers with ease. This ensures a smooth purchasing experience."
+          },
+          {
+            "title": "Price Comparison Tools",
+            "description": "Users can compare prices of similar vehicles in the area, helping them make informed purchase decisions. This feature highlights the app's commitment to transparency and value for users."
+          },
+          {
+            "title": "Vehicle History Reports",
+            "description": "Kijiji Autos provides access to vehicle history reports, allowing potential buyers to verify the condition and provenance of used vehicles, giving peace of mind before making a purchase."
+          },
+          {
+            "title": "Personalized Alerts",
+            "description": "The app allows users to set up personalized alerts based on their specific criteria, such as make, model, or price range. This ensures that users never miss out on new listings that match their interests."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Wide Choice",
+            "description": "With thousands of listings available, users can discover a diverse range of vehicles that fit all budgets and needs, increasing the likelihood of finding the right car."
+          },
+          {
+            "title": "Real-Time Updates",
+            "description": "The app provides real-time updates on new listings and price changes, keeping users informed and competitive in their search for the best deals."
+          },
+          {
+            "title": "Secure Buying Process",
+            "description": "Kijiji Autos emphasizes security by facilitating connections between buyers and sellers while providing resources to educate users about safe buying practices."
+          },
+          {
+            "title": "Integrated Messaging",
+            "description": "The in-app messaging system allows users to communicate directly with sellers, reducing delays and enabling quick negotiations for better buying experiences."
+          },
+          {
+            "title": "Comprehensive Reviews",
+            "description": "Users can read reviews and get insights from previous customers, providing first-hand information that assists in decision-making when evaluating potential purchases."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Listing Quality Variance",
+            "description": "While the app hosts many listings, the quality of information and photography can vary significantly between sellers, leading to potential misunderstandings."
+          },
+          {
+            "title": "Limited Features for Free Users",
+            "description": "Some advanced features, such as comprehensive vehicle reports, may require a premium subscription, which could limit access for casual users."
+          },
+          {
+            "title": "Local Availability Only",
+            "description": "Kijiji Autos primarily focuses on local listings, which may not be suitable for users looking to explore options outside their immediate area."
+          },
+          {
+            "title": "Potential Seller Inactivity",
+            "description": "Some listings may represent inactive sellers or outdated vehicles, which could lead to frustration when users attempt to contact them about a listing."
+          },
+          {
+            "title": "Heavy Competition",
+            "description": "Due to the popularity of the app, users may encounter heavy competition for desirable listings, making it essential to act quickly."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Access",
+            "description": "Kijiji Autos is available for free, allowing users to browse listings and connect with sellers without any upfront costs."
+          },
+          {
+            "title": "Premium Subscription",
+            "description": "A premium subscription offers additional features such as enhanced vehicle reports and ad-free browsing experiences for a monthly fee, appealing to serious buyers."
+          },
+          {
+            "title": "Listing Fees for Sellers",
+            "description": "Sellers may incur fees for premium listing options, enabling better visibility for their vehicles, which could enhance the chances of a quicker sale."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/ecg.move.ca?version=latest",
+    "slug": "kijiji-autos"
+  },
+  {
+    "id": "11603",
+    "name": "Openbay",
+    "category": "Auto & Vehicles",
+    "rating": "4.7",
+    "downloads": "700M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "Openbay",
+    "version": "2.0.4",
+    "update_date": "2025.03.14",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.openbay.vo.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/FbXiicBc01xrY9tzIboV3NaLzI0oHfiBU5bnFE4CprUHQ69zSqS56Ou5CSB0vj07OA",
+      "https://play-lh.googleusercontent.com/wskdMi0EGbMvqVf5Rc44_j660FaciARRGtu3Seea39zeaXYmvKIbs2VAFCbbdCGT3g",
+      "https://play-lh.googleusercontent.com/lLJ_50JWLezR-JqfRFtadyJ2Pb6ihbHrNt4bbwZ8C02irD3BHZSm-ZZzowJn9Ma-qIwu",
+      "https://play-lh.googleusercontent.com/FTx2XdpCRgDyNQMiAAYygv0U60MDSgVfsGkp5mcZ5wnh1mpUOHQ-WQi40mrkwUZnOO0",
+      "https://play-lh.googleusercontent.com/hahd1oh-9LLpzwuBGO3OQhK155rZK-zAW0brBVczNux0pxD0sTLP_Vgi8bJ_gXtih_Y"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Seamless Service Booking",
+            "description": "Openbay allows users to effortlessly book various services such as auto repairs, home maintenance, and other local services with just a few taps. The booking process is streamlined, making it easy for users to select their desired services, compare prices, and book appointments that fit their schedules."
+          },
+          {
+            "title": "Transparent Pricing",
+            "description": "With Openbay, users benefit from transparent pricing, enabling them to see service quotes before making a booking. This feature ensures that users have a clear understanding of what they are paying for, helping them make informed decisions when selecting service providers."
+          },
+          {
+            "title": "Wide Range of Services",
+            "description": "Openbay connects users with a diverse range of service professionals, from mechanics to electricians. Whether you need a tire change or plumbing work, Openbay has you covered by offering a comprehensive list of local providers catering to different service needs."
+          },
+          {
+            "title": "User Reviews and Ratings",
+            "description": "The app includes a robust review and rating system, allowing users to read real experiences from previous customers. This feature enhances trust and helps users choose the best service providers based on their track records."
+          },
+          {
+            "title": "Real-Time Updates",
+            "description": "Users can track the status of their service requests in real-time, ensuring they are informed about any changes or updates. This feature provides peace of mind, knowing when the service provider is en route and expected arrival times."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Convenience",
+            "description": "Openbay makes it incredibly convenient for users to schedule necessary services anytime and anywhere, eliminating the need for phone calls or manual bookings."
+          },
+          {
+            "title": "Competitive Pricing",
+            "description": "The ability to compare quotes from different service providers allows users to find the best deals, making it economical while ensuring quality service."
+          },
+          {
+            "title": "Quality Assurance",
+            "description": "With user reviews and ratings, Openbay helps users select high-quality service providers, reducing the risk of unsatisfactory service."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited Availability",
+            "description": "Depending on the user's location, some services may not be available, which can limit options for users in rural or less populated areas."
+          },
+          {
+            "title": "Service Variation",
+            "description": "While the platform hosts various service providers, the quality and pricing can vary widely, leading to potential discrepancies between user expectations and actual experiences."
+          },
+          {
+            "title": "Internet Dependency",
+            "description": "Openbay requires a stable internet connection to function optimally, which may be challenging for users without reliable access."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Freemium Model",
+            "description": "Openbay offers a freemium model where users can access basic functions for free, allowing them to book services without any upfront costs."
+          },
+          {
+            "title": "Subscription Options",
+            "description": "For enhanced features such as priority service booking and exclusive discounts, users can opt for a subscription service, which provides added value for frequent users."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.openbay.vo?version=latest",
+    "slug": "openbay"
+  },
+  {
+    "id": "11548",
+    "name": "Autotrader",
+    "category": "Auto & Vehicles",
+    "rating": "4",
+    "downloads": "870M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "eBay Classifieds Group",
+    "version": "1.0.15",
+    "update_date": "2024.08.02",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/ecg.move.au.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/AhYEqOESM8JKKl9d8Z58ZBadfhdxebD81WGycwN94S8y-AH-QzFaqdPuSOP6Nr7FuJ8",
+      "https://play-lh.googleusercontent.com/KkQ876izuKhcOWpbxC7peuBrByWD6ti1f1Mv6OBIJ2b_Q1xLV2a0DODnQLCEQ03K-Wg",
+      "https://play-lh.googleusercontent.com/4I6sg2m8pvF8FyAS_OIwTcryI3RIGZ0NvcIxm3Hx3UTU-fGDQG1DJAVCC_D9pTx_LhQ",
+      "https://play-lh.googleusercontent.com/o5d7jpwnl8S15hsw_CF5GDNdzGiYApBnvUT2a3N5ftyYyy7EGA5E0xnvrKqfGTUwXgM",
+      "https://play-lh.googleusercontent.com/wEEnAmENWl9-yxMn-hkhBfJE-baJmNBZr_Lavpq2tRC8fS3FVQRIKYyO-X6iK-rEwLOw",
+      "https://play-lh.googleusercontent.com/HwoMRkY9agSrz8oPhbMHjU9saI78FccdCQIB6Ky3hDEbWs91lcN_aJwKMojYkAOEugo",
+      "https://play-lh.googleusercontent.com/fMv9QnW-ZxiwnIpZd-xxh3bmntSV9JWey_uEFFuw8j4ifAwBkAkfX2djXeMRjzFg8AY",
+      "https://play-lh.googleusercontent.com/dbmfOGgVgOodXBdOURAnb7OxDeFd6hZcz2Y9DvgSSX1Spb_3Xnhy4gnLYCvn6ZgrypY",
+      "https://play-lh.googleusercontent.com/I9uDi1ishl7m0-sI1JT6BdavTjxSIxy73NnXW6yvSK4sd5QBROQn2hmf869nv9IV1A",
+      "https://play-lh.googleusercontent.com/U2iSylcZ9bt9ntczLm_uKCjVsnq5xMvvpbLKLgmlPWNoKrdrd0b_YSqHuO_qAwFtr-E",
+      "https://play-lh.googleusercontent.com/lB65byBLlvWYLj3ryRQpTaHcdUkyYTPzEpXRUX9uMlp4Vuxvy-VG7am8fiv5s0QH4C0",
+      "https://play-lh.googleusercontent.com/CqW2xF7xkvIr7iM9YTHiKnb2fY4uW4h9luX85o1s21HCf7moHaqr4c8l-QVUZ-BmKIWC",
+      "https://play-lh.googleusercontent.com/wN2CqNLivw7_j9AuQVkJ_tZeZsMBoq0hlIPkuz8DPqC7ips1BoBDtP1Ocz66tXyRL0c",
+      "https://play-lh.googleusercontent.com/wTVEl0bWAw3S9Ub82jYCW3Qb-fVS7U0klfYHe0hGXbQVRIPHkD_Yeqzcfrge5xALQl4"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Comprehensive Vehicle Listings",
+            "description": "Autotrader offers an extensive range of vehicle listings, allowing users to browse thousands of new and used cars from various dealerships and private sellers, ensuring they find exactly what they're looking for."
+          },
+          {
+            "title": "Advanced Search Filters",
+            "description": "With advanced search filters, users can refine their vehicle searches based on specific criteria such as make, model, price range, year, and location, making the shopping process efficient and user-friendly."
+          },
+          {
+            "title": "Personalized Recommendations",
+            "description": "The app provides personalized vehicle recommendations based on user preferences and past searches, enhancing the overall shopping experience by showcasing suitable options that match their needs."
+          },
+          {
+            "title": "Price Comparison Tools",
+            "description": "Autotrader includes price comparison tools that allow users to compare different listings side-by-side, helping them to make informed decisions and ensure they are getting the best value for their money."
+          },
+          {
+            "title": "User Reviews and Ratings",
+            "description": "Accessible user reviews and ratings add credibility and insight, empowering potential buyers to learn about other users' experiences with specific vehicles and dealerships before making a purchase."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Extensive inventory",
+            "description": "With a comprehensive inventory of vehicles, Autotrader offers users a higher chance of finding their ideal car, catering to diverse preferences and budgets."
+          },
+          {
+            "title": "Easy-to-use interface",
+            "description": "The app boasts an intuitive and user-friendly interface, making navigation seamless, even for first-time users, enhancing the overall user experience."
+          },
+          {
+            "title": "Robust filtering options",
+            "description": "The availability of robust filtering options allows users to efficiently narrow down their choices, saving time and effort in the car shopping process."
+          },
+          {
+            "title": "Real-time alerts",
+            "description": "Users can set up real-time alerts for desired vehicles, ensuring they never miss out on a great deal as they get notified instantly when new listings match their criteria."
+          },
+          {
+            "title": "Expert advice",
+            "description": "Autotrader provides insightful articles and tips from automotive experts, helping users make informed decisions beyond mere buying and selling."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited negotiation features",
+            "description": "While the app facilitates easy browsing, it lacks built-in tools for negotiating prices directly with sellers, which may be a downside for users seeking more bargaining power."
+          },
+          {
+            "title": "Occasional outdated listings",
+            "description": "Some vehicle listings may occasionally be outdated or inaccurate, leading to potential disappointment for users who find a car that is no longer available."
+          },
+          {
+            "title": "Regional limitations",
+            "description": "Autotrader’s focus on the Australian market may limit its appeal to users in other countries, restricting its user base to those located in Australia."
+          },
+          {
+            "title": "App size",
+            "description": "The app may require a significant amount of storage space, which could be an issue for users with devices that have limited storage capacity."
+          },
+          {
+            "title": "Information overload",
+            "description": "Due to its extensive features and options, new users may experience an initial overload of information, requiring some time to adapt and utilize the app fully."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Basic Features",
+            "description": "Autotrader offers a free version with basic features, allowing users to search for vehicles and view listings without any cost."
+          },
+          {
+            "title": "Premium Memberships",
+            "description": "For users seeking additional benefits, premium memberships are available, providing features such as ad-free browsing, enhanced search options, and priority customer support."
+          },
+          {
+            "title": "Subscription Benefits",
+            "description": "Premium subscribers gain early access to new listings and exclusive deals, significantly improving their chances of securing the best vehicle before others."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/ecg.move.au?version=latest",
+    "slug": "autotrader"
+  },
+  {
+    "id": "11601",
+    "name": "Android Auto",
+    "category": "Auto & Vehicles",
+    "rating": "4.2",
+    "downloads": "70M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "Google LLC",
+    "version": "9.9.632624-release",
+    "update_date": "2025.03.15",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/android-auto.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/DkqclFKgX_RsxKMXcntDLisvmOsfnyfAmcSX7dS1Wk8NT9m5oH67LowpyWoT1jfCog",
+      "https://play-lh.googleusercontent.com/c89meYTabDYZAsRPMqGkRvq520Yj4mcpyEfjlT_ME5TzSYOQdRZsozFE01SXokv8pfqd",
+      "https://play-lh.googleusercontent.com/5Oe_StN5UmzTiZARI0fKOZO97EsyS5jHV0jhCj4ZTI57MYhNkJ3vYqqGpbDxSYaeaK8",
+      "https://play-lh.googleusercontent.com/Z58gl9NKlZz0BbUGO2EeJlrmXbyJIVbo9ixkD5GrWQfm2FkU77t-1QNtkvPpA52dAqo",
+      "https://play-lh.googleusercontent.com/IZhUPIUSijR2rmuRij8ljiiDHty2FyKxtpgHK8h4qerTaOoXqaWOk5c9T7WPREJqf8uS"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Intuitive Interface",
+            "description": "Android Auto provides a user-friendly interface that seamlessly integrates with your vehicle's display, allowing for easy navigation and access to apps while driving."
+          },
+          {
+            "title": "Navigation Support",
+            "description": "Integrated with Google Maps and Waze, Android Auto offers real-time navigation updates, voice-guided directions, and alternative route suggestions to enhance your driving experience."
+          },
+          {
+            "title": "Voice Control",
+            "description": "Utilize voice commands to make calls, send messages, or play music, enabling hands-free operation for safer driving without the need to take your hands off the wheel."
+          },
+          {
+            "title": "App Compatibility",
+            "description": "Supports a wide range of apps including music streaming, messaging, and podcasts, making it easy to access your favorite content on the road."
+          },
+          {
+            "title": "Safety Features",
+            "description": "Android Auto includes safety features like Do Not Disturb mode, helping to minimize distractions by limiting notifications while driving."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Seamless Integration",
+            "description": "Designed to work perfectly with various car models, ensuring a smooth experience without compatibility issues."
+          },
+          {
+            "title": "Enhanced Safety",
+            "description": "Hands-free voice activation significantly reduces the risk of distractions, promoting safer driving habits."
+          },
+          {
+            "title": "Frequent Updates",
+            "description": "Regular updates improve functionality and user experience, adding new features and enhancing existing ones based on user feedback."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited Offline Functionality",
+            "description": "Many features require an active internet connection, meaning offline access is restricted and navigation capabilities may suffer without data."
+          },
+          {
+            "title": "Compatibility Issues",
+            "description": "Certain older car models may not fully support all features, leading to a less than optimal experience in some vehicles."
+          },
+          {
+            "title": "App Limitations",
+            "description": "Not all apps are compatible with Android Auto, limiting options for some users who rely on specific applications for driving."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free to Use",
+            "description": "Android Auto is completely free to download and use, requiring no subscription fees, making it accessible for all users."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.google.android.projection.gearhead?version=latest",
+    "slug": "android-auto"
+  },
+  {
+    "id": "11599",
+    "name": "Cars.com",
+    "category": "Auto & Vehicles",
+    "rating": "4.7",
+    "downloads": "190M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "Cars.com",
+    "version": "7.12.0",
+    "update_date": "2025.03.13",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.cars.android.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/YIQk3gkTMvU-3kxPltVDYuik7A7lWduq6xVpwgV6k4nsewGQVVtWRXFezobbUO3HCp3-",
+      "https://play-lh.googleusercontent.com/MF1NcgSFYgcSozFDdhRfxDwrT_UqmA7h9Vj2DyU807xuU7kI5VPO4g1Vb8QJjnzCbUZE",
+      "https://play-lh.googleusercontent.com/-pzGowgIIGZmzapfefdGbVzPQuxlkE5lzSHz7xKrYhFgUw215tzwcngi6aSEfT6HnMY",
+      "https://play-lh.googleusercontent.com/dcVWYXbClGPVzI58ySX5m5oqKzsEK-WmToS0GXLr3BGj7PPhIsdLecZUW02BhV--oVYb",
+      "https://play-lh.googleusercontent.com/iOj-jcqRMea4J6ywOUNnAgHCR1-y5T3PPh-T1SdFTfLWbENFt1zdi8EdJNdPB02O8g_o",
+      "https://play-lh.googleusercontent.com/PaE2xPAXJKZ8zqCAfJR1GWGsihDlCVaRbEUvEL1s4uOTMRCDyqRLhZVVqHjd1fKAftOa"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Extensive Vehicle Listings",
+            "description": "Cars.com offers a comprehensive database of new and used vehicles for sale, enabling users to easily browse thousands of options tailored to their preferences. Users can filter searches by make, model, price range, and location, simplifying the car-buying process."
+          },
+          {
+            "title": "User Reviews and Ratings",
+            "description": "The app provides a wealth of user-generated reviews and ratings for various vehicles, giving potential buyers valuable insights from current owners. This feature allows users to make informed decisions based on real-world experiences and feedback."
+          },
+          {
+            "title": "Comparison Tools",
+            "description": "With built-in comparison tools, Cars.com allows users to compare multiple vehicles side by side. This feature highlights key differences in specifications, pricing, and features, supporting users in selecting the best vehicle that fits their needs."
+          },
+          {
+            "title": "Expert Advice and Articles",
+            "description": "Users can access expert car buying advice and informative articles right within the app. These resources cover topics from financing to maintenance, helping users navigate the complexities of car ownership."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "User-Friendly Interface",
+            "description": "The app features an intuitive design that makes navigation seamless, allowing users, even those who may be less tech-savvy, to easily find their desired vehicles and tools."
+          },
+          {
+            "title": "Integrated Financing Options",
+            "description": "Cars.com provides users access to online financing tools, helping them understand their budgets and find loan options that suit their financial situations directly through the app."
+          },
+          {
+            "title": "Location-Based Features",
+            "description": "The app utilizes location services to display nearby listings and dealerships, enhancing the user experience by connecting them to local options and services tailored to their geographical area."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "In-App Ads",
+            "description": "Some users have reported that the presence of ads within the app can be intrusive, potentially disrupting the browsing experience, especially when searching for specific vehicles."
+          },
+          {
+            "title": "Data Accuracy Issues",
+            "description": "Although Cars.com strives for accuracy, some listings may occasionally be outdated or incorrect, which can lead to confusion when users pursue particular vehicles that are no longer available."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free to Download",
+            "description": "The Cars.com app is free to download and offers basic functionalities for users, including browsing and comparing vehicles without any cost."
+          },
+          {
+            "title": "Premium Features",
+            "description": "While the app is free, some advanced features may be part of premium services or partnerships, which enhance the user experience but are not necessary for basic usage."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.cars.android?version=latest",
+    "slug": "cars-com"
+  },
+  {
+    "id": "11604",
+    "name": "Mileage Tracker by Driversnote",
+    "category": "Auto & Vehicles",
+    "rating": "4.7",
+    "downloads": "980M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "Driversnote Mileage Tracker",
+    "version": "4.10.2",
+    "update_date": "2025.03.13",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.driversnote.driversnote.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/IF8jb1vtoxiXA66F4zF1s5r7yycwHpEMyLbc1LyOI7wifj0L6W-oTQpg8blSmZupmPQ",
+      "https://play-lh.googleusercontent.com/31gc5vc5PjeknqZkSKeL-tmmjIIqycPlp7B5PJ0flgYqwDg12HnLd1n0Krmo6J_kzKo",
+      "https://play-lh.googleusercontent.com/qbmP-LHxmXuAcAEnqKOhrdcDuDG5ovmA7pkoyabLi-2V2cj-p9n5oZNqbZKa9naVCdU",
+      "https://play-lh.googleusercontent.com/wN20wiivfnEA-PFvkFervg_OghlUC4BcBhUs05HoonkPOP8d7TRlqmJeKGxey9vjjA",
+      "https://play-lh.googleusercontent.com/XYhWqcgQdZjpXJ_naZPXCLbBt0XGijELfqHSXC7NRwuSrdrKOmkXzW_O5iI2bHUgrvE",
+      "https://play-lh.googleusercontent.com/B7i8HWc7S6aFsd3vje1eAT2ID1I8Ul1sCsISuSlqOuyHzUsXz-SJR08u7wdxLt3dkw"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Automatic Trip Logging",
+            "description": "The Mileage Tracker by Driversnote automatically logs your trips using GPS technology, making it effortless to record every mile traveled without manual input."
+          },
+          {
+            "title": "Expense Tracking",
+            "description": "In addition to mileage tracking, the app allows users to categorize and track expenses related to each trip, providing a comprehensive overview of driving costs."
+          },
+          {
+            "title": "Tax Reporting Simplification",
+            "description": "The app generates detailed reports that simplify tax filing processes, allowing users to export mileage logs in a format accepted by tax authorities, ensuring compliance."
+          },
+          {
+            "title": "Customizable Categories",
+            "description": "Users can create custom categories for trips and expenses, enabling tailored tracking that suits individual needs, whether for business or personal purposes."
+          },
+          {
+            "title": "Cloud Sync and Backup",
+            "description": "Mileage Tracker securely syncs data to the cloud, ensuring that your logs are safe and accessible from any device, preventing data loss due to device issues."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "User-Friendly Interface",
+            "description": "The app features an intuitive interface that makes navigation and accessing features easy, even for users who are not tech-savvy."
+          },
+          {
+            "title": "Comprehensive Reporting",
+            "description": "Users benefit from in-depth reports that not only detail mileage but also provide insights on driving habits and expenses, promoting more informed decision-making."
+          },
+          {
+            "title": "Seamless Integration",
+            "description": "The Mileage Tracker easily integrates with other financial tracking tools, allowing users to maintain a holistic overview of their financial situation."
+          },
+          {
+            "title": "Multi-User Support",
+            "description": "Ideal for businesses with multiple drivers, the app supports managing and tracking multiple users under one account, streamlining operations."
+          },
+          {
+            "title": "Offline Functionality",
+            "description": "The app allows users to log trips even when offline, with the data syncing once the connection is restored, ensuring uninterrupted tracking."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Subscription Model",
+            "description": "While the app offers a free version, many advanced features and reporting options require a subscription, which might deter some users."
+          },
+          {
+            "title": "Occasional Accuracy Issues",
+            "description": "The GPS-based tracking may sometimes result in inaccurate trip data if the user's device signals are weak, leading to misrecorded mileage."
+          },
+          {
+            "title": "Steep Learning Curve for New Users",
+            "description": "Although user-friendly, some new users may initially find it challenging to navigate all features, requiring some time to fully understand the app's capabilities."
+          },
+          {
+            "title": "Limited Customization",
+            "description": "While categories are customizable, some users may find the options for reports too limited compared to standalone accounting software."
+          },
+          {
+            "title": "Connectivity Dependency",
+            "description": "The full functionality of the app may be limited without a reliable internet connection, particularly for syncing data."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "The free version of Mileage Tracker includes basic mileage and expense tracking, suitable for casual users needing simple logging capabilities."
+          },
+          {
+            "title": "Subscription Plan",
+            "description": "The subscription version offers enhanced features like advanced reporting, multi-user management, and priority customer support, providing value for businesses and frequent drivers."
+          },
+          {
+            "title": "Cost Structure",
+            "description": "Users can choose monthly or annual subscription options, with the annual plan offering a discounted rate compared to monthly subscriptions."
+          },
+          {
+            "title": "Trial Period",
+            "description": "A free trial period is available for the premium features, allowing users to test the added benefits before committing to a subscription."
+          },
+          {
+            "title": "No Hidden Fees",
+            "description": "The app maintains transparency with no hidden fees, ensuring users know exactly what they are paying for at all times."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.driversnote.driversnote?version=latest",
+    "slug": "mileage-tracker-by-driversnote"
+  },
+  {
+    "id": "11598",
+    "name": "autoTRADER.ca",
+    "category": "Auto & Vehicles",
+    "rating": "4.7",
+    "downloads": "30M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "Trader Corporation",
+    "version": "7.6.0",
+    "update_date": "2025.03.18",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/ca.autotrader.userapp.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/e3i0kJcnuHHy2qkXLxA8g6DkMJiZnVbxv0A0QoJ50Msk9MxjdOeG1g0tI-7cLhgCjkA",
+      "https://play-lh.googleusercontent.com/SULt44n4cTibahE9hAMM-jPk2L1FfMhc5shvH2Qs-I8ec21aSk5vMYmJUCNFPBi7HlsF",
+      "https://play-lh.googleusercontent.com/h6rvWCcWY7JH7Pu6bBLdCc17Ko7nsNkducQpTqagCVAJy0YtS5mgEO5E8GldiPCaod0",
+      "https://play-lh.googleusercontent.com/zVftLlvsDh5qssH2U32lJsHFbZ4Xv6HbMAjpNHVuLrtZPO8HewlsGC1r5q08iSqFlaQ",
+      "https://play-lh.googleusercontent.com/vB9qp_petU3njWiOKYjwT1mn2F_aHeemwG_eneLFEYCpX9nSE2lXd7br1-RiCxRyqPfo",
+      "https://play-lh.googleusercontent.com/8GNmhBtuHBIOBXw25qGBBVTcqIE3zAXKaOKoZSN2f44Zc0NDFhmmQrPtWlhulxqbrE2b"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Advanced Vehicle Search",
+            "description": "autoTRADER.ca offers a powerful search engine that allows users to filter vehicles by various criteria such as make, model, price range, mileage, and more, ensuring you find your ideal car with ease."
+          },
+          {
+            "title": "In-depth Vehicle Listings",
+            "description": "Each vehicle listing provides comprehensive details including high-resolution images, vehicle history reports, and seller information, enabling informed decisions before making a purchase."
+          },
+          {
+            "title": "Price Comparison Tool",
+            "description": "The app includes a price comparison feature that helps users evaluate similar vehicles in the market, ensuring they get the best deal possible."
+          },
+          {
+            "title": "Dealer Reviews and Ratings",
+            "description": "Access a wealth of user-generated reviews and ratings of dealerships and individual sellers, helping you choose reputable and trustworthy sellers."
+          },
+          {
+            "title": "Favorites and Notifications",
+            "description": "Users can save their favorite listings and set up notifications for price drops or new listings, making the car-buying process more efficient."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "User-Friendly Interface",
+            "description": "The app features an intuitive layout that makes navigation simple, catering to both tech-savvy users and those less familiar with technology."
+          },
+          {
+            "title": "Wide Selection of Vehicles",
+            "description": "With thousands of cars listed from both dealerships and private sellers, users have a broad array of options to choose from, increasing the chance of finding the perfect vehicle."
+          },
+          {
+            "title": "Regular Updates",
+            "description": "The app frequently updates its listings, ensuring users have access to the latest vehicles available on the market."
+          },
+          {
+            "title": "Expert Advice and Resources",
+            "description": "autoTRADER.ca provides valuable resources such as buying guides and automotive news, empowering users with knowledge during their car shopping experience."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited to Canada",
+            "description": "As a Canadian-focused app, users outside Canada may find the app less relevant, limiting its usability for international users."
+          },
+          {
+            "title": "In-App Advertisements",
+            "description": "The presence of advertisements can occasionally disrupt the user experience, although they are integral for a free app."
+          },
+          {
+            "title": "Data Usage",
+            "description": "The app may consume significant data, especially when viewing high-resolution images, which could be a concern for users with limited mobile data plans."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Access",
+            "description": "autoTRADER.ca is free to download and use, offering access to all basic features, making it accessible for all users."
+          },
+          {
+            "title": "Premium Features",
+            "description": "While the app is free, premium features such as advanced analytics or additional filters may be available through a subscription, enhancing the user experience."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/ca.autotrader.userapp?version=latest",
+    "slug": "autotrader-ca"
+  }
+]

@@ -1,0 +1,889 @@
+[
+  {
+    "id": "10782",
+    "name": "Invitation maker & Card design",
+    "category": "Events",
+    "rating": "4.8",
+    "downloads": "510M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "Greetings Island",
+    "version": "1.4.1",
+    "update_date": "2025.02.23",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.greetingsisland.sam.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/8iVT0LbKQzucenQPKWY8U_cWofJCuHBAzXkkDHErUJnyFJ-j1fj2C_3krlWS9skbt0g",
+      "https://play-lh.googleusercontent.com/-e40zOym1i0Bdt7y7QKxa-0_xdR9uAj668_tBWRu1KM43LiKJmAwrwa1tUFqDaMxFDa3",
+      "https://play-lh.googleusercontent.com/kc-xDW6aedtAt94YtpS2Nmyefh10nJ5ptzlAqsASa0AB5QPvmeXSWtex8IDgczFm8Q",
+      "https://play-lh.googleusercontent.com/BcbTGeABpRc-EjFH_pHxQKMDMbuvaGjHFQgaA7bweUP38VZSCST7iZ-gaAN2KTOsyb8",
+      "https://play-lh.googleusercontent.com/NePoqpFH4KQ0zYsnXt3OvIilu0oIN-IVnbeN0OwsvqAs6zYkB7NojXMc4drrOPwX5g",
+      "https://play-lh.googleusercontent.com/3ivltKTKaoAX_8Ktx3SgqiXbn3nkQr0p2ugD4h2x0TR_Ayoq0Y5lR4fjXcJ_4Zzh9cw",
+      "https://play-lh.googleusercontent.com/P6AbvHbLATjFgWzahE0SXDBbCI6TRAZWcLdvBExvOfBbWFqLeIxbtWNVUsXgo1w13g",
+      "https://play-lh.googleusercontent.com/J5KJB34nLGsPI_oRjlQbatdVVop673jr5jpuusUdNqZ1_lgzH043cDl4xHnagL_CCOoY",
+      "https://play-lh.googleusercontent.com/kIF1RkTlgyoBUmsOeiT7mar3hiCv3DdIhNa0svE9cLVMgDbXYhFbS40X7zvwKv_BZo4",
+      "https://play-lh.googleusercontent.com/lN72IWTsubWCJ-ZHCVIiwjfMeU3Hp-vDMfCfHSCWolI9YQcQnNVu-nXSRM6YQzEtQFxJ",
+      "https://play-lh.googleusercontent.com/OSqjBmBGfmQZnje6Op938YwgtYPeZRAkmLo4l4BLQPjQd_K6tsR7wD_uaf_QVUEWRA",
+      "https://play-lh.googleusercontent.com/SsW9VoRwTYqBqj6RDNjpoWE1PL6WbK39Me0wEXFJPC3mN4ZCMxK2faI_8sDyeJMsMPw",
+      "https://play-lh.googleusercontent.com/2ksYOBAIooX__UZCImNMZH1otA0TOEtB9JE-ZtU2nLEpRKoZCJP6q3akVof_638GBQ",
+      "https://play-lh.googleusercontent.com/C-oE8H3bxm1ppPCYcelKRjInoN9FdLvOC9dH-jwl-abbe3T1QBIO0ENUW9TP0sFv2TBj",
+      "https://play-lh.googleusercontent.com/QH4POJkTknIQSCfQ9pE4ObLNK3xgL_M84-JvsychkW7JRxkHj1nX_xknJjuc-QWZqA"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Customizable Templates",
+            "description": "Choose from a vast library of professionally designed templates that can be fully customized. Users can adjust colors, fonts, images, and text to create unique invitations that reflect their personality or event theme."
+          },
+          {
+            "title": "Easy-to-Use Editor",
+            "description": "The intuitive drag-and-drop editor allows users of any skill level to effortlessly design invitations. With user-friendly navigation, even beginners can create stunning designs in just a few minutes."
+          },
+          {
+            "title": "Multi-Event Support",
+            "description": "Whether it’s a birthday, wedding, baby shower, or any special occasion, this app supports a variety of event types. Users can create personalized cards for any celebration with just a few clicks."
+          },
+          {
+            "title": "Sharing and Printing Options",
+            "description": "Easily share your invitations via social media, email, or save them directly to your device. With one-click printing options, users can also produce high-quality prints to deliver physical copies."
+          },
+          {
+            "title": "Access to Stock Images",
+            "description": "Gain access to a comprehensive collection of stock images and graphics within the app, enabling users to enhance their invitations with high-quality visuals."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Diverse Design Options",
+            "description": "With thousands of customizable templates available, users can personalize their cards to match any event, making it versatile for all occasions."
+          },
+          {
+            "title": "User-Friendly Interface",
+            "description": "The app features an interface that caters to users of all experience levels, ensuring that anyone can create beautiful invitations without requiring design skills."
+          },
+          {
+            "title": "Quick Sharing Features",
+            "description": "With seamless sharing capabilities, users can instantly distribute their designs to friends and family, saving time and enhancing the event planning process."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited Free Features",
+            "description": "While the free version offers numerous templates, access to premium designs and features requires a subscription, which may limit options for users on a budget."
+          },
+          {
+            "title": "Requires Internet Access",
+            "description": "To utilize many features and templates, a stable internet connection is necessary, which may hinder users in low-connectivity areas."
+          },
+          {
+            "title": "Learning Curve for Advanced Features",
+            "description": "Some advanced editing features may require a bit of a learning curve, which could be a hurdle for less tech-savvy users seeking more complex designs."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "Available for free, offering essential features and a basic selection of templates suitable for casual users."
+          },
+          {
+            "title": "Premium Subscription",
+            "description": "Unlock premium templates, features, and the ad-free experience with a monthly or yearly subscription, ideal for frequent users needing advanced capabilities."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.greetingsisland.sam?version=latest",
+    "slug": "invitation-maker-card-design"
+  },
+  {
+    "id": "10736",
+    "name": "Stampede App",
+    "category": "Events",
+    "rating": "4",
+    "downloads": "320M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "Calgary Exhibition and Stampede Limited",
+    "version": "1.22",
+    "update_date": "2024.07.18",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.ceasl.calgarystampede.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Ag30LakQ9dwVnXB6YuUq_mKsW7u-jVryGxs0HlheMY9jdIVisgLodF7YFNgi_fmEan-g",
+      "https://play-lh.googleusercontent.com/tFCQtjA3Aq3Y4TD2AdMBVVrlUyS5zzGMvDMEb4ixVzzag0TqcntoecSHyhTzRdGmHqM",
+      "https://play-lh.googleusercontent.com/5TmfQc7ZOaJtpCExTEg5y3wGdrLA-Al1XdQKgbv3fQUf9VWqpk6VVe3kRSyhQF_pSQ",
+      "https://play-lh.googleusercontent.com/JuYuMHThinTeYRG6jbX5hP_g-9gDxtzajv9T4gwMiyTjMLXO55Y1AlgwlL_147480A",
+      "https://play-lh.googleusercontent.com/7lsi5-_EhaAtbp8JnnRMFMcrDZ5WcfHroIQc8TeK8Vvz7cAsCUWhVtXhTG1nH6Uylmws",
+      "https://play-lh.googleusercontent.com/PvjUPKiPsSdQsNNCy--yfBrl9_n37CJY2bdEhvLfKSxi0jq9nleH8uOJayYl2p0IaSQ",
+      "https://play-lh.googleusercontent.com/qCHfXgJltsS5_JzNfGdMpW55LyLcjJpLaC5_pWFuOSGaRKkBR9-BhLqxg_4Dw4_z72ti",
+      "https://play-lh.googleusercontent.com/zS3wtJkHN9r1jiY12ZadFMJBkFzqBTjEkivWACBo6dWGsGn-g1L7Ib2_n3BlsQuEIio",
+      "https://play-lh.googleusercontent.com/iFTvMoo2OEGMfBIHhT1cmayghNYveDg-UlRuTraz1Tmstu5Z-NoeGONzNMHhl8Bznaw",
+      "https://play-lh.googleusercontent.com/9U4PEJkDa7iPR0ALeuIftnO0hfnZZFT1U8FfSF6OiVRdQCmBsjsPy4l6Jae5QFzXTu0",
+      "https://play-lh.googleusercontent.com/BvZm1INR_Vt_LC-cVC8j60YrsGboxUBapH84fVgUGE73opba-WetGuEkSyCqZOt2XYk",
+      "https://play-lh.googleusercontent.com/AWeZ6QApc8dBRVoPvPIA86S5yxekS3AM6iii3-UIZ0Se61JJ01t1SSPUmd5AMMYlWDk",
+      "https://play-lh.googleusercontent.com/DnHev1fsIu1COhLbCTEuYBp_d9iW42sV6I2m8Aobiau18ITsDQwEenjjuH9Hj3F79E8",
+      "https://play-lh.googleusercontent.com/tZDLOzkH2cfp8YgpZcJtVf2_xbjMkqMTb3bNotcmlx0kVviZMM02xbfnE7rlI99uJxks",
+      "https://play-lh.googleusercontent.com/bt4ZWHxcwWhEKm4jHHVe3soVDWfUyoytxAee6VGO7KHTaOziQODLgGwvJzEp7dQewS8"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Event Schedule",
+            "description": "Stay in the know with the comprehensive event schedule, featuring live updates for all activities during the Calgary Stampede. Users can easily browse through various events, including rodeos, concerts, and parades, ensuring you never miss a highlight."
+          },
+          {
+            "title": "Real-Time Notifications",
+            "description": "Receive timely notifications about event changes, ticket availability, and exclusive promotions. The app ensures you are always alerted to important updates, maximizing your experience at the festival."
+          },
+          {
+            "title": "Interactive Map",
+            "description": "Navigate the Calgary Stampede grounds with the interactive map feature. Find your way to various venues, food stalls, and activities effortlessly, making it easier to plan your day."
+          },
+          {
+            "title": "Ticket Purchasing",
+            "description": "Purchase your tickets directly within the app for swift access to events. The streamlined process allows users to quickly buy tickets, saving time and avoiding long queues at the venue."
+          },
+          {
+            "title": "User Reviews and Tips",
+            "description": "Explore user-generated reviews and tips about different attractions within the festival. This feature provides valuable insights and recommendations, enhancing your overall experience."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "User-Friendly Interface",
+            "description": "The app features an intuitive design that makes navigation easy for all ages, allowing users to find information quickly without any hassle."
+          },
+          {
+            "title": "All-in-One Solution",
+            "description": "Stampede App serves as a one-stop solution for all your Calgary Stampede needs, from scheduling to ticketing, keeping everything you need at your fingertips."
+          },
+          {
+            "title": "Community Engagement",
+            "description": "The app fosters a sense of community by encouraging user feedback and interactions, making the festival experience more engaging and collaborative."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited Offline Functionality",
+            "description": "Some features require an internet connection, which may hinder usability in areas with poor signal during busy festival days."
+          },
+          {
+            "title": "Potential for Overwhelming Notifications",
+            "description": "Users may experience more notifications than desired, especially during peak event schedules, which could lead to notification fatigue."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Download",
+            "description": "Stampede App is free to download and use, allowing anyone attending the Calgary Stampede to access its features without any initial cost."
+          },
+          {
+            "title": "In-App Purchases",
+            "description": "While the fundamental features are free, certain premium events may require in-app purchases, ensuring users can enhance their experience if they choose."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.ceasl.calgarystampede?version=latest",
+    "slug": "stampede-app"
+  },
+  {
+    "id": "10740",
+    "name": "Lumiere Durham",
+    "category": "Events",
+    "rating": "4",
+    "downloads": "640M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "Mediaworks",
+    "version": "1.4.4",
+    "update_date": "2023.10.18",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.lumiere.android.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/eS8vLgNhijDAkNdXdvR7tyvu3PGJ_-MVEqwgZ5Z5e172RJnFEhKosFD_KIaavRHMM_4",
+      "https://play-lh.googleusercontent.com/pL4FKlWCXv8fx0FxcJneKlfNgvk-mv4i92VPpXVytPYz-9SEj-gJTD4bDubTyHFyoQ",
+      "https://play-lh.googleusercontent.com/T_pzOtH_0_XfqveT0pSnDeSZ-9CvuKmTVatuJAVZU146kQbLUo18vhFTDB80wnIPng"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Personalized Event Listings",
+            "description": "Lumiere Durham provides a curated list of local events tailored to your interests, helping you discover the best happenings in Durham effortlessly."
+          },
+          {
+            "title": "Interactive Map Integration",
+            "description": "Navigate through the city with ease using the app's built-in interactive map that highlights event locations, nearby attractions, and local amenities."
+          },
+          {
+            "title": "User-Friendly Interface",
+            "description": "The app features an intuitive design, making it easy for users to browse, bookmark, and share events without any hassle."
+          },
+          {
+            "title": "Real-Time Notifications",
+            "description": "Stay updated with instant notifications about the events you are interested in, including reminders and last-minute changes."
+          },
+          {
+            "title": "Community Engagement Features",
+            "description": "Engage with the community by participating in discussions, joining groups, and providing feedback on events you attend."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Extensive Database of Events",
+            "description": "Lumiere Durham boasts an extensive database covering a wide range of events from arts to sports, ensuring there's something for everyone."
+          },
+          {
+            "title": "Highly Customizable Preferences",
+            "description": "Users can customize their event preferences, making it easy to receive notifications and suggestions that truly match their interests."
+          },
+          {
+            "title": "Strong Community Focus",
+            "description": "The app promotes community interaction, allowing users to connect with others, facilitating a lively atmosphere around local events."
+          },
+          {
+            "title": "Frequent Updates",
+            "description": "Regularly updated event listings ensure users never miss out on the latest and greatest happenings in Durham."
+          },
+          {
+            "title": "Accessible Design",
+            "description": "Designed with accessibility in mind, making it easy for all users, including those with disabilities, to navigate and use."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited Coverage for Smaller Events",
+            "description": "Some smaller or niche events may not be listed, limiting options for users looking for specific interests."
+          },
+          {
+            "title": "Dependency on User Updates",
+            "description": "The app relies on users to report changes or new events, which may result in discrepancies or outdated information."
+          },
+          {
+            "title": "Occasional Connectivity Issues",
+            "description": "Users in areas with poor internet connectivity may experience issues loading event information or maps, which can hinder usability."
+          },
+          {
+            "title": "Learning Curve for New Users",
+            "description": "New users might need some time to familiarize themselves with all the features and settings within the app."
+          },
+          {
+            "title": "Limited Offline Functionality",
+            "description": "Without internet access, many of the app's features are limited, restricting usability during offline periods."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "The standard version of Lumiere Durham is free to use, providing access to most events and features without any cost."
+          },
+          {
+            "title": "Premium Subscription",
+            "description": "A premium subscription unlocks additional features such as ad-free browsing, exclusive event access, and enhanced personalization options."
+          },
+          {
+            "title": "In-App Purchases Available",
+            "description": "Users can purchase tickets or special packages for events directly through the app, enhancing convenience."
+          },
+          {
+            "title": "Regular Promotions",
+            "description": "Occasional discounts on premium subscriptions or event tickets are offered, providing additional value to users."
+          },
+          {
+            "title": "Trial Period",
+            "description": "New users may benefit from a limited-time trial of premium features, allowing them to experience the full app potential before committing."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.lumiere.android?version=latest",
+    "slug": "lumiere-durham"
+  },
+  {
+    "id": "10739",
+    "name": "Carnival Fun Pass",
+    "category": "Events",
+    "rating": "4.3",
+    "downloads": "830M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "Dexels BV",
+    "version": "1.1.1",
+    "update_date": "2025.03.14",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.sendrato.cashless.visitor.ras2022.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/WN9QW7R9-7LGPaz9rzHNqhJ8SfgsTLLQzE90oP7zZCV4N4IzOJycNPo2X9VbHHkbkA",
+      "https://play-lh.googleusercontent.com/qtSUU4Zpv0Ndxq2BI-NQzey_sluK2pFaTkqDFk37n6JQ5uO0p6OJwGaMTkMBgUq6khsy",
+      "https://play-lh.googleusercontent.com/HX8zsBcn41Mfb4e8QqIXcPS3DA7q3WRLPgd8n068K5V9ZF8gVd80qqgSHSj3BHy4CQ",
+      "https://play-lh.googleusercontent.com/4mAjfMtUazyxucEWGRiqVaBkcnFgUpANzVD43RXM160uAG0CpqJoyFnuaVLoKQYen7Y",
+      "https://play-lh.googleusercontent.com/T_eI71aA-VZB4TkxsXhEhNM0OUDFybhT7iLJveHY01YP4T7ZzdU-EebH-4mUO6_3aCI",
+      "https://play-lh.googleusercontent.com/CFSRTH7vfOR5IXsb1yE90KyvisF8cHvt1ntFvHcf4ZV4Hn1SU3wxLcb4VpF5zyU7qYw",
+      "https://play-lh.googleusercontent.com/Cege056AgXFOZjrKIV6MB59k71CCf9Wh2WfXYmqgnjjrkL3BlxAJu1HgrAIUGrIPxMfx",
+      "https://play-lh.googleusercontent.com/a0lLqYeOuFUug65BTq48o7djMtl1kbiMs4Ad-gX11aMUxXAyB4q2udsud_fQO8mbxtgH",
+      "https://play-lh.googleusercontent.com/XLIZN35NEiQocw5TAXMRpPANvbSBCIbYCpiWDmqhU_0fkahP8SwvZTNJPxNLt2sf1yA",
+      "https://play-lh.googleusercontent.com/wvFPsvnENbRZHJ-bHDubqG19_HCL2jnNMtwq7VTNtMN9caFvPXJTkARVgWI8LAz1R0_S",
+      "https://play-lh.googleusercontent.com/j3AwmE9f9jHa-jFL31a-SWkFmbxEWIQ3-TSuId153jbpjs1deXbL246r_ZnOyqfUM2bJ",
+      "https://play-lh.googleusercontent.com/Qawb2Wqt56IiQWvZY2qUjKlD5FhgJjpEuEiEc6ru0186EKNq2K0nNLRm1ShYi1Nz5ptL"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Cashless Payments",
+            "description": "Carnival Fun Pass enables users to make cashless payments directly at various stalls and attractions, ensuring a seamless and efficient experience throughout the carnival."
+          },
+          {
+            "title": "Real-Time Updates",
+            "description": "Stay updated with real-time notifications regarding events, ride wait times, and special offers, allowing users to plan their visit and maximize their enjoyment."
+          },
+          {
+            "title": "Exclusive Discounts",
+            "description": "Enjoy exclusive discounts on rides, games, and food items, making it easier for families and groups to save money while having fun during the carnival."
+          },
+          {
+            "title": "Event Scheduling",
+            "description": "Effortlessly schedule and track events and performances to ensure you don't miss any of the exciting attractions happening at the carnival."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Convenient Experience",
+            "description": "The cashless payment feature significantly reduces the hassle of carrying cash, enhancing the overall experience by making transactions quick and easy."
+          },
+          {
+            "title": "User-Friendly Interface",
+            "description": "The app's intuitive design ensures that users of all ages can easily navigate and access essential features, adding to the fun of visiting the carnival."
+          },
+          {
+            "title": "Comprehensive Information",
+            "description": "The app provides all the necessary information about the carnival in one place, helping visitors to plan their day effectively and enjoy all it has to offer."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Internet Dependency",
+            "description": "The app requires a stable internet connection for optimal functionality; without it, users may miss out on real-time updates and payments."
+          },
+          {
+            "title": "Limited Availability",
+            "description": "Currently, the app is mainly tailored for specific events, which may limit its use for individuals who attend other types of fairs or carnivals."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Access",
+            "description": "Carnival Fun Pass is free to download and offers basic features without any cost, making it accessible for anyone looking to enhance their carnival experience."
+          },
+          {
+            "title": "Premium Features",
+            "description": "Paid features include additional discounts and priority access to popular attractions, providing a greater value for frequent carnival-goers."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.sendrato.cashless.visitor.ras2022?version=latest",
+    "slug": "carnival-fun-pass"
+  },
+  {
+    "id": "10735",
+    "name": "HomeTown Fan",
+    "category": "Events",
+    "rating": "4.5",
+    "downloads": "130M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "HomeTown Ticketing, Inc.",
+    "version": "2.15.0",
+    "update_date": "2025.03.07",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.hometownticketing.tix.androidapp.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/_oOkzTPGJ3Y9SPBGPRvapImdg_ahbCDqxZubHfrTnjRP0lYdB_DW86B4uoljl4O39hkv",
+      "https://play-lh.googleusercontent.com/edsaaGAG8Q6C36lqJhpWXDv47id-2rOqMA7apCfpHFwwo1SGLrWrjo4aUVwd42fVJ3Q",
+      "https://play-lh.googleusercontent.com/d0Pl95O6qCOQr_8btwxehJXZdf_D6tHM-ScOQzxBRy0NmxJlbgikl19pTcTI2SIDAQ",
+      "https://play-lh.googleusercontent.com/IvJc-MnzVlxnUdqdX-Qy8z-hJwItjk5QnJyiuOR7VA1kzoyDDLJZlK_5JyDgySUpC8k",
+      "https://play-lh.googleusercontent.com/PJO6dvTI8e5uuxu-LeXyNPk2SeXZx2KgKAhQlC6m5bG-LtYxWKHNbVb74E9c2txB8jb3",
+      "https://play-lh.googleusercontent.com/OfysUFd8epqKRd8yRfufUch7qtFgQJYEnscvvZDsCNavyCaxs5b-EdZ4P2QGiSY19nc",
+      "https://play-lh.googleusercontent.com/Cdhl0Agwb7I-spwXGeQ4pJIuy-dOlaXPReTxslHyjjO-FZ4ZWnXbsARvO9EIlpBrj2M",
+      "https://play-lh.googleusercontent.com/b-WAkHtvpQPiZxSGNO3fERXSBqsQJmzIGj69nESFbRr1Nm2HwVF12s8UH1jz144SFe4",
+      "https://play-lh.googleusercontent.com/pycvVAaLoPmHZwqL1EhK2yzfTNsPbr7W2muPqD93pNn-sAu0PU3lxqsE3bz_xBePjCg-",
+      "https://play-lh.googleusercontent.com/SHUMuqlwkEFunfhTVDrFB8BntKLWe_Sm5oDH2byIS41jf8WbJwbt6SPziJVrVw8j3pw",
+      "https://play-lh.googleusercontent.com/exnyGSRCANYbwtISIOBZ2A14dZ3KmhwM7f56-FxdNRrj39EQb1CJMFo-VJCbUbx95Jk",
+      "https://play-lh.googleusercontent.com/HPmArJBRfo-FYNaWJue3E-7g4ehXm4IXzFPsUkPihcRdO_UCceCAm3oL8wIm1lghOzc"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Event Discovery",
+            "description": "HomeTown Fan offers a seamless event discovery experience, allowing users to browse a wide range of local sporting events, concerts, and entertainment options in their area. Whether you're looking for a live game or a concert, the app provides real-time updates and notifications."
+          },
+          {
+            "title": "Ticket Purchasing",
+            "description": "With a user-friendly interface, HomeTown Fan simplifies the ticket purchasing process. Users can easily select their desired events, choose seating options, and complete transactions quickly and securely, all from their mobile devices."
+          },
+          {
+            "title": "Mobile Ticketing",
+            "description": "Say goodbye to physical tickets! HomeTown Fan enables users to store and access their tickets directly on their smartphones, making it more convenient to enter venues without the hassle of carrying printed tickets."
+          },
+          {
+            "title": "Personalized Experience",
+            "description": "The app customizes recommendations based on user preferences and past purchases. This ensures you never miss out on your favorite events or artists, enhancing your overall experience."
+          },
+          {
+            "title": "Social Sharing",
+            "description": "HomeTown Fan allows users to share their favorite events with friends and family through social media. This feature promotes social engagement, encouraging users to plan outings together."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "User-Friendly Interface",
+            "description": "The app features a clean and intuitive design, making it easy for users of all ages to navigate through event listings and ticket options without confusion."
+          },
+          {
+            "title": "Real-Time Updates",
+            "description": "Users benefit from real-time notifications about changes in event schedules or ticket availability, ensuring they remain informed and can act quickly."
+          },
+          {
+            "title": "Secure Transactions",
+            "description": "HomeTown Fan prioritizes user security with robust payment systems, offering peace of mind when purchasing tickets online."
+          },
+          {
+            "title": "Local Focus",
+            "description": "By concentrating on local events, the app helps users discover unique opportunities to engage with their community and support local entertainment."
+          },
+          {
+            "title": "Active Customer Support",
+            "description": "Users can access responsive customer support directly through the app for any ticketing issues, ensuring a smooth experience."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited National Events",
+            "description": "While it excels in local event coverage, HomeTown Fan may not provide ticketing for larger national events, potentially limiting users looking for major concerts or sports."
+          },
+          {
+            "title": "Network Dependency",
+            "description": "The app requires a reliable internet connection for functionality; users in areas with poor connectivity may encounter issues accessing features or purchasing tickets."
+          },
+          {
+            "title": "Limited Refund Options",
+            "description": "Refund policies can be strict; users might face challenges in obtaining refunds for canceled events or personal cancellations."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Access",
+            "description": "HomeTown Fan is free to download and use, allowing users to browse events and purchase tickets without any initial costs."
+          },
+          {
+            "title": "Service Fees",
+            "description": "While the app is free, there may be service fees associated with ticket purchases, which are clearly outlined during checkout."
+          },
+          {
+            "title": "Premium Features",
+            "description": "For a subscription, users may gain access to exclusive VIP events, premium seating options, and personalized alerts for favorite artists or teams."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.hometownticketing.tix.androidapp?version=latest",
+    "slug": "hometown-fan"
+  },
+  {
+    "id": "10741",
+    "name": "Principality Stadium Ticketing",
+    "category": "Events",
+    "rating": "4",
+    "downloads": "560M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "Welsh Rugby Union",
+    "version": "11.4.0",
+    "update_date": "2024.12.10",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.tixserve.wru.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/kdazfO9o0XyEHCNyoJ4rmU1fAuj9X5feImkNblROp1e8oE6U0feGX6rz99Sh7NTFok4Y",
+      "https://play-lh.googleusercontent.com/571cBMq8ldfDI-ej8oOb2hd81jKWY0MummQC4ka2QeZigXQlRfHpmgVkYThM3Wdq7XzA",
+      "https://play-lh.googleusercontent.com/avNlVAcORDC1-TDjIyZgIHmYd-fqpwH-MZ1dBBD9ZVIwWqjyHZdMYvS1jYxEMbpN3FI",
+      "https://play-lh.googleusercontent.com/3VNPqeTNwHk3Uln851phYld5FcbIVKK_wrjDBCO49xxl9k29ZVK9mY0AA9k-v2kM5I0",
+      "https://play-lh.googleusercontent.com/BXH0D-Ktn75L52q8M2VZsPosr9L7fq3nf_ZINhYEwS8J_d5uBiZaOK2vLTSIZRBLRUPK",
+      "https://play-lh.googleusercontent.com/IXGanu_BpK1Ap3Wl3WD0xwABCfZsQNA9mgWy7k5GsG0K27UEU46bXE2vzzAXsmxdSe8"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Seamless Ticket Booking",
+            "description": "The Principality Stadium Ticketing app allows fans to effortlessly book tickets for various events, including rugby matches, concerts, and more, directly from their mobile devices."
+          },
+          {
+            "title": "Digital Ticket Storage",
+            "description": "Users can store their purchased tickets digitally within the app, eliminating the need for paper tickets and enhancing the convenience of entry during events."
+          },
+          {
+            "title": "Live Event Updates",
+            "description": "Stay informed with real-time updates about upcoming events, ticket availability, and any changes to schedules, ensuring that fans never miss out."
+          },
+          {
+            "title": "Secure Payment Options",
+            "description": "The app provides a variety of secure payment methods, enabling users to complete transactions safely and efficiently, with both card and mobile payment options available."
+          },
+          {
+            "title": "Event Information & Seating Charts",
+            "description": "Access detailed information about events, including seating plans and venue details, helping users make informed choices when selecting their tickets."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "User-Friendly Interface",
+            "description": "The app is designed with a clean and intuitive layout, making ticket booking and management a straightforward experience for users of all ages."
+          },
+          {
+            "title": "Instant Ticket Delivery",
+            "description": "Users receive their tickets instantly via the app, enhancing the accessibility and immediacy of their event-going experience."
+          },
+          {
+            "title": "Personalization Options",
+            "description": "Fans can customize notifications based on their preferences, ensuring they receive alerts for events of interest, tailored just for them."
+          },
+          {
+            "title": "Customer Support",
+            "description": "The app offers responsive customer service, enabling users to resolve issues or seek assistance quickly when needed."
+          },
+          {
+            "title": "Exclusive Offers",
+            "description": "Users may receive exclusive deals and early access to tickets, providing added value for loyal fans."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited Payment Methods",
+            "description": "While the app supports multiple payment options, some users may find popular methods missing, potentially causing inconvenience."
+          },
+          {
+            "title": "Occasional Technical Issues",
+            "description": "Some users report periodic glitches during peak times, which can hinder the booking process and lead to frustration."
+          },
+          {
+            "title": "Event-Specific Limitations",
+            "description": "Certain high-demand events may sell out quickly, limiting availability and potentially disappointing fans looking to secure tickets."
+          },
+          {
+            "title": "Data Usage",
+            "description": "Frequent app usage, especially during live events, may lead to significant data consumption, which could be a concern for users with limited mobile data plans."
+          },
+          {
+            "title": "App Updates",
+            "description": "Occasional updates may require users to re-enter login information, which can be a minor inconvenience for regular users."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Access",
+            "description": "The app is free to download and use, allowing users to browse events and purchase tickets without any upfront costs."
+          },
+          {
+            "title": "Ticket Prices Vary",
+            "description": "Ticket prices vary based on the event type, seating selection, and demand, providing options for different budgets."
+          },
+          {
+            "title": "No Subscription Fees",
+            "description": "There are no subscription fees required for using the app, making it accessible for casual fans as well as dedicated event-goers."
+          },
+          {
+            "title": "Booking Fees May Apply",
+            "description": "Some events may incur additional booking fees, which are clearly outlined during the purchasing process to maintain transparency."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.tixserve.wru?version=latest",
+    "slug": "principality-stadium-ticketing"
+  },
+  {
+    "id": "10737",
+    "name": "Festival X",
+    "category": "Events",
+    "rating": "4",
+    "downloads": "250M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "Appmiral",
+    "version": "2.0.0",
+    "update_date": "2023.10.24",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.appmiral.festivalx.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/1xR9WMjXfHLU-AlSvdNucauHC6bp85s62fijZCjNYgotBI3fiS8KEk3UM7mNcNmn3z9r",
+      "https://play-lh.googleusercontent.com/3Ls6BLiOhFR3bfuvJcuaIOvdmvZXYYp8nAMPqIdfxe_oDSAIO3296jvYBFwtUH6MSOP7",
+      "https://play-lh.googleusercontent.com/LDgwIYzv_BtrfHqXLBRGQ2dmYrIpcgY2ryQJhjHs4fg7HoNSSwKVoGvnJC3wppgbw10",
+      "https://play-lh.googleusercontent.com/MitV3SNC5f2xtac1kF2OLSGFaML3MVp9TBsdFQqywPbzHGz2t8ADoaGi7nMpph8gRh1v",
+      "https://play-lh.googleusercontent.com/Ucg106SyZzjeXOo6wmBL5tLyCEoHu1cigTW-zmWPwm5aOa8LXwnY_cHkPnmwH4u7JcM",
+      "https://play-lh.googleusercontent.com/Zjj0hkuEwFifWDGZgjPJYPOoVml-KUQ5TOlljIQk8wclNfFj2Omf98d4HwconuwQiMLI",
+      "https://play-lh.googleusercontent.com/aq2j25NnwJtU3C9uCkRqq9B7lGfGAM9qHIYDcd2rjb72c4W7PRUJa-n3D1momp9b3Q",
+      "https://play-lh.googleusercontent.com/BuJ7SIoOBJ6_7yR7xk7hB0QFUg7yKr7MBp1pryxcRC5h0DE4MB9xJLkF3_vtTsV5Nhg"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Event Discovery",
+            "description": "Festival X provides users with an intuitive platform to discover upcoming festivals and events based on their interests and location, making it easier than ever to plan your next outing."
+          },
+          {
+            "title": "Personalized Recommendations",
+            "description": "Utilizing advanced algorithms, Festival X offers personalized suggestions tailored to user preferences, ensuring that you never miss an event that matches your taste."
+          },
+          {
+            "title": "Community Interaction",
+            "description": "Engage with fellow festival-goers through the social features of Festival X, allowing for event discussions, tips, and networking opportunities within a vibrant community."
+          },
+          {
+            "title": "Ticket Booking",
+            "description": "The app streamlines the ticket purchasing process with direct links to buy tickets for events, ensuring a hassle-free experience from discovery to attendance."
+          },
+          {
+            "title": "Event Updates",
+            "description": "Stay informed with real-time updates about festival schedules, line-ups, and changes, helping you to plan your festival experience meticulously."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "User-Friendly Interface",
+            "description": "With its clean design and easy navigation, Festival X enhances user experience, making it simple for anyone to find and explore events."
+          },
+          {
+            "title": "Comprehensive Listings",
+            "description": "The app covers a wide variety of festivals from music to food, ensuring diverse interests are catered to and giving users a rich selection to choose from."
+          },
+          {
+            "title": "Strong Community Engagement",
+            "description": "It fosters a strong community atmosphere, allowing users to share experiences, advice, and connect with like-minded festival enthusiasts."
+          },
+          {
+            "title": "Regular Updates",
+            "description": "Festival X is frequently updated with new features and events, ensuring users always have the latest information at their fingertips."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited Coverage in Some Areas",
+            "description": "While Festival X is robust in metropolitan regions, users in rural areas may find fewer festivals and events listed, which could limit usability."
+          },
+          {
+            "title": "Data Usage Concerns",
+            "description": "Users may experience high data consumption, especially when accessing multimedia content associated with events, which can be problematic for those on limited data plans."
+          },
+          {
+            "title": "Occasional Bugs",
+            "description": "Some users report occasional glitches or slow loading times during busy periods, particularly around major event announcements."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "The free version of Festival X offers core functionalities such as event discovery and community engagement, making it accessible to all users."
+          },
+          {
+            "title": "Premium Subscription",
+            "description": "The premium version unlocks exclusive features like ad-free browsing, early access to tickets, and enhanced personalization for a small monthly fee."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.appmiral.festivalx?version=latest",
+    "slug": "festival-x"
+  },
+  {
+    "id": "10738",
+    "name": "Gametime",
+    "category": "Events",
+    "rating": "4.7",
+    "downloads": "890M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "Gametime",
+    "version": "2022.10.0",
+    "update_date": "2025.03.15",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.gametime.gametime.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/2yCPQD4ChfhUIGA_zZQibCRtwgsiqfsEKBdtvYTjgmhaj8Ps5Am490BnnkK8IFwlEf4",
+      "https://play-lh.googleusercontent.com/qWKeNM3jmUj_gKXfEDyKISTaGfUaP-h4Y85LwFoDlPV0v3-uZ9l9VWgiLjHEKNsaOk8",
+      "https://play-lh.googleusercontent.com/_qIwd9xqPWZ4e05DkLdyNdD8hBtZSGDJILJhkqyyMVhJTahvesI5zTkSo7gBsh7yUAn-",
+      "https://play-lh.googleusercontent.com/TQ0YQ7nPm2M_x017udKBJnvDvHkQaJ7tvDDx4iJef5p2hlzWujARB_zpG2murQ8z9GM",
+      "https://play-lh.googleusercontent.com/AogUiiIzQKayzDA2xoJyNSKQOJZMW5Y8enju3QEqfa1QXZ6TwcX8y16x9nLI9TvoAVc",
+      "https://play-lh.googleusercontent.com/rnUUNeOBsRNTeIgOt96SJPVsfFctiz1rb9cgyl2N-2KKMbRrQV0EGvSw--B5kyXQE9GB",
+      "https://play-lh.googleusercontent.com/qfD2gWj00Hq1vknjek9X1YB-2pPszvSttpCGN_uw0JiG12CgEU1nXnIUPbrSpW28agk",
+      "https://play-lh.googleusercontent.com/W0Q1KiVDd-ri35BvQxBWuQ3Be9oQV7P3xy5HEEnZ_yGYEHnv8jDsiOe4C-WFvyKPuCw"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Instant Game Reservations",
+            "description": "Gametime allows users to securely book tickets for their favorite games in real time, ensuring that you never miss out on an exciting event, no matter where you are."
+          },
+          {
+            "title": "Exclusive Deals and Discounts",
+            "description": "The app offers exclusive deals and discounts on tickets, enabling users to enjoy their favorite events at a fraction of the cost, making it economically accessible for everyone."
+          },
+          {
+            "title": "User-Friendly Interface",
+            "description": "With a sleek and intuitive design, Gametime makes it easy to navigate through events and purchase tickets, ensuring a seamless user experience from start to finish."
+          },
+          {
+            "title": "Last-Minute Tickets",
+            "description": "For those spontaneous plans, Gametime provides an option to purchase last-minute tickets, allowing users to be part of any event at the moment's notice."
+          },
+          {
+            "title": "Personalized Recommendations",
+            "description": "Gametime utilizes user preferences and past behaviors to suggest games and events that match your interests, enhancing the overall ticket purchasing experience."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Convenient Access",
+            "description": "Gametime's ability to allow users to purchase tickets anytime and anywhere adds incredible convenience, perfect for busy individuals or last-minute planners."
+          },
+          {
+            "title": "Great Value for Money",
+            "description": "With its exclusive deals and discounts, users can save money while enjoying high-quality events, making attending live sports more affordable."
+          },
+          {
+            "title": "Real-time Availability",
+            "description": "Users benefit from the app’s real-time ticket availability and updates, ensuring they can secure seats without delays or complications."
+          },
+          {
+            "title": "Wide Range of Events",
+            "description": "Gametime covers a broad spectrum of events, from major league games to local matches, catering to diverse user interests."
+          },
+          {
+            "title": "Simple Ticket Management",
+            "description": "The app provides simple management of purchased tickets, allowing users to track their bookings and access their tickets easily."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited Coverage",
+            "description": "While Gametime offers a wide selection of events, certain locations or less popular games may not be available, potentially disappointing some users."
+          },
+          {
+            "title": "Service Fees",
+            "description": "Users may encounter additional service fees on top of ticket prices, which can increase the overall cost of attending an event."
+          },
+          {
+            "title": "Mobile-Only Experience",
+            "description": "The application is primarily designed for mobile devices, which may not be suitable for users who prefer desktop access for ticket purchases."
+          },
+          {
+            "title": "Availability of Last-Minute Tickets",
+            "description": "While the app features last-minute deals, availability can be hit or miss, which may not benefit users looking for last-minute plans."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free to Download",
+            "description": "Gametime is free to download and use, allowing users to explore events without upfront costs."
+          },
+          {
+            "title": "Competitive Pricing",
+            "description": "Tickets can vary in price, with numerous options available, so users can choose based on their budget – from affordable seats to premium experiences."
+          },
+          {
+            "title": "Subscription Benefits",
+            "description": "Users can opt for subscription services that provide access to additional discounts and exclusive ticket offers."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.gametime.gametime?version=latest",
+    "slug": "gametime"
+  }
+]

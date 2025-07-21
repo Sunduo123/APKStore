@@ -1,0 +1,410 @@
+[
+  {
+    "id": "10648",
+    "name": "Google Cardboard",
+    "category": "Libraries & Demo",
+    "rating": "3.6",
+    "downloads": "150M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "Google LLC",
+    "version": "1.8",
+    "update_date": "2024.06.13",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/cardboard.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/iVAAhuLFF3M7CN9SusGEJyAZJiVt_gSrfBVhcqamiroF63I1YAmjCw-H4r4Dv_wOI3p3",
+      "https://play-lh.googleusercontent.com/X-jm2NU8g2ajwThi-ZBsfE3FlqO9tltLnhZ_h26WD6-R7yozK0LA0crcr0t4dTD5It4",
+      "https://play-lh.googleusercontent.com/Ze6pWPU6LyDLQF1Agpu5DQxbHXBemAz9KUzTy5J1UFgg95s8pURGJ3OXPlJlFtMQHNY",
+      "https://play-lh.googleusercontent.com/wFC9bvMFvHuhxUG6dPQEnpW9hPoAeuaOfWdad97YZktAX0dskLAjr4zYu0sZ6zpQdw"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Virtual Reality Experience",
+            "description": "Google Cardboard transforms your smartphone into a virtual reality device, offering immersive experiences right at your fingertips. Whether it's exploring distant planets or diving into the ocean depths, the app provides a variety of VR content that lets you escape reality without the need for expensive headsets."
+          },
+          {
+            "title": "Simple Cardboard Setup",
+            "description": "Designed for ease of use, Google Cardboard allows you to set up your VR environment quickly. With a simple folding cardboard viewer and your smartphone, you can get started in minutes, making VR accessible to everyone regardless of technical skills."
+          },
+          {
+            "title": "Wide Content Library",
+            "description": "Google Cardboard supports a vast array of VR applications and games. Users can easily access a diverse library of engaging VR experiences from various genres, ensuring there's always something new to explore and enjoy."
+          },
+          {
+            "title": "Customizable Viewer Settings",
+            "description": "The app provides adjustable settings that cater to your comfort, including screen adjustment features that enhance your viewing experience according to the specific cardboard viewer you are using."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Affordable VR Solution",
+            "description": "Unlike expensive VR headsets, Google Cardboard offers an inexpensive alternative that allows users to enjoy virtual reality experiences at a fraction of the cost, removing barriers to entry for newcomers to VR."
+          },
+          {
+            "title": "User-Friendly Interface",
+            "description": "The interface of Google Cardboard is intuitive and straightforward. Users can easily navigate through various VR experiences without needing extensive technical knowledge, making it suitable for all ages."
+          },
+          {
+            "title": "Community Driven Development",
+            "description": "The app encourages developers to create and share their own VR content, leading to a community-driven approach that consistently expands the variety of experiences available to users."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited High-End Features",
+            "description": "While Google Cardboard provides an excellent entry point to VR, it lacks the advanced features and graphical fidelity of higher-end VR headsets, which might not satisfy hardcore gamers or enthusiasts."
+          },
+          {
+            "title": "Comfort Issues for Extended Use",
+            "description": "Using Cardboard for extended periods can be uncomfortable. Some users report eye strain or discomfort due to the basic cardboard design, especially during longer VR sessions."
+          },
+          {
+            "title": "Dependence on Smartphone Performance",
+            "description": "The performance of the VR experience is highly dependent on the smartphone used. Low-end devices may struggle with high-resolution content and lead to lag or a diminished experience."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free to Use",
+            "description": "Google Cardboard is completely free to download and use. The app does not come with in-app purchases, allowing anyone to access virtual reality without financial commitment."
+          },
+          {
+            "title": "Affordable Cardboard Viewers",
+            "description": "Physical Cardboard viewers are available at various price points, typically ranging from free DIY options to affordable pre-made versions, making VR accessible to all budgets."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.google.samples.apps.cardboarddemo?version=latest",
+    "slug": "google-cardboard"
+  },
+  {
+    "id": "10646",
+    "name": "MX Player Codec",
+    "category": "Libraries & Demo",
+    "rating": "4.6",
+    "downloads": "740M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "MX Media & Entertainment (formerly J2 Interactive)",
+    "version": "1.10.50",
+    "update_date": "2025.03.14",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.mxtech.ffmpeg.v7_neon.png",
+    "screenshots": [
+      ""
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Advanced Video Decoding",
+            "description": "MX Player Codec utilizes state-of-the-art decoding technology to enhance video playback quality, ensuring smooth playback of high-definition videos across various formats."
+          },
+          {
+            "title": "Multi-Format Support",
+            "description": "Supports an extensive range of formats including MP4, MKV, AVI, and more, allowing users to play virtually any video file without compatibility issues."
+          },
+          {
+            "title": "Efficient Performance Optimization",
+            "description": "Optimized for both low-end and high-end devices, MX Player Codec reduces lag and buffering, providing an uninterrupted viewing experience during video playback."
+          },
+          {
+            "title": "Dynamic Audio Processing",
+            "description": "The codec comes with advanced audio processing capabilities that enhance sound quality, maximizing the audio experience while watching videos."
+          },
+          {
+            "title": "Integrated with MX Player",
+            "description": "Seamlessly integrates with the MX Player app, providing users with a complete video playback solution, ensuring they get the best experience when using both applications together."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "High-Quality Playback",
+            "description": "Offers superior video and audio quality that significantly enhances the viewing experience for users who demand clarity and detail."
+          },
+          {
+            "title": "User-Friendly Interface",
+            "description": "Designed with a simple and intuitive interface, making it easy for users of all skill levels to use without prior technical knowledge."
+          },
+          {
+            "title": "Constant Updates",
+            "description": "Regular updates ensure users receive the latest features, security improvements, and support for new video formats, keeping the application relevant."
+          },
+          {
+            "title": "Lightweight Application",
+            "description": "The codec is lightweight, which means it won’t take up much space on your device, making it perfect for users who wish to save storage."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited Standalone Use",
+            "description": "MX Player Codec is designed exclusively for integration with MX Player, meaning it cannot be used as a standalone application, potentially limiting usability for some users."
+          },
+          {
+            "title": "Device-Specific Performance",
+            "description": "While most devices can run the codec efficiently, some lower-end devices may still experience occasional playback issues due to hardware limitations."
+          },
+          {
+            "title": "Tech-Savvy Required for Advanced Features",
+            "description": "Some advanced features may require a bit of a learning curve for users unfamiliar with technical video settings, potentially overwhelming new users."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free to Use",
+            "description": "MX Player Codec is free to download and use, providing essential video playback functionality without any cost."
+          },
+          {
+            "title": "Premium Features",
+            "description": "While the codec is free, accessing additional premium features or functionalities may require a subscription to the MX Player Pro version."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.mxtech.ffmpeg.v7?version=latest",
+    "slug": "mx-player-codec"
+  },
+  {
+    "id": "15009",
+    "name": "Height Measurement App",
+    "category": "Libraries & Demo",
+    "rating": "4",
+    "downloads": "1M",
+    "age": "4+",
+    "price": "0",
+    "safety": "100% Safe",
+    "developer": "Tareen",
+    "version": "9",
+    "update_date": "2024.09.04",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.height.comparison.heightcalculator.heightmeasurement.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/w-p0XSRvml4sUh8hlzilLP50wb_sCAIf2fW7LPQBM-IUXi1AyVH1pBqqrtLj8LaYNBOt",
+      "https://play-lh.googleusercontent.com/fPvvbQx-ox3dlnUwY8FI6Vpoaa8QpTkfoQ9TA44OqvzlpwJOaQVq1vHzezMCMmRNcQ",
+      "https://play-lh.googleusercontent.com/kuXIgQvJRNORyl_JsHjtInkrTKW7eB4UoyI56epDkofa9s_iHYxGiD4DnKQMxXElzF30",
+      "https://play-lh.googleusercontent.com/d6Axmx-8FGwkv1QCDqQbqFFsV_UgFntXg5TXjrbuD7n4h5g_8S91zJuoWIvHMewC8PA",
+      "https://play-lh.googleusercontent.com/kS7WdMKU08xpIvhBnxw8Av-FURBHHntvmEcqQNpr4UTIOnzmJC_mCULHsVprtao0Ioo",
+      "https://play-lh.googleusercontent.com/awcbhdXZCunPRytv9HVxVvDZr94exQbmepuxrBjh3pWaH5MbDkz_a_kmlL5Lrzp0-EY",
+      "https://play-lh.googleusercontent.com/oWuileaLL-oNPU2pN8xx3tvgIUNXvVrJk1EbPUk2WpjEZTsllMlIsfbNsvk7tiasXw",
+      "https://play-lh.googleusercontent.com/CeFEirlN90GkVDnvfklHF6h2T_bgavAlYDmRs-qtWs9o2DoR1CRRrNpmhtCTxd3k_WVY",
+      "https://play-lh.googleusercontent.com/rlQTjpuiclGITBeHhl-nQZB2s7Q5xo4Gw0aT4UWUPZHhcn-2l1h0Sovr27nMGhf2cnWR",
+      "https://play-lh.googleusercontent.com/YhdjEB1wk4gSaoDpCiB4U4LzBPaCp6CTX1HEe6tx72evq5RoDs8Sh57yGfl4aN0sKrc",
+      "https://play-lh.googleusercontent.com/KKxExn_34SmuI3ICr47xPvo5UrsXAwrxCpO7hsd_TwMBNXJfbu7rH-GAP6gwa73BN0oe",
+      "https://play-lh.googleusercontent.com/KOyP_v9aU4Mv0x4tveoahFXeFjG9s0GrhdRE5IgHKjyzRkvq2ke20tlXi4zFo6TLFP0y",
+      "https://play-lh.googleusercontent.com/Dfw3TquCENe7mVoPwRkO6xwsARm4jXCYI5W53SKL_nfK0FDGfAnzQHJHFCIPbsgbwa4",
+      "https://play-lh.googleusercontent.com/WZSepMUxGpY73RHEBhOwx60zLV4DS8zofkq2C1EXPDeSBWc2NfUBg_wSOkANw_qPg7n5"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Accurate Height Measurement",
+            "description": "Utilize advanced algorithms and your smartphone's sensors to provide real-time height measurements with high accuracy. Perfect for users needing precise metrics for personal or professional reasons."
+          },
+          {
+            "title": "User-Friendly Interface",
+            "description": "Designed with simplicity in mind, the app features an intuitive layout that allows users of all ages to measure their height effortlessly. Follow easy guided steps for reliable results."
+          },
+          {
+            "title": "Height Tracking",
+            "description": "Track your height changes over time with a built-in log feature. Whether for health monitoring or personal interest, this function helps users document their growth or changes."
+          },
+          {
+            "title": "Share Results",
+            "description": "Easily share your height measurements with friends or family through social media or messaging platforms. This feature enhances user engagement and promotes community discussions."
+          },
+          {
+            "title": "Multi-Unit Support",
+            "description": "Select from various measurement units, including centimeters and inches, catering to an international user base. This flexibility ensures everyone can use the app comfortably."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "Highly Accurate Measurements",
+            "description": "The app employs advanced sensor technology, enabling high precision in measuring height. This reliability makes it suitable for sports, health assessments, and personal use."
+          },
+          {
+            "title": "Convenient for All Ages",
+            "description": "Its straightforward design and easy-to-follow instructions make it usable for both children and adults, ensuring accessibility for family use."
+          },
+          {
+            "title": "Constant Updates",
+            "description": "The app is regularly updated to improve performance and add new features, ensuring an upgraded user experience with each new version."
+          },
+          {
+            "title": "Visual Progress Tracking",
+            "description": "Graphical data representation allows users to easily visualize their height tracking history, making it simple to identify trends and changes."
+          },
+          {
+            "title": "Great for Health Enthusiasts",
+            "description": "Ideal for anyone focused on fitness and health, providing a method to monitor height as part of a broader health journey."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Requires Calibration",
+            "description": "Initial height measurement may require calibration to ensure accuracy, which might be challenging for some users without guidance."
+          },
+          {
+            "title": "Limited to Height Measurement",
+            "description": "While the app is great for measuring height, it lacks additional health metrics measurements, limiting its functionality for comprehensive health monitoring."
+          },
+          {
+            "title": "Device Dependency",
+            "description": "Accuracy may vary significantly depending on the device's sensors, which means low-end devices might not deliver the expected precision."
+          },
+          {
+            "title": "Ad-Supported Free Version",
+            "description": "The free version includes ads, which may disrupt the user experience, although a premium version is available without interruptions."
+          },
+          {
+            "title": "No Advanced Features",
+            "description": "Some users may find the absence of advanced features, such as comprehensive health assessments, a drawback compared to more complex health apps."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free Version",
+            "description": "The free version of the app includes basic height measurement capabilities and is ad-supported, allowing users to access primary features without any cost."
+          },
+          {
+            "title": "Premium Version",
+            "description": "The premium subscription offers an ad-free experience alongside additional features such as advanced tracking and comparison metrics for a nominal fee."
+          },
+          {
+            "title": "One-Time Purchase Option",
+            "description": "Alternatively, users can opt for a one-time purchase plan which unlocks all features permanently, ensuring long-term access without a subscription."
+          },
+          {
+            "title": "In-App Purchases",
+            "description": "Offers additional features as in-app purchases for users who wish to enhance their measurement experience without committing to a full premium subscription."
+          },
+          {
+            "title": "Affordable Pricing",
+            "description": "The pricing structure is designed to be affordable, making it accessible for users looking for quality height measurement tools without breaking the bank."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.height.comparison.heightcalculator.heightmeasurement?version=latest",
+    "slug": "com-height-comparison-heightcalculator-heightmeasurement"
+  },
+  {
+    "id": "10647",
+    "name": "Test DPC",
+    "category": "Libraries & Demo",
+    "rating": "4.2",
+    "downloads": "420M",
+    "age": "4+",
+    "price": "Free",
+    "safety": "100% Safe",
+    "developer": "Sample developer",
+    "version": "6.2.0",
+    "update_date": "2024.07.19",
+    "icon": "https://static.apkboxes.com/icon_cache/apk/icon/com.afwsamples.testdpc.png",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/DYqa_dmlnIZcD6vpoO_Eg7o4HPO3x5-yTk1UcAi49Hp0f1AF59YsF1P_JIvz79KBndg",
+      "https://play-lh.googleusercontent.com/yjyKfSZ1aRZz-jedUwc-CmbCawl0p-q-zLkDwYqalGJRMCbcv4y0fSoggPEQapBOmg",
+      "https://play-lh.googleusercontent.com/904VezurR5FtPOQghARUSSZoteC2S-ZNwtjFOo8QBKt9ZEXPkdwG0cmmqF2phW-aSA",
+      "https://play-lh.googleusercontent.com/PSQebc9rhDsZF1ICoozD_9nUEn3V8KNTdP3siT73rO6MI1ztHE7I1ONuIGAWEYyUtfI",
+      "https://play-lh.googleusercontent.com/2MelW239E-0qc2uTqggCFqEEr12ChWmTLyqosv7Px37lTKydMoR41pkECrvDiyW24Q"
+    ],
+    "features": [
+      {
+        "type": "Core Features",
+        "items": [
+          {
+            "title": "Device Policy Management",
+            "description": "Test DPC allows users to simulate Device Policy Controller (DPC) functionalities, providing an in-depth understanding of device management capabilities such as setting policies for application controls and security settings."
+          },
+          {
+            "title": "Profile Management",
+            "description": "Easily manage work profiles, enabling users to create distinct environments for work and personal use. This feature is ideal for organizations looking to enhance productivity without compromising user privacy."
+          },
+          {
+            "title": "Debugging and Testing Tools",
+            "description": "Equipped with debugging features, Test DPC allows developers and IT administrators to examine policies and device management configurations in real-time, simplifying the testing process before large-scale deployment."
+          },
+          {
+            "title": "Extensive Compliance Checks",
+            "description": "Users can perform compliance checks for devices to ensure they meet specified policy requirements, ensuring that managed devices adhere to company rules and regulations."
+          }
+        ]
+      },
+      {
+        "type": "Pros",
+        "items": [
+          {
+            "title": "User-Friendly Interface",
+            "description": "The application provides a clean and straightforward interface, making it easy for users to navigate through various management options without requiring extensive technical knowledge."
+          },
+          {
+            "title": "Realistic Simulation",
+            "description": "Test DPC offers a realistic simulation of DPC functions, allowing users to experience the actual features and limitations of device management before implementing them."
+          },
+          {
+            "title": "Open-Source Availability",
+            "description": "Being part of the Android Open Source Project, users can access the source code and customize it according to their organization's unique needs, enhancing flexibility."
+          }
+        ]
+      },
+      {
+        "type": "Cons",
+        "items": [
+          {
+            "title": "Limited to Testing Environment",
+            "description": "As a testing tool, Test DPC is not suitable for end-users who need full-fledged device management solutions in production environments."
+          },
+          {
+            "title": "Requires Technical Knowledge",
+            "description": "New users or those unfamiliar with device policy management may find some features overwhelming without prior experience or proper guidance."
+          }
+        ]
+      },
+      {
+        "type": "Price",
+        "items": [
+          {
+            "title": "Free to Use",
+            "description": "Test DPC is completely free, making it accessible for developers and companies to explore device management capabilities without any financial commitment."
+          }
+        ]
+      }
+    ],
+    "download_url": "https://d.apkpure.com/b/APK/com.afwsamples.testdpc?version=latest",
+    "slug": "test-dpc"
+  }
+]
