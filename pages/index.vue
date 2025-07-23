@@ -151,6 +151,28 @@
           </div>
         </div>
       </div>
+      <!-- 分类轮播模块1：应用程序 -->
+      <div class="w-full mt-10">
+        <CategorySwiperModule
+          :category-list="appCategoryOrder"
+          :category-display-map="appCategoryDisplayMap"
+          data-prefix="app"
+          :isPC="isPC"
+          title="APP"
+        />
+      </div>
+      <div style="height:10px;"></div>
+      <!-- 分类轮播模块2：游戏 -->
+      <div class="w-full">
+        <CategorySwiperModule
+          :category-list="gameCategoryOrder"
+          :category-display-map="gameCategoryDisplayMap"
+          data-prefix="game"
+          :isPC="isPC"
+          title="Games"
+        />
+      </div>
+      
       <!-- 排行榜模块 -->
       <div class="mt-10 flex flex-col md:flex-row gap-8 w-full">
         <!-- 应用排行榜 --> 
@@ -217,6 +239,7 @@ import { Swiper, SwiperSlide } from 'swiper/vue';
 import 'swiper/css';
 import 'swiper/css/autoplay';
 SwiperCore.use([Autoplay]);
+import CategorySwiperModule from '~/components/CategorySwiperModule.vue';
 const tab = ref<'app'|'game'>('app')
 const isPC = ref(true)
 const loading = ref(true) 
@@ -225,9 +248,25 @@ const gameList = ref<any[]>([])
 const appRankList = ref<any[]>([])
 const gameRankList = ref<any[]>([])
 
+// 分类轮播相关变量
+const selectedCategory = ref('dating')
+const categoryData = ref<{ [key: string]: any[] }>({})
+const categorySwiperRef = ref<any | null>(null)
+
 const swiperModules = [Autoplay]
 
 const showList = computed(() => tab.value === 'app' ? appList.value : gameList.value)
+
+// 分类轮播相关计算属性
+const selectedCategories = computed(() => {
+  return tab.value === 'app' 
+    ? ['dating', 'social', 'communication', 'entertainment', 'music', 'photography']
+    : ['action', 'adventure', 'arcade', 'casual', 'puzzle', 'racing']
+})
+
+const currentCategoryItems = computed(() => {
+  return categoryData.value[selectedCategory.value] || []
+})
 
 const categoryPage = ref(0)
 const showCatBtn = ref(false)
@@ -248,6 +287,47 @@ const appCategoryOrder = [
 const gameCategoryOrder = [
   'arcade', 'action', 'adventure', 'card', 'casual', 'puzzle', 'racing', 'role-playing', 'simulation', 'sport', 'strategy', 'trivia', 'board', 'top_free_games', 'entertainment', 'comics'
 ]
+// 中文名映射
+const appCategoryDisplayMap = {
+  ai_powerhouse: 'AI应用',
+  'art-design': '艺术设计',
+  'auto-vehicles': '汽车交通',
+  word: '单词',
+  'video-players-editors': '视频编辑',
+  business: '商业',
+  educational: '教育',
+  essential_apps: '必备应用',
+  events: '事件',
+  finance: '金融',
+  'health-fitness': '健康',
+  hot_apps: '热门应用',
+  'house-home': '家居',
+  music: '音乐',
+  'news-magazines': '新闻杂志',
+  photography: '摄影',
+  Shopping: '购物',
+  social: '社交',
+  top_downloads: '下载排行',
+  top_free_apps: '免费应用',
+};
+const gameCategoryDisplayMap = {
+  arcade: '街机',
+  action: '动作',
+  adventure: '冒险',
+  card: '卡牌',
+  casual: '休闲',
+  puzzle: '解谜',
+  racing: '赛车',
+  'role-playing': '角色扮演',
+  simulation: '模拟',
+  sport: '体育',
+  strategy: '策略',
+  trivia: '益智',
+  board: '棋盘',
+  top_free_games: '免费游戏',
+  entertainment: '娱乐',
+  comics: '漫画',
+};
 // 统计所有类别（固定顺序，不再动态统计）
 const allCategories = computed(() => {
   return tab.value === 'app' ? appCategoryOrder : gameCategoryOrder
@@ -314,6 +394,55 @@ function onImgError(e: Event) {
   target.src = '/logo/logo2.png'
 }
 
+// 分类轮播相关函数
+function selectCategory(category: string) {
+  selectedCategory.value = category
+  loadCategoryData(category)
+}
+
+function getCategoryDisplayName(category: string): string {
+  const displayNames: { [key: string]: string } = {
+    dating: '约会交友',
+    social: '社交',
+    communication: '通讯',
+    entertainment: '娱乐',
+    music: '音乐',
+    photography: '摄影',
+    action: '动作',
+    adventure: '冒险',
+    arcade: '街机',
+    casual: '休闲',
+    puzzle: '解谜',
+    racing: '赛车'
+  }
+  return displayNames[category] || category
+}
+
+function onCategorySwiper(swiper: any) {
+  categorySwiperRef.value = swiper
+}
+
+function pauseCategoryAutoplay() {
+  categorySwiperRef.value?.autoplay?.stop()
+}
+
+function resumeCategoryAutoplay() {
+  categorySwiperRef.value?.autoplay?.start()
+}
+
+async function loadCategoryData(category: string) {
+  if (categoryData.value[category]) return
+  
+  try {
+    const res = await fetch(`/dataJson/${category}.json`)
+    const data = await res.json()
+    categoryData.value[category] = data.slice(0, 20) // 只加载前20个
+  } catch (error) {
+    console.error(`Failed to load category ${category}:`, error)
+    categoryData.value[category] = []
+  }
+}
+
 const swiperRef = ref<any | null>(null) // SwiperCore 类型已更改
 function onSwiper(swiper: any) { // SwiperCore 类型已更改
   swiperRef.value = swiper
@@ -329,6 +458,8 @@ onMounted(() => {
   checkPC()
   window.addEventListener('resize', checkPC)
   fetchData()
+  // 初始化分类数据
+  loadCategoryData(selectedCategory.value)
 })
 
 const categoryColors = [
@@ -461,6 +592,15 @@ header.sticky {
   display: flex;
   align-items: center;
   background: #fff;
+}
+
+.category-swiper {
+  padding: 10px 0;
+}
+
+.category-swiper .swiper-slide {
+  height: auto;
+  background: transparent;
 }
 @media (max-width: 768px) {
   .swiper-slide {
