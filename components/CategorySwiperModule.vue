@@ -38,7 +38,7 @@
         @mouseenter="pauseCategoryAutoplay"
         @mouseleave="resumeCategoryAutoplay"
       >
-        <SwiperSlide v-for="item in currentCategoryItems" :key="item.id">
+        <SwiperSlide v-for="item in currentCategoryItems" :key="item.id" @click="goDetail(item.id)" style="cursor:pointer;">
           <div class="category-card group">
             <img
               :src="item.icon"
@@ -74,6 +74,8 @@ import { Swiper, SwiperSlide } from 'swiper/vue'
 import SwiperCore, { Autoplay } from 'swiper'
 import 'swiper/css'
 import 'swiper/css/autoplay'
+import { useRouter } from 'vue-router'
+const router = useRouter()
 SwiperCore.use([Autoplay])
 
 const props = defineProps<{
@@ -169,6 +171,10 @@ function onMouseMove(e: MouseEvent) {
 }
 function onMouseUp() {
   isMouseDown = false
+}
+
+function goDetail(id: string) {
+  router.push(`/app/${id}`)
 }
 
 onMounted(() => {

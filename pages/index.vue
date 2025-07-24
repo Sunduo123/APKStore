@@ -1,23 +1,6 @@
 <template>
   <div class="bg-gray-50 min-h-screen">
-    <!-- 头部导航 -->
-    <header
-      class="w-full z-50 bg-white shadow flex items-center justify-between px-4 md:px-12 h-16 md:h-20 fixed top-0 left-0"
-    >
-      <div class="flex items-center">
-        <img src="/logo/logo2.png" alt="logo" class="h-10 w-30 md:h-12 md:w-30 mr-2" loading="lazy" />
-      </div>
-      <div class="flex items-center gap-2 md:gap-4">
-        <button
-          :class="['tab-btn', tab==='app' ? 'active' : '']"
-          @click="tab='app'"
-        >应用程序</button>
-        <button
-          :class="['tab-btn', tab==='game' ? 'active' : '']"
-          @click="tab='game'"
-        >游戏</button>
-      </div>
-    </header>
+    <!-- 头部导航已移除，使用全局导航 -->
     <!-- 轮播图模块 -->
      <!-- 头部导航与轮播图之间留有25px间距 -->
     <div :style="(isPC ? 'padding-top:80px;' : 'padding-top:64px;') + ' margin-top:25px;'">
@@ -44,7 +27,7 @@
                 </div>
                 <!-- 右侧图片 50%，上下右8px间距，100%填充 -->
                 <div class="flex-[0_0_50%] h-full flex items-center justify-center pt-6 pb-6 pr-4 md:pt-4 md:pb-4 md:pr-4">
-                  <div class="w-full h-full rounded-2xl shadow overflow-hidden bg-gray-900">
+                  <div class="w-full h-full rounded-2xl shadow overflow-hidden bg-gray-900 cursor-pointer" @click="goBannerDetail(banner.img)">
                     <img :src="banner.img" alt="banner" class="w-full h-full object-cover" loading="lazy" />
                   </div>
                 </div>
@@ -70,11 +53,12 @@
               <div
                 v-for="cat in visibleCategories"
                 :key="cat"
-                class="flex items-center px-4 py-2 rounded-xl font-semibold text-white shadow cursor-pointer transition hover:scale-105"
+                class="flex items-center px-4 py-2 rounded-xl font-semibold text-white shadow cursor-pointer transition hover:scale-103 hover:shadow-lg"
                 :style="{ background: categoryColors[allCategories.indexOf(cat) % categoryColors.length] }"
+                @click="goCategory(cat)"
               >
-                <span class="mr-2 text-lg">{{ categoryIcons[cat] || '📦' }}</span>
-                <span class="truncate">{{ cat }}</span>
+                <span :class="['text-lg', isPC ? 'mr-2' : 'mx-auto']">{{ categoryIcons[cat] || '📦' }}</span>
+                <span v-if="isPC" class="truncate">{{ cat }}</span>
               </div>
             </div>
             <!-- 分割线和展开按钮 -->
@@ -126,7 +110,7 @@
           <div v-for="i in 12" :key="i" class="rounded-xl bg-gray-200 animate-pulse h-32 md:h-40"></div>
         </div>
         <div v-else class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-4">
-          <div v-for="item in showList" :key="item.id" class="bg-white rounded-xl shadow hover:shadow-lg transition flex flex-col items-center p-4 group">
+          <div v-for="item in showList" :key="item.id" class="bg-white rounded-xl shadow hover:shadow-lg transition flex flex-col items-center p-4 group" @click="goDetail(item.id)" style="cursor:pointer;">
             <img
               :src="item.icon"
               :alt="item.name"
@@ -174,12 +158,12 @@
       </div>
       
       <!-- 排行榜模块 -->
-      <div class="mt-10 flex flex-col md:flex-row gap-8 w-full">
+      <div class="mt-10 flex flex-col md:flex-row gap-8 w-full mb-16">
         <!-- 应用排行榜 --> 
         <div class="flex-1 bg-white rounded-3xl shadow-lg p-8">
           <div class="flex items-center justify-between mb-6">
             <h3 class="text-xl font-bold">编辑精选应用</h3>
-            <a href="#" class="text-blue-500 text-base hover:underline">查看更多 &gt;</a>
+            <a href="#" class="text-blue-500 text-base hover:underline" @click.prevent="goCategory(appCategoryOrder[0])">查看更多 &gt;</a>
           </div>
           <div>
             <div v-for="(item, idx) in appRankList" :key="item.id" class="flex items-center py-4 px-2 rounded-2xl hover:bg-gray-50 transition group mb-2">
@@ -197,7 +181,7 @@
                   <span class="text-sm text-gray-500 ml-2">{{ item.rating }}</span>
                 </div>
               </div>
-              <button class="ml-5 px-6 h-9 bg-blue-50 text-blue-600 rounded-full font-bold text-base border border-blue-100 hover:bg-blue-100 transition shadow">得到</button>
+              <button class="ml-5 px-6 h-9 bg-blue-50 text-blue-600 rounded-full font-bold text-base border border-blue-100 hover:bg-blue-100 transition shadow" @click.stop="goDetail(item.id)">得到</button>
             </div>
           </div>
         </div>
@@ -205,7 +189,7 @@
         <div class="flex-1 bg-white rounded-3xl shadow-lg p-8">
           <div class="flex items-center justify-between mb-6">
             <h3 class="text-xl font-bold">编辑精选游戏</h3>
-            <a href="#" class="text-blue-500 text-base hover:underline">查看更多 &gt;</a>
+            <a href="#" class="text-blue-500 text-base hover:underline" @click.prevent="goCategory(gameCategoryOrder[0])">查看更多 &gt;</a>
           </div>
           <div>
             <div v-for="(item, idx) in gameRankList" :key="item.id" class="flex items-center py-4 px-2 rounded-2xl hover:bg-gray-50 transition group mb-2">
@@ -223,7 +207,7 @@
                   <span class="text-sm text-gray-500 ml-2">{{ item.rating }}</span>
                 </div>
               </div>
-              <button class="ml-5 px-6 h-9 bg-blue-50 text-blue-600 rounded-full font-bold text-base border border-blue-100 hover:bg-blue-100 transition shadow">得到</button>
+              <button class="ml-5 px-6 h-9 bg-blue-50 text-blue-600 rounded-full font-bold text-base border border-blue-100 hover:bg-blue-100 transition shadow" @click.stop="goDetail(item.id)">得到</button>
             </div>
           </div>
         </div>
@@ -240,6 +224,26 @@ import 'swiper/css';
 import 'swiper/css/autoplay';
 SwiperCore.use([Autoplay]);
 import CategorySwiperModule from '~/components/CategorySwiperModule.vue';
+import { useRouter } from 'nuxt/app'
+const router = useRouter()
+function goDetail(id: string) {
+  router.push(`/app/${id}`)
+}
+function goCategory(cat) {
+  router.push(`/category/${cat}`)
+}
+function goBannerDetail(img: string) {
+  const map: Record<string, string> = {
+    '/App_img/1.png': '/app/55c5027502ac64f9c0001fa6',
+    '/App_img/2.png': '/app/56cbbce9d48401b048003405',
+    '/App_img/3.png': '/app/55c527c302ac64f9c0002b18',
+    '/games_img/1.png': '/app/66b1f458d72cf61108f8c2c6',
+    '/games_img/2.png': '/app/5d0355893ea9832c13e157d2',
+    '/games_img/3.png': '/app/64870d70b3ae27253f16c069',
+  };
+  const url = map[img];
+  if (url) router.push(url);
+}
 const tab = ref<'app'|'game'>('app')
 const isPC = ref(true)
 const loading = ref(true) 
