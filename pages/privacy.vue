@@ -1,40 +1,19 @@
 <template>
-  <div class="legal-page">
-    <h1 class="legal-title">隐私政策</h1>
-    <section>
-      <h2>1. 接受隐私政策</h2>
-      <p>使用 APKStore 即表示您同意本隐私政策，允许我们按照本政策收集、使用和披露您的信息。如不同意，请停止使用本平台。</p>
-    </section>
-    <section>
-      <h2>2. 信息收集与使用</h2>
-      <ul>
-        <li>我们不会主动收集您的个人敏感信息。</li>
-        <li>我们可能会收集设备信息、访问日志、浏览行为等用于统计分析和服务优化。</li>
-        <li>如通过社交媒体访问，请参见相关平台的隐私政策。</li>
-      </ul>
-    </section>
-    <section>
-      <h2>3. Cookie 与第三方服务</h2>
-      <ul>
-        <li>我们使用 Cookie 及第三方统计服务（如 Google Analytics）以提升服务体验。</li>
-        <li>Cookie 仅用于站点安全、统计分析及个性化推荐，不会用于追踪您的个人身份。</li>
-        <li>第三方服务可能会收集您的部分匿名信息，具体请参见其官方政策。</li>
-      </ul>
-    </section>
-    <section>
-      <h2>4. 信息安全</h2>
-      <ul>
-        <li>我们采取合理措施保护您的数据安全，防止数据丢失、滥用或被未授权访问。</li>
-        <li>如发生数据安全事件，我们会及时告知并协助处理。</li>
-      </ul>
-    </section>
-    <section>
-      <h2>5. 政策变更</h2>
-      <ul>
-        <li>本隐私政策如有变更，将在本页面及时更新。</li>
-        <li>如有疑问请通过邮箱 <a href="mailto:contact@apkstore.com" class="text-blue-600 underline">contact@apkstore.com</a> 联系我们。</li>
-      </ul>
-    </section>
+  <div class="container mx-auto px-4 py-8">
+    <h1 class="text-2xl font-bold mb-4">Privacy Policy</h1>
+    <p class="mb-2">
+      FlowAPK respects and protects your privacy. This policy explains how we collect, use, and protect your personal information:
+    </p>
+    <ul class="mb-2 list-disc pl-6">
+      <li>We do not actively collect any personal information from users.</li>
+      <li>All APK files and resources are collected from the Internet and are for personal study and research only.</li>
+      <li>We do not store, share, or sell any user data.</li>
+      <li>If you contact us, your email address will only be used for communication and will not be shared with third parties.</li>
+      <li>If you have any questions or concerns about privacy, please contact us at: <a href="mailto:support@flowapk.com" class="text-blue-500 underline">support@flowapk.com</a></li>
+    </ul>
+    <p class="mb-2">
+      We reserve the right to update this policy at any time. Please check this page regularly for the latest information.
+    </p>
   </div>
 </template>
 

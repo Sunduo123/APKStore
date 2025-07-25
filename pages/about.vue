@@ -1,24 +1,15 @@
 <template>
-  <div class="legal-page">
-    <h1 class="legal-title">关于我们</h1>
-    <section>
-      <h2>1. 平台简介</h2>
-      <p>APKStore 致力于为用户提供优质、丰富的安卓应用与游戏下载与发现服务。</p>
-    </section>
-    <section>
-      <h2>2. 我们的使命</h2>
-      <ul>
-        <li>专注于应用与游戏的收集、整理与推荐，帮助用户高效找到所需资源。</li>
-        <li>持续优化平台体验，提升服务质量。</li>
-      </ul>
-    </section>
-    <section>
-      <h2>3. 联系我们</h2>
-      <ul>
-        <li>如有合作、建议或侵权问题，请通过邮箱 <a href="mailto:contact@apkstore.com" class="text-blue-600 underline">contact@apkstore.com</a> 联系我们。</li>
-        <li>感谢您的支持与关注！</li>
-      </ul>
-    </section>
+  <div class="container mx-auto px-4 py-8">
+    <h1 class="text-2xl font-bold mb-4">About Us</h1>
+    <p class="mb-2">
+      FlowAPK is a platform dedicated to providing high-quality Android app and game downloads. We are committed to offering users a safe, fast, and convenient experience for discovering and obtaining the latest and most popular APK resources.
+    </p>
+    <p class="mb-2">
+      All resources on this site are collected from the Internet and are for personal study and research only. If your rights are infringed, please contact us and we will remove them as soon as possible.
+    </p>
+    <p class="mb-2">
+      Contact us: <a href="mailto:support@flowapk.com" class="text-blue-500 underline">support@flowapk.com</a>
+    </p>
   </div>
 </template>
 

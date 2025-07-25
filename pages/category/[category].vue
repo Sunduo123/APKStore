@@ -3,11 +3,11 @@
     <!-- 返回主页按钮 -->
     <button class="back-home-btn" @click="goHome">
       <svg class="w-5 h-5 mr-1" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7"/></svg>
-      返回主页
+      Back to Home
     </button>
     <!-- PC端 左侧 应用程序类 -->
     <aside class="category-side app-side pc-only">
-      <div class="side-title">Application Class</div>
+      <div class="side-title">App Categories</div>
       <div class="category-list">
         <div v-for="cat in appCategoryOrder" :key="cat" :class="['category-item', cat === category ? 'active' : '']" @click="goCategory(cat)">
           <span class="cat-icon">{{ categoryIcons[cat] || '📦' }}</span>
@@ -34,7 +34,7 @@
     </main>
     <!-- PC端 右侧 游戏类 -->
     <aside class="category-side game-side pc-only">
-      <div class="side-title">Games</div>
+      <div class="side-title">Game Categories</div>
       <div class="category-list">
         <div v-for="cat in gameCategoryOrder" :key="cat" :class="['category-item', cat === category ? 'active' : '']" @click="goCategory(cat)">
           <span class="cat-icon">{{ categoryIcons[cat] || '📦' }}</span>
@@ -45,7 +45,7 @@
     <!-- 移动端底部宫格导航 -->
     <div class="mobile-bottom-category mobile-only">
       <div class="category-block">
-        <div class="block-title">🌟 应用类别</div>
+        <div class="block-title">🌟 App Categories</div>
         <div class="grid-nav">
           <div v-for="cat in appCategoryOrder" :key="cat" class="grid-item" @click="goCategory(cat)">
             <div class="icon">{{ categoryIcons[cat] || '📦' }}</div>
@@ -54,7 +54,7 @@
         </div>
       </div>
       <div class="category-block">
-        <div class="block-title">🌟 游戏类别</div>
+        <div class="block-title">🌟 Game Categories</div>
         <div class="grid-nav">
           <div v-for="cat in gameCategoryOrder" :key="cat" class="grid-item" @click="goCategory(cat)">
             <div class="icon">{{ categoryIcons[cat] || '📦' }}</div>
@@ -84,14 +84,42 @@ const gameCategoryOrder = [
   'arcade', 'action', 'adventure', 'card', 'casual', 'puzzle', 'racing', 'role-playing', 'simulation', 'sport', 'strategy', 'trivia', 'board', 'top_free_games', 'entertainment', 'comics'
 ]
 const categoryDisplayMap: Record<string, string> = {
-  'ai_powerhouse': 'AI应用', 'art-design': '艺术设计', 'auto-vehicles': '汽车交通', 'word': '单词',
-  'video-players-editors': '视频编辑', 'business': '商业', 'educational': '教育', 'essential_apps': '必备应用',
-  'events': '事件', 'finance': '金融', 'health-fitness': '健康', 'hot_apps': '热门应用', 'house-home': '家居',
-  'music': '音乐', 'news-magazines': '新闻杂志', 'photography': '摄影', 'Shopping': '购物', 'social': '社交',
-  'top_downloads': '下载排行', 'top_free_apps': '免费应用',
-  'arcade': '街机', 'action': '动作', 'adventure': '冒险', 'card': '卡牌', 'casual': '休闲', 'puzzle': '解谜',
-  'racing': '赛车', 'role-playing': '角色扮演', 'simulation': '模拟', 'sport': '体育', 'strategy': '策略',
-  'trivia': '益智', 'board': '棋盘', 'top_free_games': '免费游戏', 'entertainment': '娱乐', 'comics': '漫画',
+  'ai_powerhouse': 'AI',
+  'art-design': 'Art',
+  'auto-vehicles': 'Auto',
+  'word': 'Word',
+  'video-players-editors': 'Video',
+  'business': 'Business',
+  'educational': 'Education',
+  'essential_apps': 'Essentials',
+  'events': 'Events',
+  'finance': 'Finance',
+  'health-fitness': 'Health',
+  'hot_apps': 'Hot',
+  'house-home': 'Home',
+  'music': 'Music',
+  'news-magazines': 'News',
+  'photography': 'Photo',
+  'Shopping': 'Shopping',
+  'social': 'Social',
+  'top_downloads': 'Top',
+  'top_free_apps': 'Free Apps',
+  'arcade': 'Arcade',
+  'action': 'Action',
+  'adventure': 'Adventure',
+  'card': 'Card',
+  'casual': 'Casual',
+  'puzzle': 'Puzzle',
+  'racing': 'Racing',
+  'role-playing': 'RPG',
+  'simulation': 'Sim',
+  'sport': 'Sport',
+  'strategy': 'Strategy',
+  'trivia': 'Trivia',
+  'board': 'Board',
+  'top_free_games': 'Free Games',
+  'entertainment': 'Fun',
+  'comics': 'Comics',
 }
 const categoryIcons: Record<string, string> = {
   'ai_powerhouse': '🤖', 'art-design': '🎨', 'auto-vehicles': '🚗', 'word': '🔤', 'video-players-editors': '🎬',

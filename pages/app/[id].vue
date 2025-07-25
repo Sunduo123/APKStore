@@ -14,15 +14,15 @@
         </div>
         <!-- 2. 关键信息表格 -->
         <div class="info-table-gp">
-          <div class="info-row-gp"><div class="info-label-gp">安装</div><div class="info-value-gp">{{ appData.downloads }}</div></div>
-          <div class="info-row-gp"><div class="info-label-gp">开发人员</div><div class="info-value-gp">{{ appData.developer }}</div></div>
-          <div class="info-row-gp"><div class="info-label-gp">类别</div><div class="info-value-gp">{{ appData.category }}</div></div>
-          <div class="info-row-gp"><div class="info-label-gp">适用年龄</div><div class="info-value-gp">{{ appData.age }}</div></div>
-          <div class="info-row-gp"><div class="info-label-gp">开发者邮箱</div><div class="info-value-gp"><a :href="`mailto:${appData.email || 'support@example.com'}`">{{ appData.email || 'support@example.com' }}</a></div></div>
-          <div class="info-row-gp"><div class="info-label-gp">隐私政策</div><div class="info-value-gp"><a :href="appData.privacy_url || 'https://example.com/privacy'" target="_blank">{{ appData.privacy_url || 'https://example.com/privacy' }}</a></div></div>
+          <div class="info-row-gp"><div class="info-label-gp">Installs</div><div class="info-value-gp">{{ appData.downloads }}</div></div>
+          <div class="info-row-gp"><div class="info-label-gp">Developer</div><div class="info-value-gp">{{ appData.developer }}</div></div>
+          <div class="info-row-gp"><div class="info-label-gp">Category</div><div class="info-value-gp">{{ appData.category }}</div></div>
+          <div class="info-row-gp"><div class="info-label-gp">Age Rating</div><div class="info-value-gp">{{ appData.age }}</div></div>
+          <div class="info-row-gp"><div class="info-label-gp">Developer Email</div><div class="info-value-gp"><a :href="`mailto:${appData.email || 'support@example.com'}`">{{ appData.email || 'support@example.com' }}</a></div></div>
+          <div class="info-row-gp"><div class="info-label-gp">Privacy Policy</div><div class="info-value-gp"><a :href="appData.privacy_url || 'https://example.com/privacy'" target="_blank">{{ appData.privacy_url || 'https://example.com/privacy' }}</a></div></div>
         </div>
         <!-- 3. 截图区 -->
-        <div class="screenshot-title-mobile">截图</div>
+        <div class="screenshot-title-mobile">Screenshots</div>
         <swiper
           :slides-per-view="2.2"
           :space-between="12"
@@ -43,7 +43,7 @@
         </swiper>
         <!-- 4. 下载按钮 -->
         <div class="download-section-gp">
-          <div class="download-title-gp">下载{{ appData.name }}最新版最新</div>
+          <div class="download-title-gp">Download the latest version of {{ appData.name }}</div>
           <a
             class="download-btn-gp"
             :href="appData.download_url"
@@ -52,7 +52,7 @@
             rel="noopener"
           >
             <span class="download-icon-gp">⬇</span>
-            下载最新的 Apk
+            Download latest Apk
           </a>
         </div>
         <!-- 5. 核心功能/优点/缺点/价格 -->
@@ -61,14 +61,14 @@
             <div class="feature-title-mobile">{{ group.type }}</div>
             <ul>
               <li v-for="item in group.items" :key="item.title">
-                <b>{{ item.title }}：</b>{{ item.description }}
+                <b>{{ item.title }}: </b>{{ item.description }}
               </li>
             </ul>
           </div>
         </div>
         <!-- 6. 推荐应用 -->
         <div class="recommend-list-mobile">
-          <div class="recommend-list-title-mobile">推荐应用</div>
+          <div class="recommend-list-title-mobile">Recommended Apps</div>
           <div v-for="item in recommendList.slice(0, 10)" :key="item.id" class="recommend-list-item-mobile" @click="goDetail(item.id)">
             <img :src="item.icon" :alt="item.name" class="recommend-list-icon-mobile" loading="lazy" />
             <div class="recommend-list-info-mobile">
@@ -79,12 +79,12 @@
                 <span class="score">{{ item.rating }}</span>
               </div>
             </div>
-            <button class="recommend-list-btn-mobile" @click.stop="goDetail(item.id)">得到</button>
+            <button class="recommend-list-btn-mobile" @click.stop="goDetail(item.id)">Get</button>
           </div>
         </div>
         <!-- 7. 你可能喜欢 -->
         <div class="recommend-list-mobile">
-          <div class="recommend-list-title-mobile">你可能喜欢</div>
+          <div class="recommend-list-title-mobile">You may also like</div>
           <div v-for="item in likeList.slice(0, 10)" :key="item.id + '-like'" class="recommend-list-item-mobile" @click="goDetail(item.id)">
             <img :src="item.icon" :alt="item.name" class="recommend-list-icon-mobile" loading="lazy" />
             <div class="recommend-list-info-mobile">
@@ -95,19 +95,19 @@
                 <span class="score">{{ item.rating }}</span>
               </div>
             </div>
-            <button class="recommend-list-btn-mobile" @click.stop="goDetail(item.id)">得到</button>
+            <button class="recommend-list-btn-mobile" @click.stop="goDetail(item.id)">Get</button>
           </div>
         </div>
         <!-- 8. 免责声明 -->
         <div class="disclaimer-section">
-          <div class="disclaimer-title">免责声明</div>
+          <div class="disclaimer-title">Disclaimer</div>
           <ol class="disclaimer-list">
-            <li>Allofapk不代表任何开发者，也不代表任何App或游戏的开发者。</li>
-            <li>Allofapk 提供由我们自己的评论者撰写的应用程序自定义评论，以及这些应用程序的详细信息，例如开发者联系方式、评分和屏幕截图。</li>
-            <li>网站上出现的所有商标、注册商标、产品名称和公司名称或标识均归其各自所有者的财产。</li>
-            <li>Allofapk 遵守数字千年版权法案 (DMCA)，对符合 DMCA 和其他适用法律的涉嫌侵权通知作出回应。</li>
-            <li>如果您是开发者或版权所有者并希望删除您的信息，请联系 info@allofapk.com。</li>
-            <li>本网站上的所有信息均严格遵守 <a href="https://policies.google.com/ads" target="_blank">Google Ads 广告政策</a> 和 <a href="https://policies.google.com/technologies/ads" target="_blank">Google 垃圾软件政策</a> 的所有条款和条件。</li>
+            <li>Allofapk does not represent any developer, nor any app or game developer.</li>
+            <li>Allofapk provides custom app reviews written by our own reviewers, as well as details such as developer contact, ratings, and screenshots.</li>
+            <li>All trademarks, registered trademarks, product names, and company names or logos appearing on the website are the property of their respective owners.</li>
+            <li>Allofapk complies with the Digital Millennium Copyright Act (DMCA) and responds to alleged infringement notices in accordance with the DMCA and other applicable laws.</li>
+            <li>If you are a developer or copyright owner and wish to remove your information, please contact info@allofapk.com.</li>
+            <li>All information on this website strictly complies with all terms and conditions of the <a href="https://policies.google.com/ads" target="_blank">Google Ads Policy</a> and <a href="https://policies.google.com/technologies/ads" target="_blank">Google Malware Policy</a>.</li>
           </ol>
         </div>
       </div>
@@ -151,7 +151,7 @@
         </div>
         <!-- 手机端Google Play风格截图区 -->
         <div v-else>
-          <div class="screenshot-title-mobile">截图</div>
+          <div class="screenshot-title-mobile">Screenshots</div>
           <swiper
             :slides-per-view="2.2"
             :space-between="12"
@@ -177,32 +177,32 @@
           <div class="info-card-pc">
             <Icon icon="mdi:download" class="info-icon-pc" />
             <div class="info-main-pc">{{ appData.downloads }}</div>
-            <div class="info-label-pc">安装</div>
+            <div class="info-label-pc">Installs</div>
           </div>
           <div class="info-card-pc">
             <Icon icon="mdi:account" class="info-icon-pc" />
             <div class="info-main-pc">{{ appData.developer }}</div>
-            <div class="info-label-pc">开发人员</div>
+            <div class="info-label-pc">Developer</div>
           </div>
           <div class="info-card-pc">
             <Icon icon="mdi:apps" class="info-icon-pc" />
             <div class="info-main-pc">{{ appData.category }}</div>
-            <div class="info-label-pc">类别</div>
+            <div class="info-label-pc">Category</div>
           </div>
           <div class="info-card-pc">
             <Icon icon="mdi:star-outline" class="info-icon-pc" />
             <div class="info-main-pc">{{ appData.age }}</div>
-            <div class="info-label-pc">内容评级</div>
+            <div class="info-label-pc">Age Rating</div>
           </div>
           <div class="info-card-pc">
             <Icon icon="mdi:email" class="info-icon-pc" />
             <div class="info-main-pc"><a :href="`mailto:${appData.email || 'support@example.com'}`">{{ appData.email || 'support@example.com' }}</a></div>
-            <div class="info-label-pc">开发者邮箱</div>
+            <div class="info-label-pc">Developer Email</div>
           </div>
           <div class="info-card-pc">
             <Icon icon="mdi:web" class="info-icon-pc" />
             <div class="info-main-pc"><a :href="appData.privacy_url || 'https://example.com/privacy'" target="_blank">{{ appData.privacy_url || 'https://example.com/privacy' }}</a></div>
-            <div class="info-label-pc">隐私政策</div>
+            <div class="info-label-pc">Privacy Policy</div>
           </div>
         </div>
         <!-- features分组全部渲染 -->
@@ -211,14 +211,14 @@
             <div class="section-title">{{ group.type }}</div>
             <ul class="section-list">
               <li v-for="item in group.items" :key="item.title">
-                <b>{{ item.title }}：</b>{{ item.description }}
+                <b>{{ item.title }}: </b>{{ item.description }}
               </li>
             </ul>
           </div>
         </div>
         <!-- 4. 下载按钮（蓝色大按钮风格） -->
         <div class="download-section-gp">
-          <div class="download-title-gp">下载{{ appData.name }}最新版最新</div>
+          <div class="download-title-gp">Download the latest version of {{ appData.name }}</div>
           <a
             class="download-btn-gp"
             :href="appData.download_url"
@@ -227,12 +227,12 @@
             rel="noopener"
           >
             <span class="download-icon-gp">⬇</span>
-            下载最新的 Apk
+            Download latest Apk
           </a>
         </div>
         <!-- 推荐应用 -->
         <div class="recommend-section3">
-          <div class="recommend-title3">推荐应用</div>
+          <div class="recommend-title3">Recommended Apps</div>
           <div class="recommend-grid">
             <div v-for="item in recommendList.slice(0, 15)" :key="item.id" class="recommend-card3" @click="goDetail(item.id)" style="cursor:pointer;">
               <img :src="item.icon" :alt="item.name" class="recommend-icon3" loading="lazy" />
@@ -249,7 +249,7 @@
         </div>
         <!-- 你可能喜欢 -->
         <div class="recommend-section3">
-          <div class="recommend-title3">你可能喜欢</div>
+          <div class="recommend-title3">You may also like</div>
           <div class="recommend-grid">
             <div v-for="item in likeList" :key="item.id + '-like'" class="recommend-card3" @click="goDetail(item.id)" style="cursor:pointer;">
               <img :src="item.icon" :alt="item.name" class="recommend-icon3" loading="lazy" />
@@ -266,14 +266,14 @@
         </div>
         <!-- 免责声明 -->
         <div class="disclaimer-section">
-          <div class="disclaimer-title">免责声明</div>
+          <div class="disclaimer-title">Disclaimer</div>
           <ol class="disclaimer-list">
-            <li>Allofapk不代表任何开发者，也不代表任何App或游戏的开发者。</li>
-            <li>Allofapk 提供由我们自己的评论者撰写的应用程序自定义评论，以及这些应用程序的详细信息，例如开发者联系方式、评分和屏幕截图。</li>
-            <li>网站上出现的所有商标、注册商标、产品名称和公司名称或标识均归其各自所有者的财产。</li>
-            <li>Allofapk 遵守数字千年版权法案 (DMCA)，对符合 DMCA 和其他适用法律的涉嫌侵权通知作出回应。</li>
-            <li>如果您是开发者或版权所有者并希望删除您的信息，请联系 info@allofapk.com。</li>
-            <li>本网站上的所有信息均严格遵守 <a href="https://policies.google.com/ads" target="_blank">Google Ads 广告政策</a> 和 <a href="https://policies.google.com/technologies/ads" target="_blank">Google 垃圾软件政策</a> 的所有条款和条件。</li>
+            <li>Allofapk does not represent any developer, nor any app or game developer.</li>
+            <li>Allofapk provides custom app reviews written by our own reviewers, as well as details such as developer contact, ratings, and screenshots.</li>
+            <li>All trademarks, registered trademarks, product names, and company names or logos appearing on the website are the property of their respective owners.</li>
+            <li>Allofapk complies with the Digital Millennium Copyright Act (DMCA) and responds to alleged infringement notices in accordance with the DMCA and other applicable laws.</li>
+            <li>If you are a developer or copyright owner and wish to remove your information, please contact info@allofapk.com.</li>
+            <li>All information on this website strictly complies with all terms and conditions of the <a href="https://policies.google.com/ads" target="_blank">Google Ads Policy</a> and <a href="https://policies.google.com/technologies/ads" target="_blank">Google Malware Policy</a>.</li>
           </ol>
         </div>
       </div>

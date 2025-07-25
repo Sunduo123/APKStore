@@ -39,10 +39,10 @@
       <!-- 轮播图下方与热门类别之间留有10px间距 -->
       <div style="height:10px;"></div>
     </div>
-    <!-- 热门类别模块 -->
+    <!-- Popular Categories -->
     <div class="container mx-auto px-2 md:px-8">
       <div class="py-6 relative group">
-        <h2 class="text-xl md:text-2xl font-bold mb-4">热门类别</h2>
+        <h2 class="text-xl md:text-2xl font-bold mb-4">Popular Categories</h2>
         <div class="flex items-center relative w-full">
           <div class="w-full overflow-visible px-0">
             <div
@@ -53,12 +53,20 @@
               <div
                 v-for="cat in visibleCategories"
                 :key="cat"
-                class="flex items-center px-4 py-2 rounded-xl font-semibold text-white shadow cursor-pointer transition hover:scale-103 hover:shadow-lg"
+                class="flex items-center px-3 py-1 text-sm rounded-full font-semibold text-white shadow cursor-pointer transition hover:scale-103 hover:shadow-lg"
                 :style="{ background: categoryColors[allCategories.indexOf(cat) % categoryColors.length] }"
-                @click="goCategory(cat)"
+                @click="goCategory(String(cat))"
               >
-                <span :class="['text-lg', isPC ? 'mr-2' : 'mx-auto']">{{ categoryIcons[cat] || '📦' }}</span>
-                <span v-if="isPC" class="truncate">{{ cat }}</span>
+                <template v-if="isPC">
+                  <span class="text-lg mr-2">{{ categoryIcons[cat] || '📦' }}</span>
+                  <span class="truncate">{{ (tab === 'app' ? appCategoryDisplayMap[cat] : gameCategoryDisplayMap[cat]) || cat }}</span>
+                </template>
+                <template v-else>
+                  <span class="category-mobile-row">
+                    <span class="category-mobile-icon">{{ categoryIcons[cat] || '📦' }}</span>
+                    <span class="category-mobile-name">{{ (tab === 'app' ? appCategoryDisplayMap[cat] : gameCategoryDisplayMap[cat]) || cat }}</span>
+                  </span>
+                </template>
               </div>
             </div>
             <!-- 分割线和展开按钮 -->
@@ -104,13 +112,13 @@
         </div>
       </div>
       <!-- 热门应用模块 -->
-      <div class="py-6">
-        <h2 class="text-xl md:text-2xl font-bold mb-4">热门{{ tab==='app' ? '应用' : '游戏' }}</h2>
+      <div :class="[isPC ? 'py-6' : 'pt-6 pb-0']">
+        <h2 class="text-xl md:text-2xl font-bold mb-4">Popular {{ tab==='app' ? 'Apps' : 'Games' }}</h2>
         <div v-if="loading" class="grid grid-cols-2 md:grid-cols-6 gap-4">
           <div v-for="i in 12" :key="i" class="rounded-xl bg-gray-200 animate-pulse h-32 md:h-40"></div>
         </div>
         <div v-else class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-4">
-          <div v-for="item in showList" :key="item.id" class="bg-white rounded-xl shadow hover:shadow-lg transition flex flex-col items-center p-4 group" @click="goDetail(item.id)" style="cursor:pointer;">
+          <div v-for="item in showList" :key="item.id || item.name" class="bg-white rounded-xl shadow hover:shadow-lg transition flex flex-col items-center p-4 group" @click="goDetail(String(item.id))" style="cursor:pointer;">
             <img
               :src="item.icon"
               :alt="item.name"
@@ -162,14 +170,14 @@
         <!-- 应用排行榜 --> 
         <div class="flex-1 bg-white rounded-3xl shadow-lg p-8">
           <div class="flex items-center justify-between mb-6">
-            <h3 class="text-xl font-bold">编辑精选应用</h3>
-            <a href="#" class="text-blue-500 text-base hover:underline" @click.prevent="goCategory(appCategoryOrder[0])">查看更多 &gt;</a>
+            <h3 class="text-xl font-bold" style="margin-left:26px;margin-top: 10px;">Star Apps</h3>
+            <a href="#" class="text-blue-500 text-base hover:underline" @click.prevent="goCategory(String(appCategoryOrder[0]))" style="margin-right:26px;margin-top: 10px;">See More &gt;</a>
           </div>
           <div>
-            <div v-for="(item, idx) in appRankList" :key="item.id" class="flex items-center py-4 px-2 rounded-2xl hover:bg-gray-50 transition group mb-2">
+            <div v-for="(item, idx) in appRankList" :key="item.id" :class="['flex items-center py-4 px-2 rounded-2xl hover:bg-gray-50 transition group mb-2', isPC ? '' : 'ml-2']" @click="goDetail(String(item.id))" style="cursor:pointer;">
               <div class="w-8 text-xl text-gray-400 font-bold text-center">{{ idx + 1 }}</div>
               <img :src="item.icon" @error="onImgError" :alt="item.name" class="w-14 h-14 rounded-2xl object-cover mx-4 shadow-sm" loading="lazy" />
-              <div class="flex-1 min-w-0">
+              <div :class="['flex-1 min-w-0', isPC ? '' : 'ml-0']">
                 <div class="font-semibold text-lg truncate">{{ item.name }}</div>
                 <div class="text-sm text-gray-400 truncate">{{ item.developer }}</div>
                 <div class="flex items-center gap-1 mt-1">
@@ -181,18 +189,18 @@
                   <span class="text-sm text-gray-500 ml-2">{{ item.rating }}</span>
                 </div>
               </div>
-              <button class="ml-5 px-6 h-9 bg-blue-50 text-blue-600 rounded-full font-bold text-base border border-blue-100 hover:bg-blue-100 transition shadow" @click.stop="goDetail(item.id)">得到</button>
+              <!-- Get按钮已移除，卡片整体可点击 -->
             </div>
           </div>
         </div>
         <!-- 游戏排行榜 -->
         <div class="flex-1 bg-white rounded-3xl shadow-lg p-8">
           <div class="flex items-center justify-between mb-6">
-            <h3 class="text-xl font-bold">编辑精选游戏</h3>
-            <a href="#" class="text-blue-500 text-base hover:underline" @click.prevent="goCategory(gameCategoryOrder[0])">查看更多 &gt;</a>
+            <h3 class="text-xl font-bold" style="margin-left:26px;margin-top: 10px;" >Star Games</h3>
+            <a href="#" class="text-blue-500 text-base hover:underline" @click.prevent="goCategory(String(gameCategoryOrder[0]))" style="margin-right:26px;margin-top: 10px;">See More &gt;</a>
           </div>
           <div>
-            <div v-for="(item, idx) in gameRankList" :key="item.id" class="flex items-center py-4 px-2 rounded-2xl hover:bg-gray-50 transition group mb-2">
+            <div v-for="(item, idx) in gameRankList" :key="item.id" :class="['flex items-center py-4 px-2 rounded-2xl hover:bg-gray-50 transition group mb-2', isPC ? '' : 'ml-2']" @click="goDetail(String(item.id))" style="cursor:pointer;">
               <div class="w-8 text-xl text-gray-400 font-bold text-center">{{ idx + 1 }}</div>
               <img :src="item.icon" @error="onImgError" :alt="item.name" class="w-14 h-14 rounded-2xl object-cover mx-4 shadow-sm" loading="lazy" />
               <div class="flex-1 min-w-0">
@@ -207,7 +215,7 @@
                   <span class="text-sm text-gray-500 ml-2">{{ item.rating }}</span>
                 </div>
               </div>
-              <button class="ml-5 px-6 h-9 bg-blue-50 text-blue-600 rounded-full font-bold text-base border border-blue-100 hover:bg-blue-100 transition shadow" @click.stop="goDetail(item.id)">得到</button>
+              <!-- Get按钮已移除，卡片整体可点击 -->
             </div>
           </div>
         </div>
@@ -217,19 +225,27 @@
 </template>
 
 <script setup lang="ts">
-import { ref, computed, onMounted } from 'vue';
+import { ref, computed, onMounted, inject } from 'vue';
+import type { Ref } from 'vue';
+// @ts-ignore
 import SwiperCore, { Autoplay } from 'swiper';
+// @ts-ignore
+import type { Swiper as SwiperType } from 'swiper';
+// @ts-ignore
 import { Swiper, SwiperSlide } from 'swiper/vue';
 import 'swiper/css';
 import 'swiper/css/autoplay';
 SwiperCore.use([Autoplay]);
+// @ts-ignore
 import CategorySwiperModule from '~/components/CategorySwiperModule.vue';
+// 类型注释，防止TS报红
+// @ts-ignore
 import { useRouter } from 'nuxt/app'
 const router = useRouter()
 function goDetail(id: string) {
   router.push(`/app/${id}`)
 }
-function goCategory(cat) {
+function goCategory(cat: string) {
   router.push(`/category/${cat}`)
 }
 function goBannerDetail(img: string) {
@@ -244,7 +260,7 @@ function goBannerDetail(img: string) {
   const url = map[img];
   if (url) router.push(url);
 }
-const tab = ref<'app'|'game'>('app')
+const tab = inject('tab') as Ref<'app'|'game'>
 const isPC = ref(true)
 const loading = ref(true) 
 const appList = ref<any[]>([])
@@ -292,45 +308,45 @@ const gameCategoryOrder = [
   'arcade', 'action', 'adventure', 'card', 'casual', 'puzzle', 'racing', 'role-playing', 'simulation', 'sport', 'strategy', 'trivia', 'board', 'top_free_games', 'entertainment', 'comics'
 ]
 // 中文名映射
-const appCategoryDisplayMap = {
-  ai_powerhouse: 'AI应用',
-  'art-design': '艺术设计',
-  'auto-vehicles': '汽车交通',
-  word: '单词',
-  'video-players-editors': '视频编辑',
-  business: '商业',
-  educational: '教育',
-  essential_apps: '必备应用',
-  events: '事件',
-  finance: '金融',
-  'health-fitness': '健康',
-  hot_apps: '热门应用',
-  'house-home': '家居',
-  music: '音乐',
-  'news-magazines': '新闻杂志',
-  photography: '摄影',
-  Shopping: '购物',
-  social: '社交',
-  top_downloads: '下载排行',
-  top_free_apps: '免费应用',
+const appCategoryDisplayMap: Record<string, string> = {
+  ai_powerhouse: 'AI',
+  'art-design': 'Art',
+  'auto-vehicles': 'Auto',
+  word: 'Word',
+  'video-players-editors': 'Video',
+  business: 'Business',
+  educational: 'Education',
+  essential_apps: 'Essentials',
+  events: 'Events',
+  finance: 'Finance',
+  'health-fitness': 'Health',
+  hot_apps: 'Hot',
+  'house-home': 'Home',
+  music: 'Music',
+  'news-magazines': 'News',
+  photography: 'Photo',
+  Shopping: 'Shopping',
+  social: 'Social',
+  top_downloads: 'Top',
+  top_free_apps: 'Free Apps',
 };
-const gameCategoryDisplayMap = {
-  arcade: '街机',
-  action: '动作',
-  adventure: '冒险',
-  card: '卡牌',
-  casual: '休闲',
-  puzzle: '解谜',
-  racing: '赛车',
-  'role-playing': '角色扮演',
-  simulation: '模拟',
-  sport: '体育',
-  strategy: '策略',
-  trivia: '益智',
-  board: '棋盘',
-  top_free_games: '免费游戏',
-  entertainment: '娱乐',
-  comics: '漫画',
+const gameCategoryDisplayMap: Record<string, string> = {
+  arcade: 'Arcade',
+  action: 'Action',
+  adventure: 'Adventure',
+  card: 'Card',
+  casual: 'Casual',
+  puzzle: 'Puzzle',
+  racing: 'Racing',
+  'role-playing': 'RPG',
+  simulation: 'Sim',
+  sport: 'Sport',
+  strategy: 'Strategy',
+  trivia: 'Trivia',
+  board: 'Board',
+  top_free_games: 'Free Games',
+  entertainment: 'Fun',
+  comics: 'Comics',
 };
 // 统计所有类别（固定顺序，不再动态统计）
 const allCategories = computed(() => {
@@ -406,18 +422,18 @@ function selectCategory(category: string) {
 
 function getCategoryDisplayName(category: string): string {
   const displayNames: { [key: string]: string } = {
-    dating: '约会交友',
-    social: '社交',
-    communication: '通讯',
-    entertainment: '娱乐',
-    music: '音乐',
-    photography: '摄影',
-    action: '动作',
-    adventure: '冒险',
-    arcade: '街机',
-    casual: '休闲',
-    puzzle: '解谜',
-    racing: '赛车'
+    dating: 'Dating',
+    social: 'Social',
+    communication: 'Communication',
+    entertainment: 'Entertainment',
+    music: 'Music',
+    photography: 'Photography',
+    action: 'Action',
+    adventure: 'Adventure',
+    arcade: 'Arcade',
+    casual: 'Casual',
+    puzzle: 'Puzzle',
+    racing: 'Racing'
   }
   return displayNames[category] || category
 }
@@ -612,4 +628,53 @@ header.sticky {
     padding: 0;
   }
 }
+.category-name-mobile {
+  display: block;
+  color: #fff;
+  font-size: 0.98rem;
+  font-weight: 600;
+  margin-top: 4px;
+  text-align: center;
+  max-width: 80px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.category-mobile-row {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  gap: 8px;
+  overflow: hidden;
+}
+.category-mobile-icon {
+  font-size: 1.15rem;
+  margin-right: 4px;
+  flex-shrink: 0;
+}
+.category-mobile-name {
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 70px;
+}
+.flex-1 {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.1);
+  padding: 6px;
+}
+.category-nav-btn {
+  font-size: 0.92rem;
+  height: 29px;
+  min-height: 29px;
+  line-height: 1.1;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
 </style> 
